@@ -6449,6 +6449,55 @@
         ]
     },
     {
+        "skill_id": 952,
+        "skill_name": "모래 샤워○",
+        "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 속도가 약간 상승한다＜더트＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 651,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 351,
+                        "description": "앞의 우마무스메와 인접 3초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트",
+            "경쟁 상황",
+            "레이스 경과 시간"
+        ]
+    },
+    {
         "skill_id": 953,
         "skill_name": "공세",
         "ingame_description": "레이스 중반에 속도가 약간 상승한다 ＜작전・선행＞",
@@ -7001,6 +7050,83 @@
         "grade": "N",
         "skill_situations": null,
         "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1129,
+        "skill_name": "Spooky-Scary-Happy",
+        "ingame_description": "최종 직선에 들어왔을 때 전방이라면 속도가 약간 상승하고 앞뒤 각 2인까지의 우마무스메를 매우 조금 위축시킨다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1130,
+        "skill_name": "너무 존귀해서 되살아났다해!",
+        "ingame_description": "중반 코너에서 중위권 그룹 이후에 있을 때 근처에 우마무스메가 3인 이상 있으면 속도가 약간 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 964,
+        "skill_name": "만회하기",
+        "ingame_description": "레이스 중반에 후방에 있으면 속도가 약간 상승한다＜더트＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 653,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 355,
+                        "description": "순위 비율 50% 이상",
+                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트",
+            "순위",
+            "중반",
+            "중간순위",
+            "후방순위"
+        ]
     },
     {
         "skill_id": 244,
@@ -8977,6 +9103,57 @@
         ]
     },
     {
+        "skill_id": 892,
+        "skill_name": "권토중래",
+        "ingame_description": "레이스 중반에 후방에 있으면 속도가 상승한다＜더트＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 654,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 355,
+                        "description": "순위 비율 50% 이상",
+                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트",
+            "순위",
+            "중반",
+            "중간순위",
+            "후방순위"
+        ]
+    },
+    {
         "skill_id": 897,
         "skill_name": "자전일섬",
         "ingame_description": "직선에서 속도가 상승한다＜단거리＞",
@@ -9035,6 +9212,55 @@
             "각질",
             "도주",
             "중반"
+        ]
+    },
+    {
+        "skill_id": 917,
+        "skill_name": "우아한 모래 샤워",
+        "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 속도가 상승한다＜더트＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 652,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 351,
+                        "description": "앞의 우마무스메와 인접 3초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트",
+            "경쟁 상황",
+            "레이스 경과 시간"
         ]
     },
     {
@@ -9241,6 +9467,19 @@
             "중반",
             "추입"
         ]
+    },
+    {
+        "skill_id": 883,
+        "skill_name": "좋은 데에 들어왔어!",
+        "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 바람의 저항을 덜 받게 된다",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 279,
@@ -13942,6 +14181,32 @@
             "중간순위",
             "최종코너 진입이후"
         ]
+    },
+    {
+        "skill_id": 836,
+        "skill_name": "Spooky-Scary-Happy",
+        "ingame_description": "최종 직선에 들어왔을 때 전방이라면 속도가 상승하고 앞뒤 각 2인까지의 우마무스메를 조금 위축시킨다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 870,
+        "skill_name": "너무 존귀해서 되살아났다해!",
+        "ingame_description": "중반 코너에서 중위권 그룹 이후에 있을 때 근처에 우마무스메가 3인 이상 있으면 덕질 파워로 속도가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 873,
@@ -23158,6 +23423,47 @@
         ]
     },
     {
+        "skill_id": 1088,
+        "skill_name": "흙장난○",
+        "ingame_description": "경기장 상태가 포화나 불량인 레이스에 강해지며 스피드가 다소 상승한다 ＜더트＞",
+        "require_pt": 90,
+        "cool_time": 0.0,
+        "skill_type_id": 16,
+        "skill_type_name": "패시브 스피드 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 648,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 40
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 407,
+                        "description": "\"포화\" 또는 \"불량\" 상태의 경기장",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트"
+        ]
+    },
+    {
         "skill_id": 25,
         "skill_name": "첫 봄바람",
         "ingame_description": "봄철 레이스에 강해져서 스피드와 파워가 상승한다",
@@ -23368,6 +23674,52 @@
                     {
                         "skill_condition_id": 401,
                         "description": "파워 1000 이상, 1200 미만",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트"
+        ]
+    },
+    {
+        "skill_id": 1081,
+        "skill_name": "흙투성이 마이스터",
+        "ingame_description": "경기장 상태가 포화나 불량인 레이스에 강해지며 스피드와 파워가 상승한다 ＜더트＞",
+        "require_pt": 130,
+        "cool_time": 0.0,
+        "skill_type_id": 17,
+        "skill_type_name": "패시브 스피드 증가 (레어)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 649,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 60
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 60
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 407,
+                        "description": "\"포화\" 또는 \"불량\" 상태의 경기장",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -25778,6 +26130,54 @@
             "순위",
             "중반",
             "코스거리"
+        ]
+    },
+    {
+        "skill_id": 1062,
+        "skill_name": "압박감",
+        "ingame_description": "레이스 후반에 숨을 고르는 우마무스메를 약간 위축시킨다＜더트＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 25,
+        "skill_type_name": "속도 감소 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_decrease_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 650,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 13,
+                        "effect_name": "속도 디버프",
+                        "numeric_value": -0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 253,
+                        "description": "진행거리 비율 50% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 353,
+                        "description": "더트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 408,
+                        "description": "회복 스킬을 발동한 우마무스메가 있을 때",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "더트",
+            "남은 거리"
         ]
     },
     {
