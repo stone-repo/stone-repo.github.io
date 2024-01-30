@@ -33798,23 +33798,23 @@
     {
         "id": 4829,
         "event_title_id": 1636,
+        "keyword": "응, 제대로 보여주자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 4830,
+        "event_title_id": 1636,
         "keyword": "댄스 레슨",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 4830,
+        "id": 4831,
         "event_title_id": 1636,
         "keyword": "댄스 레슨 (마야노 탑건)",
         "source": "origin",
         "item_order": 0
-    },
-    {
-        "id": 4831,
-        "event_title_id": 1636,
-        "keyword": "그래, 제대로 보여주자!",
-        "source": "item",
-        "item_order": 1
     },
     {
         "id": 4832,
@@ -34729,7 +34729,7 @@
     {
         "id": 4962,
         "event_title_id": 1662,
-        "keyword": "어디서 겨루지?",
+        "keyword": "어디서 겨룰래?",
         "source": "item",
         "item_order": 1
     },
@@ -78474,6 +78474,699 @@
         "event_title_id": 5338,
         "keyword": "계획 실행인 거다!",
         "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11212,
+        "event_title_id": 5339,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11213,
+        "event_title_id": 5340,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11214,
+        "event_title_id": 5341,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11215,
+        "event_title_id": 5342,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11216,
+        "event_title_id": 5343,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11217,
+        "event_title_id": 5344,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11218,
+        "event_title_id": 5345,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11219,
+        "event_title_id": 5346,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11220,
+        "event_title_id": 5347,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11221,
+        "event_title_id": 5348,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11222,
+        "event_title_id": 5349,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11223,
+        "event_title_id": 5350,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11224,
+        "event_title_id": 5351,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11225,
+        "event_title_id": 5352,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11226,
+        "event_title_id": 5353,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11227,
+        "event_title_id": 5354,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11228,
+        "event_title_id": 5355,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11229,
+        "event_title_id": 5356,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11230,
+        "event_title_id": 5357,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11231,
+        "event_title_id": 5358,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11232,
+        "event_title_id": 5359,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11233,
+        "event_title_id": 5359,
+        "keyword": "거대 연날리기 대시",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11234,
+        "event_title_id": 5359,
+        "keyword": "신사에 소원 빌기",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11235,
+        "event_title_id": 5359,
+        "keyword": "『마짱 백인일수』",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11236,
+        "event_title_id": 5359,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11237,
+        "event_title_id": 5360,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11238,
+        "event_title_id": 5360,
+        "keyword": "힘을 주는 클로에 하버드 씨에게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11239,
+        "event_title_id": 5360,
+        "keyword": "천재 길고양이 핫토리 시노비마루에게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11240,
+        "event_title_id": 5360,
+        "keyword": "무한한 가능성을 가진 아리무라 씨에게",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11241,
+        "event_title_id": 5360,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11242,
+        "event_title_id": 5361,
+        "keyword": "바다로, 근성 있는 해삼을 찾으러",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11243,
+        "event_title_id": 5361,
+        "keyword": "산으로, 파워풀한 사슴벌레를 찾으러",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11244,
+        "event_title_id": 5361,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11245,
+        "event_title_id": 5361,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11246,
+        "event_title_id": 5361,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11247,
+        "event_title_id": 5361,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11248,
+        "event_title_id": 5362,
+        "keyword": "댄스 레슨 (애스턴 마짱)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11249,
+        "event_title_id": 5362,
+        "keyword": "댄스 레슨 애스턴 마짱",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11250,
+        "event_title_id": 5362,
+        "keyword": "그럼 반대로 더 늘려 보면 어떨까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11251,
+        "event_title_id": 5362,
+        "keyword": "쉬면서 머릿속을 정리하자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11252,
+        "event_title_id": 5362,
+        "keyword": "댄스레슨애스턴마짱",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11253,
+        "event_title_id": 5363,
+        "keyword": "도시 전설 이요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11254,
+        "event_title_id": 5363,
+        "keyword": "도시 전설, 이요?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11255,
+        "event_title_id": 5363,
+        "keyword": "작전을 짜는 게 능숙하네!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11256,
+        "event_title_id": 5363,
+        "keyword": "잽싸게 움직이니까 좋은 트레이닝일지도…?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11257,
+        "event_title_id": 5363,
+        "keyword": "도시전설이요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11258,
+        "event_title_id": 5364,
+        "keyword": "둘이 힘을 합치면 무적이구나!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11259,
+        "event_title_id": 5364,
+        "keyword": "뭐든 생각하기 나름인가",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11260,
+        "event_title_id": 5364,
+        "keyword": "밀어붙일 수 있을 때 밀어붙여요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11261,
+        "event_title_id": 5364,
+        "keyword": "밀어붙일수있을때밀어붙여요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11262,
+        "event_title_id": 5365,
+        "keyword": "홍보 스킬 향상, 도와줄게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11263,
+        "event_title_id": 5365,
+        "keyword": "연구에 대한 건 아무에게도 말 안 할게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11264,
+        "event_title_id": 5365,
+        "keyword": "SSB의 수수께끼를 쫓아라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11265,
+        "event_title_id": 5365,
+        "keyword": "SSB의 수수께끼를 쫓아라!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11266,
+        "event_title_id": 5365,
+        "keyword": "SSB의수수께끼를쫓아라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11267,
+        "event_title_id": 5366,
+        "keyword": "이걸 활용할 수 있을까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11268,
+        "event_title_id": 5366,
+        "keyword": "하나 새로운 발견을 했네!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11269,
+        "event_title_id": 5366,
+        "keyword": "바다의 마스코트 선배에요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11270,
+        "event_title_id": 5366,
+        "keyword": "바다의마스코트선배에요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11271,
+        "event_title_id": 5367,
+        "keyword": "오늘 같은 일이 없도록 반성할게요…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11272,
+        "event_title_id": 5367,
+        "keyword": "렌즈 너머에 무엇을 담나요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11273,
+        "event_title_id": 5367,
+        "keyword": "렌즈 너머에, 무엇을 담나요?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11274,
+        "event_title_id": 5367,
+        "keyword": "앞으로는 더 꼼꼼히 볼게!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11275,
+        "event_title_id": 5367,
+        "keyword": "렌즈너머에무엇을담나요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11276,
+        "event_title_id": 5368,
+        "keyword": "더욱 큰 존재가 된다면…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11277,
+        "event_title_id": 5368,
+        "keyword": "기념 촬영할까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11278,
+        "event_title_id": 5368,
+        "keyword": "멋진 하루였어",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11279,
+        "event_title_id": 5368,
+        "keyword": "언젠가 거물이 되더라도 말이죠",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11280,
+        "event_title_id": 5368,
+        "keyword": "언젠가 거물이 되더라도, 말이죠",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11281,
+        "event_title_id": 5368,
+        "keyword": "언젠가거물이되더라도말이죠",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11282,
+        "event_title_id": 5369,
+        "keyword": "대신 먹을 햄카츠를 사서 돌아갈까",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11283,
+        "event_title_id": 5369,
+        "keyword": "무사히 자라면 좋겠다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11284,
+        "event_title_id": 5369,
+        "keyword": "카케루마루 햄카츠 강탈 사건",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11285,
+        "event_title_id": 5369,
+        "keyword": "카케루마루햄카츠강탈사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11286,
+        "event_title_id": 5370,
+        "keyword": "마짱은 잊고 싶다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11287,
+        "event_title_id": 5370,
+        "keyword": "가혹한 특훈이었나 보구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11288,
+        "event_title_id": 5370,
+        "keyword": "이야기를 들어 보니 좀 관심이…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11289,
+        "event_title_id": 5370,
+        "keyword": "마짱은잊고싶다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11290,
+        "event_title_id": 5371,
+        "keyword": "반드시 쟁취하자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11291,
+        "event_title_id": 5371,
+        "keyword": "레이스에 영향이 갈 텐데 괜찮겠어?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11292,
+        "event_title_id": 5371,
+        "keyword": "왕관이라고 하면",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11293,
+        "event_title_id": 5371,
+        "keyword": "왕관이라고 하면…",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11294,
+        "event_title_id": 5371,
+        "keyword": "왕관이라고하면",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11295,
+        "event_title_id": 5372,
+        "keyword": "묶고 기억해서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11296,
+        "event_title_id": 5372,
+        "keyword": "오늘은 승부복을 입고 트레이닝하자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11297,
+        "event_title_id": 5372,
+        "keyword": "정말로 주목받을 때까지 간직해 두자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11298,
+        "event_title_id": 5372,
+        "keyword": "묶고기억해서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11299,
+        "event_title_id": 5373,
+        "keyword": "다른 직책을 생각해 볼까…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11300,
+        "event_title_id": 5373,
+        "keyword": "그래도 얼굴은 기억해 줬잖아!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11301,
+        "event_title_id": 5373,
+        "keyword": "마짱은 마짱이에요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11302,
+        "event_title_id": 5373,
+        "keyword": "마짱은마짱이에요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11303,
+        "event_title_id": 5374,
+        "keyword": "쿠킹 메모리즈",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11304,
+        "event_title_id": 5374,
+        "keyword": "네가 좋아하는 요리로 하자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11305,
+        "event_title_id": 5374,
+        "keyword": "겉모습이 임팩트가 있는 걸로 하자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11306,
+        "event_title_id": 5374,
+        "keyword": "쿠킹메모리즈",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11307,
+        "event_title_id": 5375,
+        "keyword": "어디 해 보자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11308,
+        "event_title_id": 5375,
+        "keyword": "여러모로 군침이 도는 것 같아요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11309,
+        "event_title_id": 5375,
+        "keyword": "이번에는 사양하자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11310,
+        "event_title_id": 5375,
+        "keyword": "여러모로군침이도는것같아요",
+        "source": "title",
         "item_order": 0
     }
 ]
