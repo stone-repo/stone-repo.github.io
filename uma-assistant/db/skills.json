@@ -14183,6 +14183,19 @@
         ]
     },
     {
+        "skill_id": 835,
+        "skill_name": "Silent letter",
+        "ingame_description": "남은 거리 400m 이하일 때 전방에서 따라잡히면 팬의 마음에 남는 달리기로 빠져나가기 쉬워진다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 836,
         "skill_name": "Spooky-Scary-Happy",
         "ingame_description": "최종 직선에 들어왔을 때 전방이라면 속도가 상승하고 앞뒤 각 2인까지의 우마무스메를 조금 위축시킨다",
