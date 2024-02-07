@@ -6401,6 +6401,73 @@
         ]
     },
     {
+        "skill_id": 944,
+        "skill_name": "향상심",
+        "ingame_description": "레이스 종반 직전에 2위 이후로 대기하며 선두로부터 2마신 이내라면 한동안 속도가 조금 상승한다＜작전・선행＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 659,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.05
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 327,
+                        "description": "선행",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 350,
+                        "description": "순위 2 이상",
+                        "extra_description": "2위~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 374,
+                        "description": "선두와의 거리 차이 5m 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 394,
+                        "description": "진행거리 비율 60% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선행",
+            "순위",
+            "중반",
+            "경쟁 상황",
+            "남은 거리",
+            "중간순위",
+            "후방순위",
+            "1위아닌전방"
+        ]
+    },
+    {
         "skill_id": 948,
         "skill_name": "안간힘",
         "ingame_description": "레이스 중반이 시작될 때 지구력을 많이 사용해서 속도가 다소 상승한다＜작전・도주＞",
@@ -9480,6 +9547,73 @@
         "grade": "R",
         "skill_situations": null,
         "skill_condition_tags": []
+    },
+    {
+        "skill_id": 911,
+        "skill_name": "풍운의 뜻",
+        "ingame_description": "레이스 종반 직전에 2위 이후로 대기하며 선두로부터 2마신 이내라면 한동안 속도가 다소 상승한다＜작전・선행＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 660,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.25
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 327,
+                        "description": "선행",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 350,
+                        "description": "순위 2 이상",
+                        "extra_description": "2위~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 374,
+                        "description": "선두와의 거리 차이 5m 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 394,
+                        "description": "진행거리 비율 60% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선행",
+            "순위",
+            "중반",
+            "경쟁 상황",
+            "남은 거리",
+            "중간순위",
+            "후방순위",
+            "1위아닌전방"
+        ]
     },
     {
         "skill_id": 279,
@@ -16609,6 +16743,156 @@
         ]
     },
     {
+        "skill_id": 1163,
+        "skill_name": "빛나는 바람",
+        "ingame_description": "레이스 전반에 대기하며, 최종 코너 후반에 전방이라면 장시간 가속력이 계속해서 매우 조금 상승하며, 2등이라면 효과가 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 655,
+                "duration": "4.8",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.07
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 381,
+                        "description": "최종 코너의 후반부",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 409,
+                        "description": "진행거리 비율 50% 동안 순위 비율 20% 이상 유지",
+                        "extra_description": "챔피언스 미팅 : 2~9위 | 팀 레이스 : 2~12위 | 풀 게이트 : 4~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 410,
+                        "description": "거리상 위치 백분율 50% 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 411,
+                        "description": "순위 2위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "skill_situation_id": 658,
+                "duration": "4.8",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.05
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 381,
+                        "description": "최종 코너의 후반부",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 409,
+                        "description": "진행거리 비율 50% 동안 순위 비율 20% 이상 유지",
+                        "extra_description": "챔피언스 미팅 : 2~9위 | 팀 레이스 : 2~12위 | 풀 게이트 : 4~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 410,
+                        "description": "거리상 위치 백분율 50% 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "최종 코너",
+            "최종코너 진입이후"
+        ]
+    },
+    {
+        "skill_id": 973,
+        "skill_name": "죽기살기",
+        "ingame_description": "라스트 스퍼트 때 중위권 그룹 이후에 있으면 지구력을 다소 사용해서 가속력이 약간 상승한다＜선입・장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 662,
+                "duration": "1.5",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": -0.02
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 315,
+                        "description": "라스트 스퍼트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "순위",
+            "장거리",
+            "중간순위",
+            "코스거리",
+            "후방순위",
+            "라스트스퍼트"
+        ]
+    },
+    {
         "skill_id": 358,
         "skill_name": "도망자",
         "ingame_description": "최종 코너에서 선두를 유지하기 쉬워진다＜작전・도주＞",
@@ -17595,6 +17879,71 @@
         ]
     },
     {
+        "skill_id": 926,
+        "skill_name": "무아몽중",
+        "ingame_description": "라스트 스퍼트 때 중위권 그룹 이후에 있으면 지구력을 다소 사용해서 가속력이 상승한다 ＜선입・장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 661,
+                "duration": "1.5",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": -0.02
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 315,
+                        "description": "라스트 스퍼트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "순위",
+            "장거리",
+            "중간순위",
+            "코스거리",
+            "후방순위",
+            "라스트스퍼트"
+        ]
+    },
+    {
         "skill_id": 371,
         "skill_name": "홍염 기어/LP1211-M",
         "ingame_description": "최종 코너 이후에서 전방에 있으면 기어를 바꿔 가속력이 상승한다",
@@ -18149,6 +18498,91 @@
             "직선",
             "최종 코너",
             "중간순위",
+            "최종코너 진입이후"
+        ]
+    },
+    {
+        "skill_id": 877,
+        "skill_name": "빛나는 바람",
+        "ingame_description": "레이스 전반에 대기하고, 최종 코너 후반에 전방이라면 장시간 가속력이 계속해서 아주 조금 상승하며, 2등이라면 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 6,
+        "skill_type_name": "가속력 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_accel_unique.png",
+        "grade": "U",
+        "skill_situations": [
+            {
+                "skill_situation_id": 656,
+                "duration": "8",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 381,
+                        "description": "최종 코너의 후반부",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 409,
+                        "description": "진행거리 비율 50% 동안 순위 비율 20% 이상 유지",
+                        "extra_description": "챔피언스 미팅 : 2~9위 | 팀 레이스 : 2~12위 | 풀 게이트 : 4~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 410,
+                        "description": "거리상 위치 백분율 50% 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 411,
+                        "description": "순위 2위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "skill_situation_id": 657,
+                "duration": "8",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.1
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 381,
+                        "description": "최종 코너의 후반부",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 409,
+                        "description": "진행거리 비율 50% 동안 순위 비율 20% 이상 유지",
+                        "extra_description": "챔피언스 미팅 : 2~9위 | 팀 레이스 : 2~12위 | 풀 게이트 : 4~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 410,
+                        "description": "거리상 위치 백분율 50% 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "최종 코너",
             "최종코너 진입이후"
         ]
     },
