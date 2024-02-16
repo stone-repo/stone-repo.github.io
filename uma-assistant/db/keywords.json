@@ -34715,7 +34715,7 @@
     {
         "id": 4960,
         "event_title_id": 1662,
-        "keyword": "서두를 필요 없어",
+        "keyword": "서두를 필요는 없어",
         "source": "item",
         "item_order": 2
     },
@@ -34729,7 +34729,7 @@
     {
         "id": 4962,
         "event_title_id": 1662,
-        "keyword": "어디서 겨룰래?",
+        "keyword": "어디서 겨루지?",
         "source": "item",
         "item_order": 1
     },
@@ -80034,6 +80034,398 @@
         "id": 11434,
         "event_title_id": 5430,
         "keyword": "포도주의 신과도 같이…",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11435,
+        "event_title_id": 5431,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11436,
+        "event_title_id": 5432,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11437,
+        "event_title_id": 5433,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11438,
+        "event_title_id": 5434,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11439,
+        "event_title_id": 5435,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11440,
+        "event_title_id": 5436,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11441,
+        "event_title_id": 5437,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11442,
+        "event_title_id": 5438,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11443,
+        "event_title_id": 5439,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11444,
+        "event_title_id": 5440,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11445,
+        "event_title_id": 5441,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11446,
+        "event_title_id": 5442,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11447,
+        "event_title_id": 5443,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11448,
+        "event_title_id": 5444,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11449,
+        "event_title_id": 5445,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11450,
+        "event_title_id": 5446,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11451,
+        "event_title_id": 5447,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11452,
+        "event_title_id": 5448,
+        "keyword": "",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11453,
+        "event_title_id": 5449,
+        "keyword": "명인 같았어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11454,
+        "event_title_id": 5449,
+        "keyword": "우마무스메의 마음이 전해졌어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11455,
+        "event_title_id": 5449,
+        "keyword": "옛날이야기도 에도스럽게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11456,
+        "event_title_id": 5449,
+        "keyword": "옛날이야기도 에도스럽게!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11457,
+        "event_title_id": 5449,
+        "keyword": "옛날이야기도에도스럽게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11458,
+        "event_title_id": 5450,
+        "keyword": "보는 눈이 있군",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11459,
+        "event_title_id": 5450,
+        "keyword": "전문성이 엿보여",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11460,
+        "event_title_id": 5450,
+        "keyword": "목욕탕에서 한바탕 땀을 흘리자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11461,
+        "event_title_id": 5450,
+        "keyword": "목욕탕에서 한바탕 땀을 흘리자!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11462,
+        "event_title_id": 5450,
+        "keyword": "목욕탕에서한바탕땀을흘리자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11463,
+        "event_title_id": 5451,
+        "keyword": "위축된 다리",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11464,
+        "event_title_id": 5451,
+        "keyword": "오늘은 우선 쉬자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11465,
+        "event_title_id": 5451,
+        "keyword": "일어나 버린 일은 어쩔 수 없다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11466,
+        "event_title_id": 5451,
+        "keyword": "위축된다리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11467,
+        "event_title_id": 5452,
+        "keyword": "화려하게 가마 배틀!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11468,
+        "event_title_id": 5452,
+        "keyword": "아이들과 함께 즐겁게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11469,
+        "event_title_id": 5452,
+        "keyword": "나아가라 가마를 덜컹대며",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11470,
+        "event_title_id": 5452,
+        "keyword": "나아가라! 가마를 덜컹대며",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11471,
+        "event_title_id": 5452,
+        "keyword": "나아가라가마를덜컹대며",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11472,
+        "event_title_id": 5453,
+        "keyword": "길 잃은 영혼이 흘러드는 곳",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11473,
+        "event_title_id": 5453,
+        "keyword": "산에서 전력을 다해 도망친다!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11474,
+        "event_title_id": 5453,
+        "keyword": "맹렬한 트레이닝으로 잊어버린다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11475,
+        "event_title_id": 5453,
+        "keyword": "길잃은영혼이흘러드는곳",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11476,
+        "event_title_id": 5454,
+        "keyword": "고맙다는 말을 듣고 싶어서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11477,
+        "event_title_id": 5455,
+        "keyword": "남을 도운 거니, 좀 더 자랑스러워해도 돼",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11478,
+        "event_title_id": 5455,
+        "keyword": "신의 계시였으려나?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11479,
+        "event_title_id": 5455,
+        "keyword": "기뻐하는 얼굴이 보고 싶어서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11480,
+        "event_title_id": 5455,
+        "keyword": "기뻐하는얼굴이보고싶어서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11481,
+        "event_title_id": 5456,
+        "keyword": "모두와 함께 웃고 싶어서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11482,
+        "event_title_id": 5457,
+        "keyword": "하나, 스스로를 돌아볼 것",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11483,
+        "event_title_id": 5458,
+        "keyword": "둘, 해야 할 바를 정할 것",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11484,
+        "event_title_id": 5459,
+        "keyword": "셋, 투지로 매료시킬 것",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11485,
+        "event_title_id": 5460,
+        "keyword": "일단 쉬는 게 어떨까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11486,
+        "event_title_id": 5460,
+        "keyword": "다른 공부법을 써 보는 게 어떨까",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11487,
+        "event_title_id": 5460,
+        "keyword": "상상해 보죠",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11488,
+        "event_title_id": 5460,
+        "keyword": "상상해보죠",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11489,
+        "event_title_id": 5461,
+        "keyword": "들려줘 보죠",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11490,
+        "event_title_id": 5462,
+        "keyword": "체험해 보죠",
         "source": "origin",
         "item_order": 0
     }
