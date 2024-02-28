@@ -7271,6 +7271,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1169,
+        "skill_name": "벼랑 끝에서 광기를 비웃어라",
+        "ingame_description": "최종 코너 이후에 추월하려고 하면 남은 거리 400m 이후에 좋은 위치에서 속도가 약간 상승하고, 인기가 낮을 경우 다소 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 244,
         "skill_name": "마일의 지배자",
         "ingame_description": "레이스 초반에 선두라면 거리를 벌리기 쉬워진다＜마일＞",
@@ -14804,6 +14817,19 @@
         "skill_id": 826,
         "skill_name": "『I'm possible』",
         "ingame_description": "남은 거리 200m 지점에서 선두가 아닐 때 선두와 4마신 이내라면 속도가 상승하고 2마신 이내에 있을 경우는 많이 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 855,
+        "skill_name": "벼랑 끝에서 광기를 비웃어라",
+        "ingame_description": "최종 코너 이후에 추월하려고 하면 남은 거리 400m 이후 좋은 위치에서 속도가 상승하고 인기가 낮을 경우 많이 상승한다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -24084,6 +24110,93 @@
         ]
     },
     {
+        "skill_id": 1090,
+        "skill_name": "모험심",
+        "ingame_description": "레이스에서 매우 드물게 더욱 힘을 발휘해서 스피드, 파워, 근성이 다소 상승한다 인기가 낮으면 힘을 발휘하기 쉬워진다",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 16,
+        "skill_type_name": "패시브 스피드 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 666,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 40
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 40
+                    },
+                    {
+                        "skill_effect_id": 10,
+                        "effect_name": "근성 보정",
+                        "numeric_value": 40
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 82,
+                        "description": "인기 순위 4위 이상",
+                        "extra_description": " ",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 413,
+                        "description": "발동 확률 30~60%",
+                        "extra_description": "인기가 낮아질수록 상승",
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "skill_situation_id": 667,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 40
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 40
+                    },
+                    {
+                        "skill_effect_id": 10,
+                        "effect_name": "근성 보정",
+                        "numeric_value": 40
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 382,
+                        "description": "인기 순위 4위 미만",
+                        "extra_description": "(1~3위)",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 414,
+                        "description": "발동 확률 15~30%",
+                        "extra_description": "인기가 낮아질수록 상승",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "인기",
+            "출전 정보"
+        ]
+    },
+    {
         "skill_id": 1088,
         "skill_name": "흙장난○",
         "ingame_description": "경기장 상태가 포화나 불량인 레이스에 강해지며 스피드가 다소 상승한다 ＜더트＞",
@@ -24277,6 +24390,93 @@
         ],
         "skill_condition_tags": [
             "경기장"
+        ]
+    },
+    {
+        "skill_id": 1079,
+        "skill_name": "승부사",
+        "ingame_description": "레이스에서 가끔 더욱 힘을 발휘해서 스피드, 파워, 근성이 많이 상승한다. 인기가 낮으면 힘을 발휘하기 쉬워진다",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 17,
+        "skill_type_name": "패시브 스피드 증가 (레어)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 668,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 80
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 80
+                    },
+                    {
+                        "skill_effect_id": 10,
+                        "effect_name": "근성 보정",
+                        "numeric_value": 80
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 82,
+                        "description": "인기 순위 4위 이상",
+                        "extra_description": " ",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 413,
+                        "description": "발동 확률 30~60%",
+                        "extra_description": "인기가 낮아질수록 상승",
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "skill_situation_id": 669,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 80
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 80
+                    },
+                    {
+                        "skill_effect_id": 10,
+                        "effect_name": "근성 보정",
+                        "numeric_value": 80
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 382,
+                        "description": "인기 순위 4위 미만",
+                        "extra_description": "(1~3위)",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 414,
+                        "description": "발동 확률 15~30%",
+                        "extra_description": "인기가 낮아질수록 상승",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "인기",
+            "출전 정보"
         ]
     },
     {
