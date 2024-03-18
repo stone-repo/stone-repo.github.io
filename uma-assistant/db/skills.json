@@ -6401,6 +6401,106 @@
         ]
     },
     {
+        "skill_id": 942,
+        "skill_name": "폭발하는 다리",
+        "ingame_description": "최종 직선에서 2위 이후에서 선두로부터 4마신 이내에 있으면 속도가 다소 상승한다＜작전・선입＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 676,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.25
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 350,
+                        "description": "순위 2 이상",
+                        "extra_description": "2위~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 412,
+                        "description": "선두와의 거리 차이 10m 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 415,
+                        "description": "최종 직선",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "순위",
+            "중간순위",
+            "후방순위",
+            "1위아닌전방"
+        ]
+    },
+    {
+        "skill_id": 943,
+        "skill_name": "달려들기",
+        "ingame_description": "레이스 후반에 추월하려고 하면 속도가 약간 상승한다＜선행/선입＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 675,
+                "duration": "2.4",
+                "effects": [],
+                "conditions": [
+                    {
+                        "skill_condition_id": 253,
+                        "description": "진행거리 비율 50% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 283,
+                        "description": "추격 활성화",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 416,
+                        "description": "선행 또는 선입",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "추격",
+            "남은 거리"
+        ]
+    },
+    {
         "skill_id": 944,
         "skill_name": "향상심",
         "ingame_description": "레이스 종반 직전에 2위 이후로 대기하며 선두로부터 2마신 이내라면 한동안 속도가 조금 상승한다＜작전・선행＞",
@@ -7295,6 +7395,75 @@
         "grade": "N",
         "skill_situations": null,
         "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1171,
+        "skill_name": "Queen's Lumination",
+        "ingame_description": "레이스 후반 직선에서 전방에 있으면 속도가 계속해서 아주 조금 상승하며, 선두에서 뒤에 있는 우마무스메와 가까울 경우 효과가 증가한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 956,
+        "skill_name": "끈질기게 버티기",
+        "ingame_description": "최종 직선에서 선두일 때 뒤로 1마신 이내에 우마무스메가 있으면 속도가 다소 상승한다 ＜작전・도주＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 671,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.25
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 231,
+                        "description": "선두",
+                        "extra_description": "1위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 254,
+                        "description": "후방과의 차이 1마신 이내",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 324,
+                        "description": "도주",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 415,
+                        "description": "최종 직선",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "도주",
+            "순위",
+            "경쟁 상황"
+        ]
     },
     {
         "skill_id": 244,
@@ -9488,6 +9657,19 @@
         ]
     },
     {
+        "skill_id": 908,
+        "skill_name": "톱기어",
+        "ingame_description": "최종 직선에서 2위 이후에서 선두로부터 4마신 이내에 있으면 속도가 많이 상승한다＜작전・선입＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 917,
         "skill_name": "우아한 모래 샤워",
         "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 속도가 상승한다＜더트＞",
@@ -9819,6 +10001,110 @@
             "중간순위",
             "후방순위",
             "1위아닌전방"
+        ]
+    },
+    {
+        "skill_id": 912,
+        "skill_name": "밟을 수 없는 그림자",
+        "ingame_description": "최종 직선에서 선두일 때 뒤로 1마신 이내에 우마무스메가 있으면 속도가 많이 상승한다 ＜작전・도주＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 672,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.45
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 231,
+                        "description": "선두",
+                        "extra_description": "1위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 254,
+                        "description": "후방과의 차이 1마신 이내",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 324,
+                        "description": "도주",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 415,
+                        "description": "최종 직선",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "도주",
+            "순위",
+            "경쟁 상황"
+        ]
+    },
+    {
+        "skill_id": 915,
+        "skill_name": "맹추격",
+        "ingame_description": "레이스 후반에 추월하려고 하면 속도가 상승한다＜선행/선입＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 674,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 253,
+                        "description": "진행거리 비율 50% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 283,
+                        "description": "추격 활성화",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 416,
+                        "description": "선행 또는 선입",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "추격",
+            "남은 거리"
         ]
     },
     {
@@ -14523,6 +14809,19 @@
         ]
     },
     {
+        "skill_id": 832,
+        "skill_name": "Queen's Lumination",
+        "ingame_description": "레이스 후반 직선에서 전방에 있으면 속도가 계속해서 다소 상승하며, 추가로 선두에서 뒤에 있는 우마무스메와 가까울 경우 효과가 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 835,
         "skill_name": "Silent letter",
         "ingame_description": "남은 거리 400m 이하일 때 전방에서 따라잡히면 팬의 마음에 남는 달리기로 빠져나가기 쉬워진다",
@@ -14899,6 +15198,19 @@
         "skill_id": 831,
         "skill_name": "Never Say Never",
         "ingame_description": "남은 거리 3m 지점에서 전방에 있으면 속도가 다소 상승하며, 더트 레이스에서 선두와 가까우면 추가로 다소 앞으로 나간다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 828,
+        "skill_name": "Into High Gear!",
+        "ingame_description": "레이스 중반 이후 내리막에서 중위권 그룹이면 언덕을 내려간 후 잠시 동안 속도가 상승하며 도쿄 경기장이라면 추가로 기어를 올린다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -17036,6 +17348,54 @@
             "종반",
             "중간순위",
             "후방순위"
+        ]
+    },
+    {
+        "skill_id": 978,
+        "skill_name": "진가 발휘",
+        "ingame_description": "레이스 종반 직전에 선두이거나 선두로부터 4마신 이내로 붙으면, 레이스 종반에 가속력이 약간 상승한다＜선행・장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 673,
+                "duration": "1.2",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 394,
+                        "description": "진행거리 비율 60% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 412,
+                        "description": "선두와의 거리 차이 10m 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중반",
+            "남은 거리"
         ]
     },
     {
