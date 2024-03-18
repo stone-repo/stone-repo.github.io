@@ -78437,16 +78437,16 @@
     {
         "id": 11206,
         "event_title_id": 5326,
-        "keyword": "예정이 있으니까 다음에",
+        "keyword": "나도 괜찮아?",
         "source": "item",
-        "item_order": 2
+        "item_order": 1
     },
     {
         "id": 11207,
         "event_title_id": 5326,
-        "keyword": "참가해도 되는 거야?",
+        "keyword": "일정이 있어서 다음에",
         "source": "item",
-        "item_order": 1
+        "item_order": 2
     },
     {
         "id": 11208,
@@ -81651,6 +81651,398 @@
         "id": 11665,
         "event_title_id": 5501,
         "keyword": "그대, 토마코마이를 사랑하는 친구를 사랑하라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11666,
+        "event_title_id": 5502,
+        "keyword": "다 같이 사러 가자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11667,
+        "event_title_id": 5502,
+        "keyword": "직접 만드는 게 확실할 것 같아…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11668,
+        "event_title_id": 5502,
+        "keyword": "목표는 퍼펙트 크리스마스",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11669,
+        "event_title_id": 5502,
+        "keyword": "목표는퍼펙트크리스마스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11670,
+        "event_title_id": 5503,
+        "keyword": "둘의 징글 벨",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11671,
+        "event_title_id": 5503,
+        "keyword": "둘의징글벨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11672,
+        "event_title_id": 5503,
+        "keyword": "목표는 퍼펙트 크리스마스 이벤트에서 1번째 선택지를 골랐을 때",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11673,
+        "event_title_id": 5503,
+        "keyword": "목표는 퍼펙트 크리스마스 이벤트에서 2번째 선택지를 골랐을 때",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11674,
+        "event_title_id": 5504,
+        "keyword": "꼭 마법을 보는 것 같았어!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11675,
+        "event_title_id": 5504,
+        "keyword": "몇 번이고 태양은 떠오른다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11676,
+        "event_title_id": 5504,
+        "keyword": "몇 번이고, 태양은 떠오른다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11677,
+        "event_title_id": 5504,
+        "keyword": "어쩐지 인형도 기뻐하는 것 같아",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11678,
+        "event_title_id": 5504,
+        "keyword": "몇번이고태양은떠오른다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11679,
+        "event_title_id": 5505,
+        "keyword": "네가 원하는 대로 크리스마스를 즐기자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11680,
+        "event_title_id": 5505,
+        "keyword": "기왕이면 다 같이 즐기자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11681,
+        "event_title_id": 5505,
+        "keyword": "보드카에게는 너무 이르다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11682,
+        "event_title_id": 5505,
+        "keyword": "보드카에게는너무이르다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11683,
+        "event_title_id": 5506,
+        "keyword": "크리스마스는 느닷없이",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11684,
+        "event_title_id": 5506,
+        "keyword": "크리스마스는 느닷없이?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11685,
+        "event_title_id": 5506,
+        "keyword": "크리스마스는느닷없이",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11686,
+        "event_title_id": 5506,
+        "keyword": "보드카에게는 너무 이르다 이벤트에서 1번째 선택지를 골랐을 때",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11687,
+        "event_title_id": 5506,
+        "keyword": "보드카에게는 너무 이르다 이벤트에서 2번째 선택지를 골랐을 때",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11688,
+        "event_title_id": 5507,
+        "keyword": "나도 멋있어지고 싶은데!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11689,
+        "event_title_id": 5507,
+        "keyword": "그래도 틀린 건 아니잖아",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11690,
+        "event_title_id": 5507,
+        "keyword": "멋지다는 건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11691,
+        "event_title_id": 5507,
+        "keyword": "멋지다는 건!?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11692,
+        "event_title_id": 5507,
+        "keyword": "멋지다는건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11693,
+        "event_title_id": 5508,
+        "keyword": "끈기 있게 익혔구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11694,
+        "event_title_id": 5508,
+        "keyword": "나도 열심히 배울게!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11695,
+        "event_title_id": 5508,
+        "keyword": "언제든 긍정적으로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11696,
+        "event_title_id": 5508,
+        "keyword": "언제든 긍정적으로!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11697,
+        "event_title_id": 5508,
+        "keyword": "언제든긍정적으로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11698,
+        "event_title_id": 5509,
+        "keyword": "가만히 놔두는 건…?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11699,
+        "event_title_id": 5509,
+        "keyword": "아래에서 바람을 일으켜 놀라게 하자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11700,
+        "event_title_id": 5509,
+        "keyword": "무엇이든 긍정적으로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11701,
+        "event_title_id": 5509,
+        "keyword": "무엇이든 긍정적으로!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11702,
+        "event_title_id": 5509,
+        "keyword": "무엇이든긍정적으로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11703,
+        "event_title_id": 5510,
+        "keyword": "너희도 어서 가!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11704,
+        "event_title_id": 5510,
+        "keyword": "혼돈에 떠오르는 도깨비불",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11705,
+        "event_title_id": 5510,
+        "keyword": "째깍대는 시계가 마지막 소릴 내기 전에…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11706,
+        "event_title_id": 5510,
+        "keyword": "혼돈에떠오르는도깨비불",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11707,
+        "event_title_id": 5511,
+        "keyword": "지금은 아직 그 빛을 모른다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11708,
+        "event_title_id": 5512,
+        "keyword": "표현이 서투른 둘",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11709,
+        "event_title_id": 5513,
+        "keyword": "이단아께서 오셨노라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11710,
+        "event_title_id": 5514,
+        "keyword": "허락 없이 들어서 미안합니다!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11711,
+        "event_title_id": 5514,
+        "keyword": "너의 다리가 힘이 돼",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11712,
+        "event_title_id": 5514,
+        "keyword": "어어, 그게…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11713,
+        "event_title_id": 5514,
+        "keyword": "너의다리가힘이돼",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11714,
+        "event_title_id": 5515,
+        "keyword": "지나간 그 밤, 별은 빛나고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11715,
+        "event_title_id": 5516,
+        "keyword": "그거 정말 어른스럽고 마블러스하네",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11716,
+        "event_title_id": 5517,
+        "keyword": "좋은 클럽이네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11717,
+        "event_title_id": 5517,
+        "keyword": "기운이 나는 비결 가르쳐 줄게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11718,
+        "event_title_id": 5517,
+        "keyword": "기운이 나는 비결, 가르쳐 줄게",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11719,
+        "event_title_id": 5517,
+        "keyword": "로렐의 라이브가 보고 싶어졌어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11720,
+        "event_title_id": 5517,
+        "keyword": "기운이나는비결가르쳐줄게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11721,
+        "event_title_id": 5518,
+        "keyword": "갇혀버렸, 네?",
         "source": "origin",
         "item_order": 0
     }
