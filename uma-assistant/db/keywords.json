@@ -46790,7 +46790,7 @@
     {
         "id": 6685,
         "event_title_id": 2193,
-        "keyword": "가끔은 이런 것도 좋네",
+        "keyword": "가끔은 이런 것도 좋군",
         "source": "item",
         "item_order": 1
     },
@@ -82044,6 +82044,552 @@
         "event_title_id": 5518,
         "keyword": "갇혀버렸, 네?",
         "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11722,
+        "event_title_id": 5519,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11723,
+        "event_title_id": 5519,
+        "keyword": "책을 사서 느긋하게 독서하자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11724,
+        "event_title_id": 5519,
+        "keyword": "신년의 거리를 둘러보자",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11725,
+        "event_title_id": 5519,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11726,
+        "event_title_id": 5519,
+        "keyword": "노점에서 먹고 마시자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11727,
+        "event_title_id": 5520,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11728,
+        "event_title_id": 5520,
+        "keyword": "명절 음식 뿌시기",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11729,
+        "event_title_id": 5520,
+        "keyword": "운을 하늘에 맡기고 운세 뽑기",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11730,
+        "event_title_id": 5520,
+        "keyword": "신년 세일에 쏟아붓기",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11731,
+        "event_title_id": 5520,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11732,
+        "event_title_id": 5521,
+        "keyword": "끈기 있는 요정",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11733,
+        "event_title_id": 5521,
+        "keyword": "기운찬 괴물",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11734,
+        "event_title_id": 5521,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11735,
+        "event_title_id": 5521,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11736,
+        "event_title_id": 5521,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11737,
+        "event_title_id": 5521,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11738,
+        "event_title_id": 5522,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11739,
+        "event_title_id": 5522,
+        "keyword": "댄스 레슨 (젠노 롭 로이)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11740,
+        "event_title_id": 5522,
+        "keyword": "핫한 차라도 마실까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11741,
+        "event_title_id": 5522,
+        "keyword": "음악을 더 핫하게 해 볼까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11742,
+        "event_title_id": 5522,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11743,
+        "event_title_id": 5523,
+        "keyword": "최고 속도로 도망쳐!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11744,
+        "event_title_id": 5523,
+        "keyword": "안경의 마법",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11745,
+        "event_title_id": 5523,
+        "keyword": "차분하게 정면으로 맞서자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11746,
+        "event_title_id": 5523,
+        "keyword": "안경의마법",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11747,
+        "event_title_id": 5524,
+        "keyword": "도서실 실험",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11748,
+        "event_title_id": 5524,
+        "keyword": "그럼… 『삼색 고양이 방랑기』",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11749,
+        "event_title_id": 5524,
+        "keyword": "『오키쿠 씨, 대륙을 먹어 치우다!』!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11750,
+        "event_title_id": 5524,
+        "keyword": "도서실실험",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11751,
+        "event_title_id": 5525,
+        "keyword": "왼쪽의 수프를 먹어 볼까",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11752,
+        "event_title_id": 5525,
+        "keyword": "함께하는 다과회",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11753,
+        "event_title_id": 5525,
+        "keyword": "오른쪽의 파이를 먹자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11754,
+        "event_title_id": 5525,
+        "keyword": "함께하는다과회",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11755,
+        "event_title_id": 5526,
+        "keyword": "좋은 시도였어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11756,
+        "event_title_id": 5526,
+        "keyword": "그림자에 숨은 자",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11757,
+        "event_title_id": 5526,
+        "keyword": "서두르지 말고 천천히 하자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11758,
+        "event_title_id": 5526,
+        "keyword": "그림자에숨은자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11759,
+        "event_title_id": 5527,
+        "keyword": "롭 로이만의 특기네!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11760,
+        "event_title_id": 5527,
+        "keyword": "길을 알고 인도하는 자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11761,
+        "event_title_id": 5527,
+        "keyword": "길을 알고, 인도하는 자",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11762,
+        "event_title_id": 5527,
+        "keyword": "다음에 안내 부탁할게!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11763,
+        "event_title_id": 5527,
+        "keyword": "길을알고인도하는자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11764,
+        "event_title_id": 5528,
+        "keyword": "또 한 걸음, 영웅에 가까워졌구나!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11765,
+        "event_title_id": 5528,
+        "keyword": "바로 축하 파티를 하자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11766,
+        "event_title_id": 5528,
+        "keyword": "좋아, 다음은 단독 이벤트 개최다!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11767,
+        "event_title_id": 5528,
+        "keyword": "용기의 불꽃을 올리는 자",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11768,
+        "event_title_id": 5528,
+        "keyword": "용기의불꽃을올리는자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11769,
+        "event_title_id": 5529,
+        "keyword": "취미가 같은 친구를 만나서 다행이다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11770,
+        "event_title_id": 5529,
+        "keyword": "즐거워 보여서 정말 다행이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11771,
+        "event_title_id": 5529,
+        "keyword": "이것도 저것도 그것도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11772,
+        "event_title_id": 5529,
+        "keyword": "이것도, 저것도, 그것도",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11773,
+        "event_title_id": 5529,
+        "keyword": "이것도저것도그것도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11774,
+        "event_title_id": 5530,
+        "keyword": "살짝 발돋움",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11775,
+        "event_title_id": 5530,
+        "keyword": "나도 이미지 좀 바꿔 볼까나?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11776,
+        "event_title_id": 5530,
+        "keyword": "마음의 준비가 되면 보여 줘",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11777,
+        "event_title_id": 5530,
+        "keyword": "살짝발돋움",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11778,
+        "event_title_id": 5531,
+        "keyword": "그 한 페이지는 몇 칼로리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11779,
+        "event_title_id": 5531,
+        "keyword": "그 한 페이지는 몇 칼로리?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11780,
+        "event_title_id": 5531,
+        "keyword": "네 페이스대로 먹으면 가능할 거야!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11781,
+        "event_title_id": 5531,
+        "keyword": "내가 대신 먹을까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11782,
+        "event_title_id": 5531,
+        "keyword": "그한페이지는몇칼로리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11783,
+        "event_title_id": 5532,
+        "keyword": "어떤 영웅이 될까 기대돼",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11784,
+        "event_title_id": 5532,
+        "keyword": "영웅은 이야기와 함께",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11785,
+        "event_title_id": 5532,
+        "keyword": "몸가짐을 계속 연습해 보자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11786,
+        "event_title_id": 5532,
+        "keyword": "영웅은이야기와함께",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11787,
+        "event_title_id": 5533,
+        "keyword": "롭 로이의 발표도 당당하고 좋았어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11788,
+        "event_title_id": 5533,
+        "keyword": "나의 검을 받아냈다면",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11789,
+        "event_title_id": 5533,
+        "keyword": "의외로 의젓한 누나인가?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11790,
+        "event_title_id": 5533,
+        "keyword": "나의검을받아냈다면",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11791,
+        "event_title_id": 5534,
+        "keyword": "많이 친해진 것 같더라",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11792,
+        "event_title_id": 5534,
+        "keyword": "영웅의 조건",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11793,
+        "event_title_id": 5534,
+        "keyword": "재밌어 보였어!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11794,
+        "event_title_id": 5534,
+        "keyword": "영웅의조건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11795,
+        "event_title_id": 5535,
+        "keyword": "차 마시면서 천천히 이야기하자…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11796,
+        "event_title_id": 5535,
+        "keyword": "이번 기회에 책을 빌려 주는 건 어때?",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 11797,
+        "event_title_id": 5535,
+        "keyword": "영웅과 패왕",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11798,
+        "event_title_id": 5535,
+        "keyword": "그렇게나 좋아하는 이야기구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11799,
+        "event_title_id": 5535,
+        "keyword": "영웅과패왕",
+        "source": "title",
         "item_order": 0
     }
 ]
