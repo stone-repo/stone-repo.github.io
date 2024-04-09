@@ -82591,5 +82591,208 @@
         "keyword": "영웅과패왕",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 11800,
+        "event_title_id": 5536,
+        "keyword": "감정 표현이 서투르네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11801,
+        "event_title_id": 5536,
+        "keyword": "언니를 소중히 여기는 구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11802,
+        "event_title_id": 5536,
+        "keyword": "맹세는 언제까지나",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11803,
+        "event_title_id": 5536,
+        "keyword": "맹세는언제까지나",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11804,
+        "event_title_id": 5537,
+        "keyword": "고기가 참 효과가 좋네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11805,
+        "event_title_id": 5537,
+        "keyword": "솔직하단 건 중요한 거구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11806,
+        "event_title_id": 5537,
+        "keyword": "불량하다 해도",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11807,
+        "event_title_id": 5537,
+        "keyword": "불량하다해도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11808,
+        "event_title_id": 5538,
+        "keyword": "잘 할 수 있겠어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11809,
+        "event_title_id": 5538,
+        "keyword": "좀 더 바람을 타고 싶다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11810,
+        "event_title_id": 5538,
+        "keyword": "바람은 자유",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11811,
+        "event_title_id": 5538,
+        "keyword": "바람은, 자유",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11812,
+        "event_title_id": 5538,
+        "keyword": "바람은자유",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11813,
+        "event_title_id": 5539,
+        "keyword": "상쾌할 것 같네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11814,
+        "event_title_id": 5539,
+        "keyword": "바람은 끝없이",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11815,
+        "event_title_id": 5539,
+        "keyword": "강해진 느낌이지 않을까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11816,
+        "event_title_id": 5539,
+        "keyword": "바람은, 끝없이",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11817,
+        "event_title_id": 5539,
+        "keyword": "바람은끝없이",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11818,
+        "event_title_id": 5540,
+        "keyword": "언제든 티엠 오페라 오",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11819,
+        "event_title_id": 5541,
+        "keyword": "모두의 티엠 오페라 오",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11820,
+        "event_title_id": 5541,
+        "keyword": "뭐라도 도와줄까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11821,
+        "event_title_id": 5541,
+        "keyword": "…반드시 보러 갈게!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11822,
+        "event_title_id": 5541,
+        "keyword": "모두의티엠오페라오",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11823,
+        "event_title_id": 5542,
+        "keyword": "바람이 부르는 곳으로",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11824,
+        "event_title_id": 5543,
+        "keyword": "깊은 풍미의 향기로운 바람",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11825,
+        "event_title_id": 5543,
+        "keyword": "자연에 대해 잘 아나… 보네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11826,
+        "event_title_id": 5543,
+        "keyword": "…맛있다니 다행이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11827,
+        "event_title_id": 5543,
+        "keyword": "깊은풍미의향기로운바람",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11828,
+        "event_title_id": 5544,
+        "keyword": "언젠가 꾼 꿈을",
+        "source": "origin",
+        "item_order": 0
     }
 ]
