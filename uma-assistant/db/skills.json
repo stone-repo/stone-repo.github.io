@@ -7479,6 +7479,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1173,
+        "skill_name": "회색 임계점",
+        "ingame_description": "종반 최종 코너 후반에 선두 그룹에 있으면 속도가 약간 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 244,
         "skill_name": "마일의 지배자",
         "ingame_description": "레이스 초반에 선두라면 거리를 벌리기 쉬워진다＜마일＞",
@@ -15247,6 +15260,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 864,
+        "skill_name": "회색 임계점",
+        "ingame_description": "종반 최종 코너 후반에 선두 그룹에 있으면 속도가 상승하며, 장거리 레이스에서 중반에 경합을 했을 경우에는 아주 많이 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 347,
         "skill_name": "교묘한 스텝",
         "ingame_description": "코스를 약간 매끄럽게 잡는다 ＜작전・선행＞",
@@ -18623,6 +18649,54 @@
             "코스거리",
             "후방순위",
             "라스트스퍼트"
+        ]
+    },
+    {
+        "skill_id": 920,
+        "skill_name": "괴물",
+        "ingame_description": "레이스 종반 직전에 선두이거나 선두로부터 4마신 이내로 붙으면, 레이스 종반에 가속력이 상승한다＜선행・장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 677,
+                "duration": "1.2",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 394,
+                        "description": "진행거리 비율 60% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 412,
+                        "description": "선두와의 거리 차이 10m 이하",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중반",
+            "남은 거리"
         ]
     },
     {
