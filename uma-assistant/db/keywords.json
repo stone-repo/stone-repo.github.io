@@ -82794,5 +82794,208 @@
         "keyword": "언젠가 꾼 꿈을",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 11829,
+        "event_title_id": 5545,
+        "keyword": "한 곡 더, 앙코르!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11830,
+        "event_title_id": 5545,
+        "keyword": "완벽해!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11831,
+        "event_title_id": 5545,
+        "keyword": "훌륭하다 개운 도우미",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11832,
+        "event_title_id": 5545,
+        "keyword": "훌륭하다! 개운 도우미",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11833,
+        "event_title_id": 5545,
+        "keyword": "훌륭하다개운도우미",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11834,
+        "event_title_id": 5546,
+        "keyword": "전통 모더니즘",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11835,
+        "event_title_id": 5546,
+        "keyword": "벚꽃 스탬프는 어떨까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11836,
+        "event_title_id": 5546,
+        "keyword": "마음껏 낙서하기",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11837,
+        "event_title_id": 5546,
+        "keyword": "전통모더니즘",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11838,
+        "event_title_id": 5547,
+        "keyword": "같은 마음으로, 열심히",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11839,
+        "event_title_id": 5548,
+        "keyword": "뭐가 부족해?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11840,
+        "event_title_id": 5548,
+        "keyword": "같은 마음으로 정성을",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11841,
+        "event_title_id": 5548,
+        "keyword": "같은 마음으로, 정성을",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11842,
+        "event_title_id": 5548,
+        "keyword": "지금의 네가 멋지다는 거잖아!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11843,
+        "event_title_id": 5548,
+        "keyword": "같은마음으로정성을",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11844,
+        "event_title_id": 5549,
+        "keyword": "같은 마음으로, 소원을",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11845,
+        "event_title_id": 5550,
+        "keyword": "보고 싶어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11846,
+        "event_title_id": 5550,
+        "keyword": "옛날 입었던 기모노",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11847,
+        "event_title_id": 5550,
+        "keyword": "옛날, 입었던 기모노",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11848,
+        "event_title_id": 5550,
+        "keyword": "무리할 필요는 없어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11849,
+        "event_title_id": 5550,
+        "keyword": "옛날입었던기모노",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11850,
+        "event_title_id": 5551,
+        "keyword": "지금, 띠를 매다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11851,
+        "event_title_id": 5552,
+        "keyword": "미래, 신발끈은 꽉 묶고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11852,
+        "event_title_id": 5553,
+        "keyword": "이끄는 자의 근심",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11853,
+        "event_title_id": 5554,
+        "keyword": "내가 해 볼까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 11854,
+        "event_title_id": 5554,
+        "keyword": "그날의 키 재기",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 11855,
+        "event_title_id": 5554,
+        "keyword": "그래스 원더의 실력이 궁금한걸",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 11856,
+        "event_title_id": 5554,
+        "keyword": "그날의키재기",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 11857,
+        "event_title_id": 5555,
+        "keyword": "마주 댄 등",
+        "source": "origin",
+        "item_order": 0
     }
 ]
