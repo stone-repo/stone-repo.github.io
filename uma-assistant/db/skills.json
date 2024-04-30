@@ -17711,6 +17711,19 @@
         ]
     },
     {
+        "skill_id": 1176,
+        "skill_name": "빛나라☆토마코마이",
+        "ingame_description": "더트 레이스 중반 코너에서 경합하면 라스트 스퍼트 때 좋은 위치에서 가속력이 아주 약간 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 358,
         "skill_name": "도망자",
         "ingame_description": "최종 코너에서 선두를 유지하기 쉬워진다＜작전・도주＞",
@@ -19424,6 +19437,19 @@
             "중간순위",
             "최종코너 진입이후"
         ]
+    },
+    {
+        "skill_id": 876,
+        "skill_name": "빛나라☆토마코마이",
+        "ingame_description": "더트 레이스 중반 코너에서 경합하면 라스트 스퍼트 때 좋은 위치에서 가속력이 약간 상승하며, 여력이 충분하면 효과가 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 6,
+        "skill_type_name": "가속력 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_accel_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 881,
@@ -26232,6 +26258,39 @@
         "skill_condition_tags": [
             "경기장"
         ]
+    },
+    {
+        "skill_id": 1091,
+        "skill_name": "가와사키 경기장○",
+        "ingame_description": "가와사키 경기장에 다소 강해진다",
+        "require_pt": 70,
+        "cool_time": 0.0,
+        "skill_type_id": 18,
+        "skill_type_name": "패시브 스태미나 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_stamina_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 681,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 8,
+                        "effect_name": "스태미나 보정",
+                        "numeric_value": 40
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 418,
+                        "description": "가와사키 지역에서 개최되는 레이스",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
     },
     {
         "skill_id": 64,
