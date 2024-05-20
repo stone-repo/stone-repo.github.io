@@ -84138,5 +84138,222 @@
         "keyword": "하고 싶은 일",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 12021,
+        "event_title_id": 5596,
+        "keyword": "적극적인 귀족 대회",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12022,
+        "event_title_id": 5596,
+        "keyword": "성실함을 어필!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12023,
+        "event_title_id": 5596,
+        "keyword": "믿음직하게 지켜준다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12024,
+        "event_title_id": 5596,
+        "keyword": "적극적인귀족대회",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12025,
+        "event_title_id": 5597,
+        "keyword": "언니만 믿어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12026,
+        "event_title_id": 5597,
+        "keyword": "언니만 믿어!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12027,
+        "event_title_id": 5597,
+        "keyword": "나한테도 어드바이스해 줘!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12028,
+        "event_title_id": 5597,
+        "keyword": "언니만믿어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12029,
+        "event_title_id": 5597,
+        "keyword": "아이네스는 모두의 언니구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12030,
+        "event_title_id": 5598,
+        "keyword": "마블러스식 이문화 교류",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12031,
+        "event_title_id": 5599,
+        "keyword": "무척 마블러스해☆",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12032,
+        "event_title_id": 5599,
+        "keyword": "본받고 싶은 사고방식인걸",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12033,
+        "event_title_id": 5599,
+        "keyword": "마블러스 무한 차지",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12034,
+        "event_title_id": 5599,
+        "keyword": "마블러스 무한 차지☆",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12035,
+        "event_title_id": 5599,
+        "keyword": "에너지가 바닥이 보이질 않는구나…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12036,
+        "event_title_id": 5599,
+        "keyword": "마블러스무한차지",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12037,
+        "event_title_id": 5600,
+        "keyword": "마블러스 고갈 문제",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12038,
+        "event_title_id": 5601,
+        "keyword": "그럼 다른 애한테 부탁해 보는 건 어때?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12039,
+        "event_title_id": 5601,
+        "keyword": "진짜 어떤지는 본인 말곤 알 수 없는 거야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12040,
+        "event_title_id": 5601,
+        "keyword": "뜨거운 유대 보노와 히어로가",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12041,
+        "event_title_id": 5601,
+        "keyword": "뜨거운 유대! 보노와 히어로가!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12042,
+        "event_title_id": 5601,
+        "keyword": "뜨거운유대보노와히어로가",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12043,
+        "event_title_id": 5602,
+        "keyword": "똑바로! 마음이 통하는 과자 만들기",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12044,
+        "event_title_id": 5603,
+        "keyword": "변신! 네이처는 프린파이!?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12045,
+        "event_title_id": 5604,
+        "keyword": "뭐든지 있어요, 보노 식당",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12046,
+        "event_title_id": 5605,
+        "keyword": "네 고민도 해결됐어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12047,
+        "event_title_id": 5605,
+        "keyword": "나도 아는 식당인 거 같은데?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12048,
+        "event_title_id": 5605,
+        "keyword": "잠깐의 휴식 보노 식당",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12049,
+        "event_title_id": 5605,
+        "keyword": "잠깐의 휴식, 보노 식당",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12050,
+        "event_title_id": 5605,
+        "keyword": "잠깐의휴식보노식당",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12051,
+        "event_title_id": 5606,
+        "keyword": "당신의 곁에, 보노 식당",
+        "source": "origin",
+        "item_order": 0
     }
 ]
