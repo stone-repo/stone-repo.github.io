@@ -6401,6 +6401,19 @@
         ]
     },
     {
+        "skill_id": 941,
+        "skill_name": "상식 파괴",
+        "ingame_description": "최종 코너 전의 제3 코너에서 후방에 있으면 약간 앞으로 나간다＜중거리/장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 942,
         "skill_name": "폭발하는 다리",
         "ingame_description": "최종 직선에서 2위 이후에서 선두로부터 4마신 이내에 있으면 속도가 다소 상승한다＜작전・선입＞",
@@ -6566,6 +6579,19 @@
             "후방순위",
             "1위아닌전방"
         ]
+    },
+    {
+        "skill_id": 947,
+        "skill_name": "단아한 발걸음",
+        "ingame_description": "레이스 중반에 속도가 약간 상승한다 ＜마일/중거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 948,
@@ -7573,6 +7599,19 @@
         "skill_id": 1180,
         "skill_name": "Ding Dong Boo",
         "ingame_description": "종반 근성 경쟁 시 속도가 아주 조금 상승하며, 더트 레이스에서는 추가로 가속력이 약간 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1182,
+        "skill_name": "서정, 여로의 끝에",
+        "ingame_description": "종반이 다가온 어딘가에서 후방이라면 속도가 계속 해서 아주 조금 상승하며, 중·장거리 레이스에서 선두로부터 거리가 벌어져 있으면 효과가 증가한다",
         "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 1,
@@ -9921,6 +9960,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 916,
+        "skill_name": "우위형성",
+        "ingame_description": "레이스 중반에 속도가 상승한다 ＜마일/중거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 917,
         "skill_name": "우아한 모래 샤워",
         "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 속도가 상승한다＜더트＞",
@@ -10357,6 +10409,19 @@
             "추격",
             "남은 거리"
         ]
+    },
+    {
+        "skill_id": 907,
+        "skill_name": "천의무봉",
+        "ingame_description": "최종 코너 전의 제3 코너에서 후방에 있으면 앞으로 나간다＜중거리/장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 279,
@@ -15164,6 +15229,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 860,
+        "skill_name": "서정, 여로의 끝에",
+        "ingame_description": "종반이 다가온 어딘가에서 후방이라면 속도가 계속해서 다소 상승하며, 중·장거리 레이스에서 선두로부터 거리가 벌어져 있으면 효과가 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 862,
         "skill_name": "등불",
         "ingame_description": "종반 코너에서 후방에서 따라붙으면 최종 직선에서 속도가 상승하며, 종반 코너에서 추월한 횟수에 따라 효과가 증가한다",
@@ -15567,6 +15645,32 @@
         "skill_name": "프레시☆팔러",
         "ingame_description": "레이스 중반이 시작될 때 전방에 있으면 속도가 계속해서 다소 상승하며 덤으로 지구력을 다소 회복한다",
         "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 846,
+        "skill_name": "엔진 점화!",
+        "ingame_description": "중반의 중간에 거리를 벌린 채 선두라면 아주 오랫동안 속도가 계속해서 아주 조금 상승하지만 종반의 끝에 아주 조금 뒤처져 버린다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1181,
+        "skill_name": "엔진 전개! 대분사!",
+        "ingame_description": "중반의 중간에 거리를 벌린 채 선두라면 아주 오랫동안 속도가 계속해서 약간 상승하지만 종반의 끝에 아주 조금 뒤처져 버린다",
+        "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 3,
         "skill_type_name": "속도 상승 (고유)",
@@ -31711,5 +31815,83 @@
             "장거리",
             "코스거리"
         ]
+    },
+    {
+        "skill_id": 981,
+        "skill_name": "바다의 가호",
+        "ingame_description": "레이스 초반이 시작될 때 가속력이 약간 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 82,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (노말)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 982,
+        "skill_name": "땅의 가호",
+        "ingame_description": "레이스 종반의 중간쯤에서 속도가 약간 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 82,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (노말)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 983,
+        "skill_name": "햇살의 가호",
+        "ingame_description": "레이스 중반에 경합하면 속도가 약간 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 82,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (노말)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 929,
+        "skill_name": "대해의 예지",
+        "ingame_description": "레이스 초반이 시작될 때 가속력이 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 83,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 931,
+        "skill_name": "대지의 예지",
+        "ingame_description": "레이스 종반의 중간쯤에서 속도가 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 83,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 930,
+        "skill_name": "태양의 예지",
+        "ingame_description": "레이스 중반에 경합하면 속도가 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 83,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
     }
 ]
