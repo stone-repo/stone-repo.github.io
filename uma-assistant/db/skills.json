@@ -45,56 +45,6 @@
         ]
     },
     {
-        "skill_id": 179,
-        "skill_name": "뛰어난 작전",
-        "ingame_description": "레이스 종반에 추입 태세로 들어가 약간 앞쪽 위치로 이동한다＜작전・추입＞",
-        "require_pt": 180,
-        "cool_time": 0.0,
-        "skill_type_id": 1,
-        "skill_type_name": "속도 상승 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 173,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.15
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 316,
-                        "description": "거리상 위치 백분율 75% 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 330,
-                        "description": "추입",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "종반",
-            "추입",
-            "남은 거리"
-        ]
-    },
-    {
         "skill_id": 204,
         "skill_name": "리드 킵",
         "ingame_description": "레이스 중반에 크게 거리를 벌린 선두라면 약간 리드를 유지하기 쉽다＜장거리＞",
@@ -117,15 +67,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 231,
                         "description": "선두",
                         "extra_description": "1위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 318,
+                        "description": "후방과의 차이 1마신 이상",
+                        "extra_description": "",
                         "priority": 0
                     },
                     {
@@ -139,13 +89,18 @@
                         "description": "후방과의 차이 3마신 이상",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
         ],
         "skill_condition_tags": [
             "순위",
-            "중반",
             "경쟁 상황",
             "장거리",
             "코스거리"
@@ -208,7 +163,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 223,
-                "duration": "2.4",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -347,58 +302,6 @@
         ]
     },
     {
-        "skill_id": 183,
-        "skill_name": "물고 늘어지기",
-        "ingame_description": "최종 코너에서 추월당하면 다시 추월하기 약간 쉬워진다＜중거리＞",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 1,
-        "skill_type_name": "속도 상승 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 177,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.15
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
-                        "extra_description": "",
-                        "priority": 3
-                    },
-                    {
-                        "skill_condition_id": 242,
-                        "description": "추월 당할 때",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 333,
-                        "description": "중거리",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "코너",
-            "최종 코너",
-            "추월 당함",
-            "중거리",
-            "코스거리",
-            "최종코너 진입이후"
-        ]
-    },
-    {
         "skill_id": 194,
         "skill_name": "기어 시프트",
         "ingame_description": "레이스 중반에 전방에 있으면 약간 추월하기 쉬워진다＜마일＞",
@@ -411,7 +314,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 188,
-                "duration": "1.2",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -420,12 +323,6 @@
                     }
                 ],
                 "conditions": [
-                    {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
                     {
                         "skill_condition_id": 325,
                         "description": "순위 비율 50% 이하",
@@ -437,6 +334,12 @@
                         "description": "마일",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -444,7 +347,6 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "중반",
             "전방순위",
             "중간순위",
             "코스거리"
@@ -463,7 +365,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 171,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -473,20 +375,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
-                        "extra_description": "",
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -497,7 +399,6 @@
             "각질",
             "선입",
             "순위",
-            "중반",
             "중간순위",
             "후방순위"
         ]
@@ -652,7 +553,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 166,
-                "duration": "0.9",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -662,59 +563,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 424,
+                        "description": "무작위 직선",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "직선"
-        ]
-    },
-    {
-        "skill_id": 174,
-        "skill_name": "뒷심",
-        "ingame_description": "라스트 스퍼트 때 속도가 약간 상승한다",
-        "require_pt": 170,
-        "cool_time": 0.0,
-        "skill_type_id": 1,
-        "skill_type_name": "속도 상승 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 168,
-                "duration": "1.8",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.15
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 323,
-                        "description": "레이스 최종반 무작위",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 315,
-                        "description": "라스트 스퍼트",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "종반",
-            "라스트스퍼트"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 185,
@@ -1245,7 +1102,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 165,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -1255,17 +1112,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 265,
-                        "description": "코너",
+                        "skill_condition_id": 435,
+                        "description": "무작위 코너",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "코너"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 221,
@@ -1418,7 +1273,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 170,
-                "duration": "1.2",
+                "duration": "1.8",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -1460,7 +1315,7 @@
     {
         "skill_id": 180,
         "skill_name": "바짝 붙기",
-        "ingame_description": "레이스 종반에 후방에 있으면 약간 스퍼트하기 쉬워진다＜단거리＞",
+        "ingame_description": "레이스 종반에 후방에 있으면 속도가 약간 상승하고, 가속력이 매우 조금 상승한다 <단거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 1,
@@ -1476,15 +1331,14 @@
                         "skill_effect_id": 1,
                         "effect_name": "속도",
                         "numeric_value": 0.15
+                    },
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.05
                     }
                 ],
                 "conditions": [
-                    {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
                     {
                         "skill_condition_id": 249,
                         "description": "순위 비율 50% 초과",
@@ -1496,74 +1350,22 @@
                         "description": "단거리",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 429,
+                        "description": "레이스 종반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
         ],
         "skill_condition_tags": [
             "순위",
-            "종반",
             "단거리",
             "중간순위",
             "코스거리",
             "후방순위"
-        ]
-    },
-    {
-        "skill_id": 181,
-        "skill_name": "적극책",
-        "ingame_description": "레이스 초반에 선두라면 약간 거리를 벌리기 쉬워진다＜마일＞",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 1,
-        "skill_type_name": "속도 상승 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 175,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.15
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 231,
-                        "description": "선두",
-                        "extra_description": "1위",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 332,
-                        "description": "마일",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "마일",
-            "순위",
-            "초반",
-            "레이스 경과 시간",
-            "코스거리"
         ]
     },
     {
@@ -1853,7 +1655,7 @@
     {
         "skill_id": 195,
         "skill_name": "오기",
-        "ingame_description": "추월이 약간 성공하기 쉬워진다 ＜마일＞",
+        "ingame_description": "추월하려고 하면 속도가 약간 상승한다 <마일>",
         "require_pt": 120,
         "cool_time": 0.0,
         "skill_type_id": 1,
@@ -1863,7 +1665,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 189,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -2394,7 +2196,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 213,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -2404,14 +2206,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 87,
-                        "description": "오르막 진입",
+                        "skill_condition_id": 328,
+                        "description": "선입",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 328,
-                        "description": "선입",
+                        "skill_condition_id": 437,
+                        "description": "무작위 오르막",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -2420,8 +2222,7 @@
         ],
         "skill_condition_tags": [
             "각질",
-            "선입",
-            "오르막"
+            "선입"
         ]
     },
     {
@@ -2533,8 +2334,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 179,
-                        "description": "인접한 다른 우마무스메가 4~7명",
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 439,
+                        "description": "인접한 다른 우마무스메가 3명 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -2542,7 +2349,7 @@
             }
         ],
         "skill_condition_tags": [
-            "경쟁 상황"
+            "레이스 경과 시간"
         ]
     },
     {
@@ -2600,7 +2407,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 222,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -2893,7 +2700,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 183,
-                "duration": "1.2",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -2902,6 +2709,12 @@
                     }
                 ],
                 "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
                     {
                         "skill_condition_id": 231,
                         "description": "선두",
@@ -2915,14 +2728,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 342,
-                        "description": "진행거리 비율 50% 이하",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 343,
-                        "description": "후방과의 차이 5마신 이상",
+                        "skill_condition_id": 346,
+                        "description": "후방과의 차이 3마신 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -2931,8 +2738,8 @@
         ],
         "skill_condition_tags": [
             "순위",
+            "중반",
             "경쟁 상황",
-            "남은 거리",
             "단거리",
             "코스거리"
         ]
@@ -5233,7 +5040,7 @@
     {
         "skill_id": 584,
         "skill_name": "풀 스로틀",
-        "ingame_description": "레이스 중반에 지구력을 많이 사용해서 속도가 다소 상승한다",
+        "ingame_description": "레이스 중반에 지구력을 다소 사용해서 속도가 다소 상승한다 <작전・선입>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 1,
@@ -5253,19 +5060,19 @@
                     {
                         "skill_effect_id": 4,
                         "effect_name": "지구력",
-                        "numeric_value": -0.04
+                        "numeric_value": -0.02
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -5274,8 +5081,7 @@
         ],
         "skill_condition_tags": [
             "각질",
-            "선입",
-            "중반"
+            "선입"
         ]
     },
     {
@@ -6263,7 +6069,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 556,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -6410,8 +6216,44 @@
         "skill_type_name": "속도 상승 (노멀)",
         "skill_icon_url": "images/skill-types/skill_speed_normal.png",
         "grade": "N",
-        "skill_situations": null,
-        "skill_condition_tags": []
+        "skill_situations": [
+            {
+                "skill_situation_id": 686,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 25,
+                        "effect_name": "주행 속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 355,
+                        "description": "순위 비율 50% 이상",
+                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 422,
+                        "description": "중거리 또는 장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 423,
+                        "description": "제3 코너 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "순위",
+            "중간순위",
+            "후방순위"
+        ]
     },
     {
         "skill_id": 942,
@@ -6590,7 +6432,33 @@
         "skill_type_name": "속도 상승 (노멀)",
         "skill_icon_url": "images/skill-types/skill_speed_normal.png",
         "grade": "N",
-        "skill_situations": null,
+        "skill_situations": [
+            {
+                "skill_situation_id": 688,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 420,
+                        "description": "마일 또는 중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
         "skill_condition_tags": []
     },
     {
@@ -7622,6 +7490,206 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 174,
+        "skill_name": "뒷심",
+        "ingame_description": "라스트 스퍼트가 한창일 때 속도가 약간 상승한다",
+        "require_pt": 170,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 168,
+                "duration": "1.8",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 315,
+                        "description": "라스트 스퍼트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "라스트스퍼트"
+        ]
+    },
+    {
+        "skill_id": 181,
+        "skill_name": "적극책",
+        "ingame_description": "레이스 중반이 다가올 때 전방에 있으면 속도가 약간 상승한다",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 175,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 325,
+                        "description": "순위 비율 50% 이하",
+                        "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 332,
+                        "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "마일",
+            "순위",
+            "전방순위",
+            "중간순위",
+            "코스거리"
+        ]
+    },
+    {
+        "skill_id": 183,
+        "skill_name": "물고 늘어지기",
+        "ingame_description": "최종 코너 이후에서 누군가가 따라붙으면 속도가 약간 상승하고, 가속력이 매우 조금 상승한다＜중거리＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 177,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    },
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.05
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 312,
+                        "description": "자신이 추격 대상이 된 상태 2초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 427,
+                        "description": "최종 코너 진입",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중거리",
+            "코스거리"
+        ]
+    },
+    {
+        "skill_id": 179,
+        "skill_name": "뛰어난 작전",
+        "ingame_description": "레이스 종반에 후방에 있으면 라스트 스퍼트가 한창일 때 속도가 약간 상승한다 <작전・추입>",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 173,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 315,
+                        "description": "라스트 스퍼트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 330,
+                        "description": "추입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 428,
+                        "description": "거리상 위치 백분율 50% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "추입",
+            "라스트스퍼트"
+        ]
+    },
+    {
         "skill_id": 244,
         "skill_name": "마일의 지배자",
         "ingame_description": "레이스 초반에 선두라면 거리를 벌리기 쉬워진다＜마일＞",
@@ -7644,26 +7712,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 231,
-                        "description": "선두",
-                        "extra_description": "1위",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
+                        "skill_condition_id": 325,
+                        "description": "순위 비율 50% 이하",
+                        "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 332,
                         "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -7673,8 +7735,8 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "초반",
-            "레이스 경과 시간",
+            "전방순위",
+            "중간순위",
             "코스거리"
         ]
     },
@@ -7691,7 +7753,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 242,
-                "duration": "1.2",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -7700,6 +7762,12 @@
                     }
                 ],
                 "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
                     {
                         "skill_condition_id": 231,
                         "description": "선두",
@@ -7713,14 +7781,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 342,
-                        "description": "진행거리 비율 50% 이하",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 343,
-                        "description": "후방과의 차이 5마신 이상",
+                        "skill_condition_id": 346,
+                        "description": "후방과의 차이 3마신 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -7729,8 +7791,8 @@
         ],
         "skill_condition_tags": [
             "순위",
+            "중반",
             "경쟁 상황",
-            "남은 거리",
             "단거리",
             "코스거리"
         ]
@@ -7748,7 +7810,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 247,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -7758,14 +7820,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 87,
-                        "description": "오르막 진입",
+                        "skill_condition_id": 328,
+                        "description": "선입",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 328,
-                        "description": "선입",
+                        "skill_condition_id": 437,
+                        "description": "무작위 오르막",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -7774,8 +7836,7 @@
         ],
         "skill_condition_tags": [
             "각질",
-            "선입",
-            "오르막"
+            "선입"
         ]
     },
     {
@@ -7791,7 +7852,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 248,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -7831,7 +7892,7 @@
     {
         "skill_id": 583,
         "skill_name": "용왕매진",
-        "ingame_description": "레이스 중반에 지구력을 많이 사용해서 속도가 많이 상승한다",
+        "ingame_description": "레이스 중반에 지구력을 다소 사용해서 속도가 많이 상승한다 <작전・선입>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -7851,19 +7912,19 @@
                     {
                         "skill_effect_id": 4,
                         "effect_name": "지구력",
-                        "numeric_value": -0.04
+                        "numeric_value": -0.02
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -7872,8 +7933,7 @@
         ],
         "skill_condition_tags": [
             "각질",
-            "선입",
-            "중반"
+            "선입"
         ]
     },
     {
@@ -7932,7 +7992,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 229,
-                "duration": "0.9",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -7942,22 +8002,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 424,
+                        "description": "무작위 직선",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "직선"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 237,
         "skill_name": "전심전력",
-        "ingame_description": "라스트 스퍼트 때 속도가 상승한다",
+        "ingame_description": "라스트 스퍼트가 한창일 때 속도가 상승한다",
         "require_pt": 170,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -7977,14 +8035,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 323,
-                        "description": "레이스 최종반 무작위",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 315,
                         "description": "라스트 스퍼트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -7992,7 +8050,6 @@
             }
         ],
         "skill_condition_tags": [
-            "종반",
             "라스트스퍼트"
         ]
     },
@@ -8009,7 +8066,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 228,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -8019,17 +8076,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 265,
-                        "description": "코너",
+                        "skill_condition_id": 435,
+                        "description": "무작위 코너",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "코너"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 236,
@@ -8087,7 +8142,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 233,
-                "duration": "1.2",
+                "duration": "1.8",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -8129,7 +8184,7 @@
     {
         "skill_id": 240,
         "skill_name": "신속 과감",
-        "ingame_description": "레이스 중반에 속도가 상승한다 ＜작전・선입＞",
+        "ingame_description": "레이스 중반에 중위권 그룹 이후에서 속도가 상승한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -8139,7 +8194,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 234,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -8149,20 +8204,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
-                        "extra_description": "",
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -8173,7 +8228,6 @@
             "각질",
             "선입",
             "순위",
-            "중반",
             "중간순위",
             "후방순위"
         ]
@@ -8237,56 +8291,6 @@
             "경쟁 상황",
             "최종 코너",
             "최종코너 진입이후"
-        ]
-    },
-    {
-        "skill_id": 242,
-        "skill_name": "질풍노도",
-        "ingame_description": "레이스 종반에 추입 태세로 들어가 앞쪽 위치로 이동한다＜작전・추입＞",
-        "require_pt": 180,
-        "cool_time": 0.0,
-        "skill_type_id": 2,
-        "skill_type_name": "속도 상승 (레어)",
-        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 236,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.35
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 316,
-                        "description": "거리상 위치 백분율 75% 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 330,
-                        "description": "추입",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "종반",
-            "추입",
-            "남은 거리"
         ]
     },
     {
@@ -8406,7 +8410,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 243,
-                "duration": "1.2",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -8415,12 +8419,6 @@
                     }
                 ],
                 "conditions": [
-                    {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
                     {
                         "skill_condition_id": 325,
                         "description": "순위 비율 50% 이하",
@@ -8432,6 +8430,12 @@
                         "description": "마일",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -8439,7 +8443,6 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "중반",
             "전방순위",
             "중간순위",
             "코스거리"
@@ -8448,7 +8451,7 @@
     {
         "skill_id": 250,
         "skill_name": "여장부 기질",
-        "ingame_description": "추월이 성공하기 쉬워진다 ＜마일＞",
+        "ingame_description": "추월하려고 하면 속도가 상승한다 <마일>",
         "require_pt": 120,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -8458,7 +8461,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 244,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -8612,8 +8615,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 179,
-                        "description": "인접한 다른 우마무스메가 4~7명",
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 439,
+                        "description": "인접한 다른 우마무스메가 3명 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -8621,7 +8630,7 @@
             }
         ],
         "skill_condition_tags": [
-            "경쟁 상황"
+            "레이스 경과 시간"
         ]
     },
     {
@@ -8961,7 +8970,7 @@
     {
         "skill_id": 556,
         "skill_name": "기염만장",
-        "ingame_description": "레이스 중반에 중위권 그룹에서 경합하면 지구력을 다소 회복하고 추가로 속도가 다소 상승한다",
+        "ingame_description": "레이스 중반에 중위권 그룹에서 경합하면 지구력을 다소 회복하고 추가로 속도가 상승한다",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -8971,12 +8980,12 @@
         "skill_situations": [
             {
                 "skill_situation_id": 551,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
                         "skill_effect_id": 1,
                         "effect_name": "속도",
-                        "numeric_value": 0.25
+                        "numeric_value": 0.35
                     },
                     {
                         "skill_effect_id": 4,
@@ -9270,7 +9279,7 @@
     {
         "skill_id": 243,
         "skill_name": "번갯불의 번뜩임",
-        "ingame_description": "레이스 종반에 후방에 있으면 스퍼트하기 쉬워진다＜단거리＞",
+        "ingame_description": "레이스 종반에 후방에 있으면 속도가 상승하고, 가속력이 아주 조금 상승한다 <단거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -9290,12 +9299,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 249,
                         "description": "순위 비율 50% 초과",
                         "extra_description": "",
@@ -9306,69 +9309,22 @@
                         "description": "단거리",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 429,
+                        "description": "레이스 종반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
         ],
         "skill_condition_tags": [
             "순위",
-            "종반",
             "단거리",
             "중간순위",
             "코스거리",
             "후방순위"
-        ]
-    },
-    {
-        "skill_id": 246,
-        "skill_name": "승리를 향한 집념",
-        "ingame_description": "최종 코너에서 추월당하면 다시 추월하기 쉬워진다＜중거리＞",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 2,
-        "skill_type_name": "속도 상승 (레어)",
-        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 240,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.35
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
-                        "extra_description": "",
-                        "priority": 3
-                    },
-                    {
-                        "skill_condition_id": 242,
-                        "description": "추월 당할 때",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 333,
-                        "description": "중거리",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "코너",
-            "최종 코너",
-            "추월 당함",
-            "중거리",
-            "코스거리",
-            "최종코너 진입이후"
         ]
     },
     {
@@ -9394,15 +9350,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 231,
                         "description": "선두",
                         "extra_description": "1위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 318,
+                        "description": "후방과의 차이 1마신 이상",
+                        "extra_description": "",
                         "priority": 0
                     },
                     {
@@ -9416,13 +9372,18 @@
                         "description": "후방과의 차이 3마신 이상",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
         ],
         "skill_condition_tags": [
             "순위",
-            "중반",
             "경쟁 상황",
             "장거리",
             "코스거리"
@@ -9441,7 +9402,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 250,
-                "duration": "2.4",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 1,
@@ -9969,7 +9930,33 @@
         "skill_type_name": "속도 상승 (레어)",
         "skill_icon_url": "images/skill-types/skill_speed_rare.png",
         "grade": "R",
-        "skill_situations": null,
+        "skill_situations": [
+            {
+                "skill_situation_id": 689,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 420,
+                        "description": "마일 또는 중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
         "skill_condition_tags": []
     },
     {
@@ -10420,8 +10407,152 @@
         "skill_type_name": "속도 상승 (레어)",
         "skill_icon_url": "images/skill-types/skill_speed_rare.png",
         "grade": "R",
-        "skill_situations": null,
-        "skill_condition_tags": []
+        "skill_situations": [
+            {
+                "skill_situation_id": 687,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 25,
+                        "effect_name": "주행 속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 355,
+                        "description": "순위 비율 50% 이상",
+                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 422,
+                        "description": "중거리 또는 장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 423,
+                        "description": "제3 코너 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "순위",
+            "중간순위",
+            "후방순위"
+        ]
+    },
+    {
+        "skill_id": 246,
+        "skill_name": "승리를 향한 집념",
+        "ingame_description": "최종 코너 이후에서 누군가가 따라붙으면 속도가 상승하고, 가속력이 아주 조금 상승한다＜중거리＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 240,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    },
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.1
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 312,
+                        "description": "자신이 추격 대상이 된 상태 2초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 427,
+                        "description": "최종 코너 진입",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중거리",
+            "코스거리"
+        ]
+    },
+    {
+        "skill_id": 242,
+        "skill_name": "질풍노도",
+        "ingame_description": "레이스 종반에 후방에 있으면 라스트 스퍼트가 한창일 때 속도가 상승한다 <작전・추입>",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 236,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 315,
+                        "description": "라스트 스퍼트",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 330,
+                        "description": "추입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 428,
+                        "description": "거리상 위치 백분율 50% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "추입",
+            "라스트스퍼트"
+        ]
     },
     {
         "skill_id": 279,
@@ -15682,7 +15813,7 @@
     {
         "skill_id": 347,
         "skill_name": "교묘한 스텝",
-        "ingame_description": "코스를 약간 매끄럽게 잡는다 ＜작전・선행＞",
+        "ingame_description": "좌우로 이동할 때 가속력이 약간 상승한다 <작전・선행>",
         "require_pt": 120,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -15692,7 +15823,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 342,
-                "duration": "1.8",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -15726,7 +15857,7 @@
     {
         "skill_id": 552,
         "skill_name": "원 찬스",
-        "ingame_description": "레이스 종반에 후방에 있으면 가속력이 약간 상승한다",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 가속력이 약간 상승한다 <중거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -15736,7 +15867,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 549,
-                "duration": "1.2",
+                "duration": "1.8",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -15746,10 +15877,10 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
                     },
                     {
                         "skill_condition_id": 333,
@@ -15758,9 +15889,9 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 355,
-                        "description": "순위 비율 50% 이상",
-                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
                         "priority": 0
                     }
                 ]
@@ -15768,7 +15899,6 @@
         ],
         "skill_condition_tags": [
             "순위",
-            "종반",
             "중거리",
             "중간순위",
             "코스거리",
@@ -15798,17 +15928,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 87,
-                        "description": "오르막 진입",
+                        "skill_condition_id": 437,
+                        "description": "무작위 오르막",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "오르막"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 338,
@@ -15839,12 +15967,6 @@
                         "priority": 2
                     },
                     {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 324,
                         "description": "도주",
                         "extra_description": "",
@@ -15856,14 +15978,13 @@
         "skill_condition_tags": [
             "각질",
             "도주",
-            "초반",
-            "레이스 경과 시간"
+            "초반"
         ]
     },
     {
         "skill_id": 340,
         "skill_name": "추월 확정 태세",
-        "ingame_description": "레이스 종반에 가속력이 약간 상승한다 ＜작전・선입＞",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 가속력이 약간 상승한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -15883,20 +16004,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
-                        "extra_description": "",
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -15907,7 +16028,6 @@
             "각질",
             "선입",
             "순위",
-            "종반",
             "중간순위",
             "후방순위"
         ]
@@ -15915,7 +16035,7 @@
     {
         "skill_id": 342,
         "skill_name": "스프린트 기어",
-        "ingame_description": "직선에서 가속력이 약간 상승한다 ＜단거리＞",
+        "ingame_description": "레이스 종반에 가속력이 약간 상승한다 <단거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -15935,14 +16055,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 331,
+                        "description": "단거리",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 331,
-                        "description": "단거리",
+                        "skill_condition_id": 429,
+                        "description": "레이스 종반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -15950,7 +16070,6 @@
             }
         ],
         "skill_condition_tags": [
-            "직선",
             "단거리",
             "코스거리"
         ]
@@ -15958,7 +16077,7 @@
     {
         "skill_id": 345,
         "skill_name": "액셀러레이션",
-        "ingame_description": "레이스 중반에 추월하면 가속력이 약간 상승한다＜마일＞",
+        "ingame_description": "레이스 후반에 추월하면 가속력이 약간 상승한다 <마일>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -15968,7 +16087,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 340,
-                "duration": "1.2",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -15978,14 +16097,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 228,
                         "description": "순위상승",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 253,
+                        "description": "진행거리 비율 50% 이상",
                         "extra_description": "",
                         "priority": 0
                     },
@@ -16001,15 +16120,15 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "중반",
             "추월",
+            "남은 거리",
             "코스거리"
         ]
     },
     {
         "skill_id": 346,
         "skill_name": "두 번째 화살",
-        "ingame_description": "레이스 중반에 뒤에 있으면 가속력이 약간 상승한다＜작전・도주＞",
+        "ingame_description": "레이스 종반에 지구력을 다소 사용해서 가속력이 약간 상승한다 <작전・도주>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -16025,24 +16144,23 @@
                         "skill_effect_id": 2,
                         "effect_name": "가속",
                         "numeric_value": 0.2
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": -0.02
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
+                        "skill_condition_id": 324,
+                        "description": "도주",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 324,
-                        "description": "도주",
+                        "skill_condition_id": 429,
+                        "description": "레이스 종반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -16051,11 +16169,7 @@
         ],
         "skill_condition_tags": [
             "각질",
-            "도주",
-            "순위",
-            "중반",
-            "중간순위",
-            "후방순위"
+            "도주"
         ]
     },
     {
@@ -16087,8 +16201,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 349,
-                        "description": "내리막 진입",
+                        "skill_condition_id": 396,
+                        "description": "무작위 내리막",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -16104,7 +16218,7 @@
     {
         "skill_id": 353,
         "skill_name": "정면 승부",
-        "ingame_description": "레이스 종반에 전방에 있으면 가속력이 약간 상승한다＜작전・선행＞",
+        "ingame_description": "레이스 종반이 시작될 때 전방에 있으면 가속력이 약간 상승한다 <작전・선행>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 4,
@@ -16124,12 +16238,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 325,
                         "description": "순위 비율 50% 이하",
                         "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
@@ -16140,6 +16248,12 @@
                         "description": "선행",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -16148,7 +16262,6 @@
             "각질",
             "선행",
             "순위",
-            "종반",
             "전방순위",
             "중간순위"
         ]
@@ -16262,56 +16375,6 @@
             "코너",
             "중간순위",
             "후방순위"
-        ]
-    },
-    {
-        "skill_id": 350,
-        "skill_name": "근면한 태도",
-        "ingame_description": "추월이 약간 성공하기 쉬워진다 ＜작전・선입＞",
-        "require_pt": 120,
-        "cool_time": 0.0,
-        "skill_type_id": 4,
-        "skill_type_name": "가속력 상승 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 345,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 2,
-                        "effect_name": "가속",
-                        "numeric_value": 0.2
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 283,
-                        "description": "추격 활성화",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 328,
-                        "description": "선입",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "선입",
-            "추격",
-            "레이스 경과 시간"
         ]
     },
     {
@@ -17109,7 +17172,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 331,
-                "duration": "1.8",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -17119,17 +17182,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 424,
+                        "description": "무작위 직선",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "직선"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 475,
@@ -17426,7 +17487,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 330,
-                "duration": "1.8",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -17436,17 +17497,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 265,
-                        "description": "코너",
+                        "skill_condition_id": 435,
+                        "description": "무작위 코너",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "코너"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 337,
@@ -17482,14 +17541,14 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 321,
-                        "description": "앞쪽 가로막힘 1초 이상",
+                        "skill_condition_id": 322,
+                        "description": "남은 지구력 1% 이상",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 322,
-                        "description": "남은 지구력 1% 이상",
+                        "skill_condition_id": 431,
+                        "description": "앞의 우마무스메와 인접 1초 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -17498,7 +17557,6 @@
         ],
         "skill_condition_tags": [
             "남은 지구력",
-            "가로막힘",
             "라스트스퍼트"
         ]
     },
@@ -17677,12 +17735,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 308,
                         "description": "순위 2 이상, 순위 비율 50% 이하",
                         "extra_description": "챔피언스 미팅 : 2~5위 | 팀 레이스 : 2~6위 | 풀 게이트 : 2~9위",
@@ -17691,6 +17743,12 @@
                     {
                         "skill_condition_id": 331,
                         "description": "단거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 357,
+                        "description": "레이스 중반의 후반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18059,6 +18117,56 @@
         ]
     },
     {
+        "skill_id": 350,
+        "skill_name": "근면한 태도",
+        "ingame_description": "추월하려고 할 때 한동안 가속력이 약간 상승한다 <작전・선입>",
+        "require_pt": 120,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 345,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 283,
+                        "description": "추격 활성화",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "추격",
+            "레이스 경과 시간"
+        ]
+    },
+    {
         "skill_id": 975,
         "skill_name": "순발력",
         "ingame_description": "레이스 종반에 돌입할 때까지 흥분하지 않고 후방에서 계속 대기하면, 종반이 시작될 때 가속력이 약간 상승한다＜작전・추입＞",
@@ -18232,91 +18340,6 @@
         ]
     },
     {
-        "skill_id": 355,
-        "skill_name": "일진광풍",
-        "ingame_description": "직선에서 가속력이 상승한다",
-        "require_pt": 170,
-        "cool_time": 30.0,
-        "skill_type_id": 5,
-        "skill_type_name": "가속력 상승 (레어)",
-        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 350,
-                "duration": "1.8",
-                "effects": [
-                    {
-                        "skill_effect_id": 2,
-                        "effect_name": "가속",
-                        "numeric_value": 0.4
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 230,
-                        "description": "직선",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "직선"
-        ]
-    },
-    {
-        "skill_id": 369,
-        "skill_name": "노력가",
-        "ingame_description": "추월이 다소 성공하기 쉬워진다 ＜작전・선입＞",
-        "require_pt": 120,
-        "cool_time": 0.0,
-        "skill_type_id": 5,
-        "skill_type_name": "가속력 상승 (레어)",
-        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 364,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 2,
-                        "effect_name": "가속",
-                        "numeric_value": 0.3
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 283,
-                        "description": "추격 활성화",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 328,
-                        "description": "선입",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "선입",
-            "추격",
-            "레이스 경과 시간"
-        ]
-    },
-    {
         "skill_id": 356,
         "skill_name": "논스톱 걸",
         "ingame_description": "라스트 스퍼트에서 앞이 가로막혔을 때 대처가 능숙해진다",
@@ -18350,14 +18373,14 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 321,
-                        "description": "앞쪽 가로막힘 1초 이상",
+                        "skill_condition_id": 322,
+                        "description": "남은 지구력 1% 이상",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 322,
-                        "description": "남은 지구력 1% 이상",
+                        "skill_condition_id": 431,
+                        "description": "앞의 우마무스메와 인접 1초 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18366,7 +18389,6 @@
         ],
         "skill_condition_tags": [
             "남은 지구력",
-            "가로막힘",
             "라스트스퍼트"
         ]
     },
@@ -18383,7 +18405,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 349,
-                "duration": "1.8",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -18393,17 +18415,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 265,
-                        "description": "코너",
+                        "skill_condition_id": 435,
+                        "description": "무작위 코너",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "코너"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 357,
@@ -18434,12 +18454,6 @@
                         "priority": 2
                     },
                     {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 324,
                         "description": "도주",
                         "extra_description": "",
@@ -18451,8 +18465,7 @@
         "skill_condition_tags": [
             "각질",
             "도주",
-            "초반",
-            "레이스 경과 시간"
+            "초반"
         ]
     },
     {
@@ -18508,7 +18521,7 @@
     {
         "skill_id": 361,
         "skill_name": "스프린트 터보",
-        "ingame_description": "직선에서 가속력이 상승한다 ＜단거리＞",
+        "ingame_description": "레이스 종반에 가속력이 상승한다 <단거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 5,
@@ -18528,14 +18541,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 331,
+                        "description": "단거리",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 331,
-                        "description": "단거리",
+                        "skill_condition_id": 429,
+                        "description": "레이스 종반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18543,7 +18556,6 @@
             }
         ],
         "skill_condition_tags": [
-            "직선",
             "단거리",
             "코스거리"
         ]
@@ -18623,12 +18635,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 308,
                         "description": "순위 2 이상, 순위 비율 50% 이하",
                         "extra_description": "챔피언스 미팅 : 2~5위 | 팀 레이스 : 2~6위 | 풀 게이트 : 2~9위",
@@ -18637,6 +18643,12 @@
                     {
                         "skill_condition_id": 331,
                         "description": "단거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 357,
+                        "description": "레이스 중반의 후반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18655,7 +18667,7 @@
     {
         "skill_id": 365,
         "skill_name": "재연소",
-        "ingame_description": "레이스 중반에 뒤에 있으면 가속력이 상승한다＜작전・도주＞",
+        "ingame_description": "레이스 종반에 지구력을 다소 사용해서 가속력이 상승한다 <작전・도주>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 5,
@@ -18671,24 +18683,23 @@
                         "skill_effect_id": 2,
                         "effect_name": "가속",
                         "numeric_value": 0.4
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": -0.02
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
+                        "skill_condition_id": 324,
+                        "description": "도주",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 324,
-                        "description": "도주",
+                        "skill_condition_id": 429,
+                        "description": "레이스 종반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18697,11 +18708,7 @@
         ],
         "skill_condition_tags": [
             "각질",
-            "도주",
-            "순위",
-            "중반",
-            "중간순위",
-            "후방순위"
+            "도주"
         ]
     },
     {
@@ -18733,8 +18740,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 349,
-                        "description": "내리막 진입",
+                        "skill_condition_id": 396,
+                        "description": "무작위 내리막",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18760,20 +18767,20 @@
         "skill_situations": [
             {
                 "skill_situation_id": 550,
-                "duration": "1.2",
+                "duration": "1.8",
                 "effects": [
                     {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
                         "numeric_value": 0.4
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
                     },
                     {
                         "skill_condition_id": 333,
@@ -18782,9 +18789,9 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 355,
-                        "description": "순위 비율 50% 이상",
-                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
                         "priority": 0
                     }
                 ]
@@ -18792,7 +18799,6 @@
         ],
         "skill_condition_tags": [
             "순위",
-            "종반",
             "중거리",
             "중간순위",
             "코스거리",
@@ -18802,7 +18808,7 @@
     {
         "skill_id": 562,
         "skill_name": "치열한 승부",
-        "ingame_description": "레이스 종반에 전방에 있으면 가속력이 상승한다",
+        "ingame_description": "레이스 종반이 시작될 때 전방에 있으면 가속력이 상승한다 <작전・선행>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 5,
@@ -18822,12 +18828,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 325,
                         "description": "순위 비율 50% 이하",
                         "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
@@ -18838,6 +18838,12 @@
                         "description": "선행",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -18846,7 +18852,6 @@
             "각질",
             "선행",
             "순위",
-            "종반",
             "전방순위",
             "중간순위"
         ]
@@ -18854,7 +18859,7 @@
     {
         "skill_id": 359,
         "skill_name": "능숙한 환승",
-        "ingame_description": "레이스 종반에 가속력이 상승한다 ＜작전・선입＞",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 가속력이 상승한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 5,
@@ -18874,20 +18879,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
-                        "extra_description": "",
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -18898,7 +18903,6 @@
             "각질",
             "선입",
             "순위",
-            "종반",
             "중간순위",
             "후방순위"
         ]
@@ -18906,7 +18910,7 @@
     {
         "skill_id": 364,
         "skill_name": "액셀 전개!",
-        "ingame_description": "레이스 중반에 추월하면 가속력이 상승한다＜마일＞",
+        "ingame_description": "레이스 후반에 추월하면 가속력이 상승한다 <마일>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 5,
@@ -18916,7 +18920,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 359,
-                "duration": "1.2",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -18926,14 +18930,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 228,
                         "description": "순위상승",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 253,
+                        "description": "진행거리 비율 50% 이상",
                         "extra_description": "",
                         "priority": 0
                     },
@@ -18949,15 +18953,15 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "중반",
             "추월",
+            "남은 거리",
             "코스거리"
         ]
     },
     {
         "skill_id": 366,
         "skill_name": "기교파",
-        "ingame_description": "코스를 다소 매끄럽게 잡는다 ＜작전・선행＞",
+        "ingame_description": "좌우로 이동할 때 가속력이 다소 상승한다 <작전・선행>",
         "require_pt": 120,
         "cool_time": 0.0,
         "skill_type_id": 5,
@@ -18967,7 +18971,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 361,
-                "duration": "1.8",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -19275,6 +19279,94 @@
             "원활한 주행",
             "중간순위",
             "후방순위"
+        ]
+    },
+    {
+        "skill_id": 355,
+        "skill_name": "일진광풍",
+        "ingame_description": "직선에서 가속력이 상승하고 추가로 속도가 약간 상승한다",
+        "require_pt": 170,
+        "cool_time": 30.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 350,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    },
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 424,
+                        "description": "무작위 직선",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 369,
+        "skill_name": "노력가",
+        "ingame_description": "추월하려고 할 때 한동안 가속력이 다소 상승한다 <작전・선입>",
+        "require_pt": 120,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 364,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.3
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 283,
+                        "description": "추격 활성화",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "추격",
+            "레이스 경과 시간"
         ]
     },
     {
@@ -20087,7 +20179,7 @@
     {
         "skill_id": 114,
         "skill_name": "직선 회복",
-        "ingame_description": "직선에서 지구력을 약간 회복한다",
+        "ingame_description": "레이스 중반의 직선에서 지구력을 약간 회복한다",
         "require_pt": 170,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -20107,6 +20199,12 @@
                 ],
                 "conditions": [
                     {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
                         "skill_condition_id": 230,
                         "description": "직선",
                         "extra_description": "",
@@ -20116,6 +20214,7 @@
             }
         ],
         "skill_condition_tags": [
+            "중반",
             "직선"
         ]
     },
@@ -20206,55 +20305,6 @@
         ]
     },
     {
-        "skill_id": 115,
-        "skill_name": "방패막이",
-        "ingame_description": "레이스 초반에 앞이 막혔을 때 숨어서 지구력을 약간 회복한다",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 7,
-        "skill_type_name": "지구력 회복 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_health_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 110,
-                "duration": "바로 적용",
-                "effects": [
-                    {
-                        "skill_effect_id": 4,
-                        "effect_name": "지구력",
-                        "numeric_value": 0.015
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 321,
-                        "description": "앞쪽 가로막힘 1초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "초반",
-            "레이스 경과 시간",
-            "가로막힘"
-        ]
-    },
-    {
         "skill_id": 117,
         "skill_name": "마군 속 냉정",
         "ingame_description": "레이스 중반에 둘러싸이면 지구력을 약간 회복한다",
@@ -20283,8 +20333,8 @@
                         "priority": 2
                     },
                     {
-                        "skill_condition_id": 314,
-                        "description": "모든 진로 가로막힘 1초 이상",
+                        "skill_condition_id": 438,
+                        "description": "둘러싸인 상태",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -20292,8 +20342,7 @@
             }
         ],
         "skill_condition_tags": [
-            "중반",
-            "가로막힘"
+            "중반"
         ]
     },
     {
@@ -20349,7 +20398,7 @@
     {
         "skill_id": 121,
         "skill_name": "상황 파악",
-        "ingame_description": "레이스 중반에 후방에 있으면 힘이 약간 덜 들게 된다＜단거리＞",
+        "ingame_description": "레이스 중반에 후방에 있으면 힘이 약간 덜 들게 되고 가속력이 아주 조금 상승한다 <단거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -20359,8 +20408,13 @@
         "skill_situations": [
             {
                 "skill_situation_id": 116,
-                "duration": "바로 적용",
+                "duration": "3",
                 "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.1
+                    },
                     {
                         "skill_effect_id": 4,
                         "effect_name": "지구력",
@@ -20368,12 +20422,6 @@
                     }
                 ],
                 "conditions": [
-                    {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
                     {
                         "skill_condition_id": 249,
                         "description": "순위 비율 50% 초과",
@@ -20385,73 +20433,19 @@
                         "description": "단거리",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
         ],
         "skill_condition_tags": [
             "순위",
-            "중반",
             "단거리",
-            "중간순위",
-            "코스거리",
-            "후방순위"
-        ]
-    },
-    {
-        "skill_id": 122,
-        "skill_name": "전개 살피기",
-        "ingame_description": "레이스 초반에 후방에 있으면 힘이 약간 덜 들게 된다＜마일＞",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 7,
-        "skill_type_name": "지구력 회복 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_health_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 117,
-                "duration": "바로 적용",
-                "effects": [
-                    {
-                        "skill_effect_id": 4,
-                        "effect_name": "지구력",
-                        "numeric_value": 0.015
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 332,
-                        "description": "마일",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "마일",
-            "순위",
-            "초반",
-            "레이스 경과 시간",
             "중간순위",
             "코스거리",
             "후방순위"
@@ -20561,7 +20555,7 @@
     {
         "skill_id": 130,
         "skill_name": "짧은 휴식",
-        "ingame_description": "레이스 종반에 지구력을 약간 회복한다 ＜작전・선입＞",
+        "ingame_description": "레이스 중반에 중위권 그룹 이후에 있으면 지구력을 약간 회복한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -20581,14 +20575,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
                     },
                     {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -20598,13 +20598,15 @@
         "skill_condition_tags": [
             "각질",
             "선입",
-            "종반"
+            "순위",
+            "중간순위",
+            "후방순위"
         ]
     },
     {
         "skill_id": 132,
         "skill_name": "냉정",
-        "ingame_description": "앞이 막혔을 때 차분하게 태세를 약간 가다듬는다＜작전・추입＞",
+        "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 차분하게 지구력을 약간 회복한다 <작전・추입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -20624,12 +20626,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 321,
-                        "description": "앞쪽 가로막힘 1초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 330,
                         "description": "추입",
                         "extra_description": "",
@@ -20640,6 +20636,12 @@
                         "description": "레이스 경과 10초 이상",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 431,
+                        "description": "앞의 우마무스메와 인접 1초 이상",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -20647,8 +20649,7 @@
         "skill_condition_tags": [
             "각질",
             "추입",
-            "레이스 경과 시간",
-            "가로막힘"
+            "레이스 경과 시간"
         ]
     },
     {
@@ -20689,7 +20690,7 @@
     {
         "skill_id": 135,
         "skill_name": "조용한 호흡",
-        "ingame_description": "레이스 중반이 다가왔을 때 후방에 있으면 지구력을 약간 회복한다＜작전・선입＞",
+        "ingame_description": "레이스 중반이 다가왔을 때 중위권 그룹 이후에 있으면 지구력을 약간 회복한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -20709,21 +20710,21 @@
                 ],
                 "conditions": [
                     {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
                         "skill_condition_id": 328,
                         "description": "선입",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 354,
-                        "description": "레이스 초반부 내의 후반",
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
                         "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 355,
-                        "description": "순위 비율 50% 이상",
-                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
                         "priority": 0
                     }
                 ]
@@ -20733,7 +20734,6 @@
             "각질",
             "선입",
             "순위",
-            "초반",
             "중간순위",
             "후방순위"
         ]
@@ -21155,7 +21155,7 @@
     {
         "skill_id": 124,
         "skill_name": "심호흡",
-        "ingame_description": "직선에 진입하면 숨을 고르면서 힘이 약간 덜 들게 된다＜장거리＞",
+        "ingame_description": "레이스 중반에 숨을 고르면서 힘이 약간 덜 들게 된다 <장거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -21175,14 +21175,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 334,
+                        "description": "장거리",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 334,
-                        "description": "장거리",
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -21190,7 +21190,6 @@
             }
         ],
         "skill_condition_tags": [
-            "직선",
             "장거리",
             "코스거리"
         ]
@@ -21377,7 +21376,7 @@
     {
         "skill_id": 118,
         "skill_name": "스태미나 킵",
-        "ingame_description": "레이스 초반에 힘이 약간 덜 들게 된다 ＜작전・선행＞",
+        "ingame_description": "레이스 중반이 다가올 때 전방에 있으면 힘이 약간 덜 들게 된다 <작전・선행>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -21397,18 +21396,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 325,
                         "description": "순위 비율 50% 이하",
                         "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
@@ -21419,6 +21406,12 @@
                         "description": "선행",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -21427,8 +21420,6 @@
             "각질",
             "선행",
             "순위",
-            "초반",
-            "레이스 경과 시간",
             "전방순위",
             "중간순위"
         ]
@@ -21488,7 +21479,7 @@
     {
         "skill_id": 123,
         "skill_name": "전도유망",
-        "ingame_description": "레이스 중반에 선두라면 힘이 약간 덜 들게 된다＜중거리＞",
+        "ingame_description": "레이스 중반에 전방에 있으면 힘이 약간 덜 들게 된다 <중거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 7,
@@ -21508,20 +21499,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 231,
-                        "description": "선두",
-                        "extra_description": "1위",
+                        "skill_condition_id": 269,
+                        "description": "순위 3 이하",
+                        "extra_description": "1~3위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 333,
                         "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -21530,8 +21521,8 @@
         ],
         "skill_condition_tags": [
             "순위",
-            "중반",
             "중거리",
+            "전방순위",
             "코스거리"
         ]
     },
@@ -21564,8 +21555,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 336,
-                        "description": "남은 지구력 모두 소진",
+                        "skill_condition_id": 430,
+                        "description": "남은 지구력 30% 이하",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -21573,7 +21564,6 @@
             }
         ],
         "skill_condition_tags": [
-            "남은 지구력",
             "장거리",
             "코스거리"
         ]
@@ -21743,6 +21733,117 @@
         ]
     },
     {
+        "skill_id": 115,
+        "skill_name": "방패막이",
+        "ingame_description": "레이스 초반 혹은 중반에 앞이 막혔을 때 숨어서 지구력을 약간 회복하고 코스를 약간 능숙하게 잡는다",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 7,
+        "skill_type_name": "지구력 회복 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_health_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 110,
+                "duration": "2",
+                "effects": [
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.015
+                    },
+                    {
+                        "skill_effect_id": 6,
+                        "effect_name": "위치 변경속도",
+                        "numeric_value": 0.015
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 321,
+                        "description": "앞쪽 가로막힘 1초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 378,
+                        "description": "레이스 중반 혹은 초반",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중반",
+            "초반",
+            "레이스 경과 시간",
+            "가로막힘"
+        ]
+    },
+    {
+        "skill_id": 122,
+        "skill_name": "전개 살피기",
+        "ingame_description": "레이스 중반이 다가올 때 후방에 있으면 힘이 약간 덜 들게 되고 앞의 속도를 아주 조금 떨어트린다 <마일>",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 7,
+        "skill_type_name": "지구력 회복 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_health_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 117,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.015
+                    },
+                    {
+                        "skill_effect_id": 13,
+                        "effect_name": "속도 디버프",
+                        "numeric_value": -0.05
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 249,
+                        "description": "순위 비율 50% 초과",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 332,
+                        "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "마일",
+            "순위",
+            "중간순위",
+            "코스거리",
+            "후방순위"
+        ]
+    },
+    {
         "skill_id": 137,
         "skill_name": "원호의 마에스트로",
         "ingame_description": "군더더기 없는 코너링으로 지구력을 회복한다",
@@ -21780,7 +21881,7 @@
     {
         "skill_id": 138,
         "skill_name": "호전일식",
-        "ingame_description": "직선에서 지구력을 회복한다",
+        "ingame_description": "레이스 중반의 직선에서 지구력을 회복한다",
         "require_pt": 170,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -21800,6 +21901,12 @@
                 ],
                 "conditions": [
                     {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
                         "skill_condition_id": 230,
                         "description": "직선",
                         "extra_description": "",
@@ -21809,6 +21916,7 @@
             }
         ],
         "skill_condition_tags": [
+            "중반",
             "직선"
         ]
     },
@@ -21883,8 +21991,8 @@
                         "priority": 2
                     },
                     {
-                        "skill_condition_id": 314,
-                        "description": "모든 진로 가로막힘 1초 이상",
+                        "skill_condition_id": 438,
+                        "description": "둘러싸인 상태",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -21892,14 +22000,13 @@
             }
         ],
         "skill_condition_tags": [
-            "중반",
-            "가로막힘"
+            "중반"
         ]
     },
     {
         "skill_id": 142,
         "skill_name": "여유만만",
-        "ingame_description": "레이스 초반에 힘이 덜 들게 된다 ＜작전・선행＞",
+        "ingame_description": "레이스 중반이 다가올 때 전방에 있으면 힘이 덜 들게 된다 <작전・선행>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -21919,18 +22026,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 325,
                         "description": "순위 비율 50% 이하",
                         "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
@@ -21941,6 +22036,12 @@
                         "description": "선행",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -21949,8 +22050,6 @@
             "각질",
             "선행",
             "순위",
-            "초반",
-            "레이스 경과 시간",
             "전방순위",
             "중간순위"
         ]
@@ -22010,7 +22109,7 @@
     {
         "skill_id": 146,
         "skill_name": "개척자",
-        "ingame_description": "레이스 중반에 선두라면 힘이 덜 들게 된다＜중거리＞",
+        "ingame_description": "레이스 중반에 전방에 있으면 힘이 덜 들게 된다 <중거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -22030,20 +22129,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 231,
-                        "description": "선두",
-                        "extra_description": "1위",
+                        "skill_condition_id": 269,
+                        "description": "순위 3 이하",
+                        "extra_description": "1~3위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 333,
                         "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -22052,15 +22151,15 @@
         ],
         "skill_condition_tags": [
             "순위",
-            "중반",
             "중거리",
+            "전방순위",
             "코스거리"
         ]
     },
     {
         "skill_id": 147,
         "skill_name": "쿨다운",
-        "ingame_description": "직선에 진입하면 숨을 고르면서 힘이 덜 들게 된다＜장거리＞",
+        "ingame_description": "레이스 중반에 숨을 고르면서 힘이 덜 들게 된다 <장거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -22080,14 +22179,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 230,
-                        "description": "직선",
+                        "skill_condition_id": 334,
+                        "description": "장거리",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 334,
-                        "description": "장거리",
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -22095,7 +22194,6 @@
             }
         ],
         "skill_condition_tags": [
-            "직선",
             "장거리",
             "코스거리"
         ]
@@ -22103,7 +22201,7 @@
     {
         "skill_id": 148,
         "skill_name": "위기 앞의 저력",
-        "ingame_description": "힘이 바닥났을 때 달릴 기력이 되살아난다＜장거리＞",
+        "ingame_description": "힘이 다할 것 같을 때 지구력을 회복하고 속도가 상승한다 <장거리>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -22113,8 +22211,13 @@
         "skill_situations": [
             {
                 "skill_situation_id": 143,
-                "duration": "바로 적용",
+                "duration": "1.8",
                 "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    },
                     {
                         "skill_effect_id": 4,
                         "effect_name": "지구력",
@@ -22129,8 +22232,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 336,
-                        "description": "남은 지구력 모두 소진",
+                        "skill_condition_id": 430,
+                        "description": "남은 지구력 30% 이하",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -22138,7 +22241,6 @@
             }
         ],
         "skill_condition_tags": [
-            "남은 지구력",
             "장거리",
             "코스거리"
         ]
@@ -22290,7 +22392,7 @@
     {
         "skill_id": 152,
         "skill_name": "릴랙스",
-        "ingame_description": "레이스 종반에 지구력을 회복한다 ＜작전・선입＞",
+        "ingame_description": "레이스 중반에 중위권 그룹 이후에 있으면 지구력을 회복한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -22310,14 +22412,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 329,
-                        "description": "레이스 종반",
-                        "extra_description": "",
-                        "priority": 2
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
                     },
                     {
                         "skill_condition_id": 328,
                         "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -22327,57 +22435,9 @@
         "skill_condition_tags": [
             "각질",
             "선입",
-            "종반"
-        ]
-    },
-    {
-        "skill_id": 154,
-        "skill_name": "냉정 침착",
-        "ingame_description": "앞이 막혔을 때 차분하게 태세를 가다듬는다＜작전・추입＞",
-        "require_pt": 180,
-        "cool_time": 0.0,
-        "skill_type_id": 8,
-        "skill_type_name": "지구력 회복 (레어)",
-        "skill_icon_url": "images/skill-types/skill_health_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 149,
-                "duration": "바로 적용",
-                "effects": [
-                    {
-                        "skill_effect_id": 4,
-                        "effect_name": "지구력",
-                        "numeric_value": 0.055
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 321,
-                        "description": "앞쪽 가로막힘 1초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 330,
-                        "description": "추입",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 345,
-                        "description": "레이스 경과 10초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "추입",
-            "레이스 경과 시간",
-            "가로막힘"
+            "순위",
+            "중간순위",
+            "후방순위"
         ]
     },
     {
@@ -22489,7 +22549,7 @@
     {
         "skill_id": 155,
         "skill_name": "잠복 태세",
-        "ingame_description": "레이스 중반이 다가왔을 때 후방에 있으면 지구력을 회복한다＜작전・선입＞",
+        "ingame_description": "레이스 중반이 다가왔을 때 중위권 그룹 이후에 있으면 지구력을 회복한다 <작전・선입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -22509,21 +22569,21 @@
                 ],
                 "conditions": [
                     {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
                         "skill_condition_id": 328,
                         "description": "선입",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 354,
-                        "description": "레이스 초반부 내의 후반",
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
                         "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 355,
-                        "description": "순위 비율 50% 이상",
-                        "extra_description": "챔피언스 미팅 : 5~9위 | 팀 레이스 : 6~12위 | 풀 게이트 : 9~18위",
                         "priority": 0
                     }
                 ]
@@ -22533,7 +22593,6 @@
             "각질",
             "선입",
             "순위",
-            "초반",
             "중간순위",
             "후방순위"
         ]
@@ -22541,7 +22600,7 @@
     {
         "skill_id": 145,
         "skill_name": "혜안",
-        "ingame_description": "레이스 초반에 후방에 있으면 힘이 덜 들게 된다＜마일＞",
+        "ingame_description": "레이스 중반이 다가올 때 후방에 있으면 힘이 덜 들게 되고 앞의 속도를 다소 떨어트린다 <마일>",
         "require_pt": 160,
         "cool_time": 0.0,
         "skill_type_id": 8,
@@ -22557,15 +22616,14 @@
                         "skill_effect_id": 4,
                         "effect_name": "지구력",
                         "numeric_value": 0.055
+                    },
+                    {
+                        "skill_effect_id": 13,
+                        "effect_name": "속도 디버프",
+                        "numeric_value": -0.2
                     }
                 ],
                 "conditions": [
-                    {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
                     {
                         "skill_condition_id": 249,
                         "description": "순위 비율 50% 초과",
@@ -22573,14 +22631,14 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
+                        "skill_condition_id": 332,
+                        "description": "마일",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 332,
-                        "description": "마일",
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -22590,60 +22648,9 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "초반",
-            "레이스 경과 시간",
             "중간순위",
             "코스거리",
             "후방순위"
-        ]
-    },
-    {
-        "skill_id": 139,
-        "skill_name": "강철 같은 의지",
-        "ingame_description": "레이스 초반에 앞이 막혔을 때 강한 의지를 품고 지구력을 회복한다",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 8,
-        "skill_type_name": "지구력 회복 (레어)",
-        "skill_icon_url": "images/skill-types/skill_health_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 134,
-                "duration": "바로 적용",
-                "effects": [
-                    {
-                        "skill_effect_id": 4,
-                        "effect_name": "지구력",
-                        "numeric_value": 0.055
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 321,
-                        "description": "앞쪽 가로막힘 1초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "초반",
-            "레이스 경과 시간",
-            "가로막힘"
         ]
     },
     {
@@ -22858,6 +22865,110 @@
             "장거리",
             "원활한 주행",
             "코스거리"
+        ]
+    },
+    {
+        "skill_id": 139,
+        "skill_name": "강철 같은 의지",
+        "ingame_description": "레이스 초반 혹은 중반에 앞이 막혔을 때 강한 의지를 유지하며 지구력을 회복하고 코스를 능숙하게 잡는다",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 8,
+        "skill_type_name": "지구력 회복 (레어)",
+        "skill_icon_url": "images/skill-types/skill_health_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 134,
+                "duration": "2",
+                "effects": [
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.055
+                    },
+                    {
+                        "skill_effect_id": 6,
+                        "effect_name": "위치 변경속도",
+                        "numeric_value": 0.035
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 320,
+                        "description": "레이스 경과 5초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 321,
+                        "description": "앞쪽 가로막힘 1초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 378,
+                        "description": "레이스 중반 혹은 초반",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중반",
+            "초반",
+            "레이스 경과 시간",
+            "가로막힘"
+        ]
+    },
+    {
+        "skill_id": 154,
+        "skill_name": "냉정 침착",
+        "ingame_description": "앞의 우마무스메의 바로 뒤에 붙으면 차분하게 지구력을 회복한다 <작전・추입>",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 8,
+        "skill_type_name": "지구력 회복 (레어)",
+        "skill_icon_url": "images/skill-types/skill_health_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 149,
+                "duration": "바로 적용",
+                "effects": [
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.055
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 330,
+                        "description": "추입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 345,
+                        "description": "레이스 경과 10초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 431,
+                        "description": "앞의 우마무스메와 인접 1초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "추입",
+            "레이스 경과 시간"
         ]
     },
     {
@@ -23525,56 +23636,6 @@
         ]
     },
     {
-        "skill_id": 383,
-        "skill_name": "위험 회피",
-        "ingame_description": "레이스 초반에 둘러싸이는 일이 다소 적어진다 ＜작전・도주＞",
-        "require_pt": 110,
-        "cool_time": 0.0,
-        "skill_type_id": 12,
-        "skill_type_name": "포지션 스킬 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_position_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 379,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 6,
-                        "effect_name": "위치 변경속도",
-                        "numeric_value": 0.025
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 314,
-                        "description": "모든 진로 가로막힘 1초 이상",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 324,
-                        "description": "도주",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "도주",
-            "초반",
-            "가로막힘"
-        ]
-    },
-    {
         "skill_id": 380,
         "skill_name": "임기응변",
         "ingame_description": "레이스 종반에 코스를 다소 능숙하게 잡는다",
@@ -23607,54 +23668,6 @@
         ],
         "skill_condition_tags": [
             "종반"
-        ]
-    },
-    {
-        "skill_id": 381,
-        "skill_name": "작전 준비",
-        "ingame_description": "레이스 중반에 결승점을 향해 다소 준비를 갖춘다＜단거리＞",
-        "require_pt": 140,
-        "cool_time": 0.0,
-        "skill_type_id": 12,
-        "skill_type_name": "포지션 스킬 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_position_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 377,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 2,
-                        "effect_name": "가속",
-                        "numeric_value": 0.2
-                    },
-                    {
-                        "skill_effect_id": 6,
-                        "effect_name": "위치 변경속도",
-                        "numeric_value": 0.025
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 331,
-                        "description": "단거리",
-                        "extra_description": "",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "중반",
-            "단거리",
-            "코스거리"
         ]
     },
     {
@@ -23707,7 +23720,7 @@
     {
         "skill_id": 379,
         "skill_name": "포지션 센스",
-        "ingame_description": "레이스 초반에 코스를 다소 능숙하게 잡는다",
+        "ingame_description": "레이스 초반에 코스를 능숙하게 잡는다",
         "require_pt": 120,
         "cool_time": 0.0,
         "skill_type_id": 12,
@@ -23722,27 +23735,25 @@
                     {
                         "skill_effect_id": 6,
                         "effect_name": "위치 변경속도",
-                        "numeric_value": 0.025
+                        "numeric_value": 0.035
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
                         "extra_description": "",
-                        "priority": 2
+                        "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "초반"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 382,
         "skill_name": "천둥 번개 스텝",
-        "ingame_description": "레이스 중반에 후방에 있으면 둘러싸이는 일이 다소 적어진다＜중거리＞",
+        "ingame_description": "레이스 중반에 한동안 코스를 다소 능숙하게 잡고 가속력이 약간 상승한다 <중거리>",
         "require_pt": 140,
         "cool_time": 0.0,
         "skill_type_id": 12,
@@ -23752,7 +23763,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 378,
-                "duration": "3",
+                "duration": "4",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -23767,20 +23778,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
+                        "skill_condition_id": 333,
+                        "description": "중거리",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 333,
-                        "description": "중거리",
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -23788,12 +23793,109 @@
             }
         ],
         "skill_condition_tags": [
-            "순위",
-            "중반",
             "중거리",
-            "중간순위",
-            "코스거리",
-            "후방순위"
+            "코스거리"
+        ]
+    },
+    {
+        "skill_id": 381,
+        "skill_name": "작전 준비",
+        "ingame_description": "레이스 중반에 한동안 코스를 다소 능숙하게 잡고 가속력이 약간 상승한다 <단거리>",
+        "require_pt": 140,
+        "cool_time": 0.0,
+        "skill_type_id": 12,
+        "skill_type_name": "포지션 스킬 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_position_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 377,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    },
+                    {
+                        "skill_effect_id": 6,
+                        "effect_name": "위치 변경속도",
+                        "numeric_value": 0.025
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 331,
+                        "description": "단거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "단거리",
+            "코스거리"
+        ]
+    },
+    {
+        "skill_id": 383,
+        "skill_name": "위험 회피",
+        "ingame_description": "레이스 초반에 앞이 막혔거나 경합하면 코스를 다소 능숙하게 잡고 경기장 한가운데를 향해 이동한다 <작전・도주>",
+        "require_pt": 110,
+        "cool_time": 0.0,
+        "skill_type_id": 12,
+        "skill_type_name": "포지션 스킬 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_position_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 379,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 6,
+                        "effect_name": "위치 변경속도",
+                        "numeric_value": 0.025
+                    },
+                    {
+                        "skill_effect_id": 26,
+                        "effect_name": "강제 레인 이동",
+                        "numeric_value": 0.5
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 319,
+                        "description": "레이스 초반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 324,
+                        "description": "도주",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 440,
+                        "description": "앞쪽 또는 옆쪽 가로막힘 1초 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "도주",
+            "초반"
         ]
     },
     {
@@ -23809,7 +23911,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 384,
-                "duration": "3",
+                "duration": "4",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -23824,20 +23926,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
+                        "skill_condition_id": 333,
+                        "description": "중거리",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 333,
-                        "description": "중거리",
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -23845,18 +23941,14 @@
             }
         ],
         "skill_condition_tags": [
-            "순위",
-            "중반",
             "중거리",
-            "중간순위",
-            "코스거리",
-            "후방순위"
+            "코스거리"
         ]
     },
     {
         "skill_id": 387,
         "skill_name": "준비 완료!",
-        "ingame_description": "레이스 중반에 결승점을 향해 준비를 갖춘다＜단거리＞",
+        "ingame_description": "레이스 중반에 한동안 코스를 능숙하게 잡고 가속력이 다소 상승한다 <단거리>",
         "require_pt": 140,
         "cool_time": 0.0,
         "skill_type_id": 13,
@@ -23866,7 +23958,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 383,
-                "duration": "3",
+                "duration": "4",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -23881,14 +23973,14 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 331,
                         "description": "단거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -23896,7 +23988,6 @@
             }
         ],
         "skill_condition_tags": [
-            "중반",
             "단거리",
             "코스거리"
         ]
@@ -23904,7 +23995,7 @@
     {
         "skill_id": 389,
         "skill_name": "식스센스",
-        "ingame_description": "레이스 초반에 둘러싸이는 일이 적어진다 ＜작전・도주＞",
+        "ingame_description": "레이스 초반에 앞이 막혔거나 경합하면 코스를 능숙하게 잡고 경기장 한가운데를 향해 이동한다 <작전・도주>",
         "require_pt": 110,
         "cool_time": 0.0,
         "skill_type_id": 13,
@@ -23920,6 +24011,11 @@
                         "skill_effect_id": 6,
                         "effect_name": "위치 변경속도",
                         "numeric_value": 0.035
+                    },
+                    {
+                        "skill_effect_id": 26,
+                        "effect_name": "강제 레인 이동",
+                        "numeric_value": 0.5
                     }
                 ],
                 "conditions": [
@@ -23930,14 +24026,14 @@
                         "priority": 2
                     },
                     {
-                        "skill_condition_id": 314,
-                        "description": "모든 진로 가로막힘 1초 이상",
+                        "skill_condition_id": 324,
+                        "description": "도주",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 324,
-                        "description": "도주",
+                        "skill_condition_id": 440,
+                        "description": "앞쪽 또는 옆쪽 가로막힘 1초 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -23947,8 +24043,7 @@
         "skill_condition_tags": [
             "각질",
             "도주",
-            "초반",
-            "가로막힘"
+            "초반"
         ]
     },
     {
@@ -24051,22 +24146,20 @@
                     {
                         "skill_effect_id": 6,
                         "effect_name": "위치 변경속도",
-                        "numeric_value": 0.035
+                        "numeric_value": 0.045
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
                         "extra_description": "",
-                        "priority": 2
+                        "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "초반"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 394,
@@ -25014,7 +25107,7 @@
                     {
                         "skill_effect_id": 7,
                         "effect_name": "스피드 보정",
-                        "numeric_value": 60
+                        "numeric_value": 80
                     }
                 ],
                 "conditions": [
@@ -25049,7 +25142,7 @@
                     {
                         "skill_effect_id": 7,
                         "effect_name": "스피드 보정",
-                        "numeric_value": 40
+                        "numeric_value": 60
                     }
                 ],
                 "conditions": [
@@ -26692,7 +26785,7 @@
     {
         "skill_id": 64,
         "skill_name": "요도가 점지한 아이",
-        "ingame_description": "교토 경기장에 강해져서 스태미나와 지능이 상승한다",
+        "ingame_description": "교토 경기장에 강해져서 스태미나, 지능, 스피드가 상승한다",
         "require_pt": 130,
         "cool_time": 0.0,
         "skill_type_id": 19,
@@ -26704,6 +26797,11 @@
                 "skill_situation_id": 60,
                 "duration": "패시브",
                 "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 60
+                    },
                     {
                         "skill_effect_id": 8,
                         "effect_name": "스태미나 보정",
@@ -26732,7 +26830,7 @@
     {
         "skill_id": 84,
         "skill_name": "대항 의식○",
-        "ingame_description": "자신과 같은 작전인 우마무스메가 6명 이상이면 능력을 발휘하기 다소 쉬워진다",
+        "ingame_description": "자신과 같은 작전인 우마무스메가 많으면 능력을 다소 발휘하기 쉬워진다",
         "require_pt": 90,
         "cool_time": 0.0,
         "skill_type_id": 20,
@@ -26752,17 +26850,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 80,
-                        "description": "같은 각질의 다른 우마무스메가 자신 포함 6명 이상",
-                        "extra_description": "",
+                        "skill_condition_id": 432,
+                        "description": "자신과 동일한 작전인 우마무스메의 비율 40% 이상",
+                        "extra_description": "자신포함",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "출전 정보"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 80,
@@ -26927,17 +27023,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 80,
-                        "description": "같은 각질의 다른 우마무스메가 자신 포함 6명 이상",
-                        "extra_description": "",
+                        "skill_condition_id": 432,
+                        "description": "자신과 동일한 작전인 우마무스메의 비율 40% 이상",
+                        "extra_description": "자신포함",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "출전 정보"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 89,
@@ -28150,20 +28244,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 231,
-                        "description": "선두",
-                        "extra_description": "1위",
+                        "skill_condition_id": 269,
+                        "description": "순위 3 이하",
+                        "extra_description": "1~3위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 332,
                         "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -28173,7 +28267,7 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "중반",
+            "전방순위",
             "코스거리"
         ]
     },
@@ -28279,20 +28373,20 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 231,
-                        "description": "선두",
-                        "extra_description": "1위",
+                        "skill_condition_id": 269,
+                        "description": "순위 3 이하",
+                        "extra_description": "1~3위",
                         "priority": 0
                     },
                     {
                         "skill_condition_id": 332,
                         "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -28302,7 +28396,7 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "중반",
+            "전방순위",
             "코스거리"
         ]
     },
@@ -28485,26 +28579,26 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 249,
                         "description": "순위 비율 50% 초과",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
+                        "skill_condition_id": 332,
+                        "description": "마일",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 332,
-                        "description": "마일",
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 434,
+                        "description": "레이스 경과 3초 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -28514,8 +28608,6 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "초반",
-            "레이스 경과 시간",
             "중간순위",
             "코스거리",
             "후방순위"
@@ -28544,18 +28636,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 249,
-                        "description": "순위 비율 50% 초과",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 320,
                         "description": "레이스 경과 5초 이상",
                         "extra_description": "",
@@ -28566,6 +28646,18 @@
                         "description": "도주",
                         "extra_description": "",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 350,
+                        "description": "순위 2 이상",
+                        "extra_description": "2위~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
@@ -28574,10 +28666,10 @@
             "각질",
             "도주",
             "순위",
-            "초반",
             "레이스 경과 시간",
             "중간순위",
-            "후방순위"
+            "후방순위",
+            "1위아닌전방"
         ]
     },
     {
@@ -28603,26 +28695,26 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 249,
                         "description": "순위 비율 50% 초과",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 320,
-                        "description": "레이스 경과 5초 이상",
+                        "skill_condition_id": 332,
+                        "description": "마일",
                         "extra_description": "",
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 332,
-                        "description": "마일",
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 434,
+                        "description": "레이스 경과 3초 이상",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -28632,8 +28724,6 @@
         "skill_condition_tags": [
             "마일",
             "순위",
-            "초반",
-            "레이스 경과 시간",
             "중간순위",
             "코스거리",
             "후방순위"
@@ -29193,8 +29283,13 @@
         "skill_situations": [
             {
                 "skill_situation_id": 437,
-                "duration": "바로 적용",
+                "duration": "1.2",
                 "effects": [
+                    {
+                        "skill_effect_id": 14,
+                        "effect_name": "가속 디버프",
+                        "numeric_value": -0.05
+                    },
                     {
                         "skill_effect_id": 16,
                         "effect_name": "지구력 디버프",
@@ -29296,8 +29391,13 @@
         "skill_situations": [
             {
                 "skill_situation_id": 441,
-                "duration": "바로 적용",
+                "duration": "1.2",
                 "effects": [
+                    {
+                        "skill_effect_id": 14,
+                        "effect_name": "가속 디버프",
+                        "numeric_value": -0.2
+                    },
                     {
                         "skill_effect_id": 16,
                         "effect_name": "지구력 디버프",
@@ -29879,33 +29979,21 @@
                 "duration": "3",
                 "effects": [
                     {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
+                        "skill_effect_id": 25,
+                        "effect_name": "주행 속도",
                         "numeric_value": -0.2
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 229,
-                        "description": "최종 코너 진입 이후",
-                        "extra_description": "최종 코너의 시작점 진입 이후",
-                        "priority": 3
-                    },
-                    {
-                        "skill_condition_id": 230,
-                        "description": "직선",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 315,
-                        "description": "라스트 스퍼트",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
                         "skill_condition_id": 316,
                         "description": "거리상 위치 백분율 75% 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 436,
+                        "description": "최종 직선 무작위",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -29913,12 +30001,7 @@
             }
         ],
         "skill_condition_tags": [
-            "직선",
-            "코너",
-            "남은 거리",
-            "최종 코너",
-            "최종코너 진입이후",
-            "라스트스퍼트"
+            "남은 거리"
         ]
     },
     {
@@ -29984,27 +30067,25 @@
         "skill_situations": [
             {
                 "skill_situation_id": 327,
-                "duration": "1.8",
+                "duration": "2.4",
                 "effects": [
                     {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
+                        "skill_effect_id": 25,
+                        "effect_name": "주행 속도",
                         "numeric_value": -0.2
                     }
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 265,
-                        "description": "코너",
+                        "skill_condition_id": 435,
+                        "description": "무작위 코너",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "코너"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 378,
@@ -30019,7 +30100,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 374,
-                "duration": "1.8",
+                "duration": "3",
                 "effects": [
                     {
                         "skill_effect_id": 2,
@@ -30029,17 +30110,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 265,
-                        "description": "코너",
+                        "skill_condition_id": 435,
+                        "description": "무작위 코너",
                         "extra_description": "",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "코너"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 167,
@@ -30140,8 +30219,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 314,
-                        "description": "모든 진로 가로막힘 1초 이상",
+                        "skill_condition_id": 438,
+                        "description": "둘러싸인 상태",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -30149,8 +30228,7 @@
             }
         ],
         "skill_condition_tags": [
-            "레이스 경과 시간",
-            "가로막힘"
+            "레이스 경과 시간"
         ]
     },
     {
@@ -31100,17 +31178,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 80,
-                        "description": "같은 각질의 다른 우마무스메가 자신 포함 6명 이상",
-                        "extra_description": "",
+                        "skill_condition_id": 432,
+                        "description": "자신과 동일한 작전인 우마무스메의 비율 40% 이상",
+                        "extra_description": "자신포함",
                         "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "출전 정보"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 99,
@@ -31521,7 +31597,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 406,
-                "duration": "3",
+                "duration": "4",
                 "effects": [
                     {
                         "skill_effect_id": 3,
@@ -31536,17 +31612,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
                         "extra_description": "",
-                        "priority": 2
+                        "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "초반"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 411,
@@ -31561,7 +31635,7 @@
         "skill_situations": [
             {
                 "skill_situation_id": 407,
-                "duration": "3",
+                "duration": "4",
                 "effects": [
                     {
                         "skill_effect_id": 3,
@@ -31576,17 +31650,15 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 319,
-                        "description": "레이스 초반",
+                        "skill_condition_id": 433,
+                        "description": "레이스 초반 무작위",
                         "extra_description": "",
-                        "priority": 2
+                        "priority": 0
                     }
                 ]
             }
         ],
-        "skill_condition_tags": [
-            "초반"
-        ]
+        "skill_condition_tags": []
     },
     {
         "skill_id": 532,
