@@ -31892,78 +31892,196 @@
         "skill_id": 981,
         "skill_name": "바다의 가호",
         "ingame_description": "레이스 초반이 시작될 때 가속력이 약간 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
-        "require_pt": 0,
+        "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 82,
         "skill_type_name": "속도 상승 : 그랜드마스터 (노말)",
         "skill_icon_url": "images/skill-types/skill_grandmaster_speed_normal.png",
         "grade": "N",
-        "skill_situations": null,
+        "skill_situations": [
+            {
+                "skill_situation_id": 693,
+                "duration": "1.5",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 442,
+                        "description": "레이스 초반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
         "skill_condition_tags": []
     },
     {
         "skill_id": 982,
         "skill_name": "땅의 가호",
         "ingame_description": "레이스 종반의 중간쯤에서 속도가 약간 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
-        "require_pt": 0,
+        "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 82,
         "skill_type_name": "속도 상승 : 그랜드마스터 (노말)",
         "skill_icon_url": "images/skill-types/skill_grandmaster_speed_normal.png",
         "grade": "N",
-        "skill_situations": null,
+        "skill_situations": [
+            {
+                "skill_situation_id": 691,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 441,
+                        "description": "레이스 종반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
         "skill_condition_tags": []
     },
     {
         "skill_id": 983,
         "skill_name": "햇살의 가호",
         "ingame_description": "레이스 중반에 경합하면 속도가 약간 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
-        "require_pt": 0,
+        "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 82,
         "skill_type_name": "속도 상승 : 그랜드마스터 (노말)",
         "skill_icon_url": "images/skill-types/skill_grandmaster_speed_normal.png",
         "grade": "N",
-        "skill_situations": null,
-        "skill_condition_tags": []
+        "skill_situations": [
+            {
+                "skill_situation_id": 695,
+                "duration": "1.8",
+                "effects": [],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중반"
+        ]
     },
     {
         "skill_id": 929,
         "skill_name": "대해의 예지",
         "ingame_description": "레이스 초반이 시작될 때 가속력이 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
-        "require_pt": 0,
+        "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 83,
         "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
         "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
         "grade": "R",
-        "skill_situations": null,
-        "skill_condition_tags": []
-    },
-    {
-        "skill_id": 931,
-        "skill_name": "대지의 예지",
-        "ingame_description": "레이스 종반의 중간쯤에서 속도가 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
-        "require_pt": 0,
-        "cool_time": 0.0,
-        "skill_type_id": 83,
-        "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
-        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
-        "grade": "R",
-        "skill_situations": null,
+        "skill_situations": [
+            {
+                "skill_situation_id": 692,
+                "duration": "1.5",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 442,
+                        "description": "레이스 초반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
         "skill_condition_tags": []
     },
     {
         "skill_id": 930,
         "skill_name": "태양의 예지",
         "ingame_description": "레이스 중반에 경합하면 속도가 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
-        "require_pt": 0,
+        "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 83,
         "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
         "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
         "grade": "R",
-        "skill_situations": null,
+        "skill_situations": [
+            {
+                "skill_situation_id": 694,
+                "duration": "1.8",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 241,
+                        "description": "레이스 중반",
+                        "extra_description": "",
+                        "priority": 2
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중반"
+        ]
+    },
+    {
+        "skill_id": 931,
+        "skill_name": "대지의 예지",
+        "ingame_description": "레이스 종반의 중간쯤에서 속도가 상승하고 획득한 스킬 수에 따라 효과가 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 83,
+        "skill_type_name": "속도 상승 : 그랜드마스터 (레어)",
+        "skill_icon_url": "images/skill-types/skill_grandmaster_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 690,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 441,
+                        "description": "레이스 종반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
         "skill_condition_tags": []
     }
 ]
