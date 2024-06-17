@@ -86672,5 +86672,47 @@
         "keyword": "지금을달리는이들의시조",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 12383,
+        "event_title_id": 5682,
+        "keyword": "마리모",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12384,
+        "event_title_id": 5682,
+        "keyword": "라벤더꽃",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12385,
+        "event_title_id": 5682,
+        "keyword": "여름 합숙 2년 차 시작",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12386,
+        "event_title_id": 5682,
+        "keyword": "여름 합숙(2년 차) 시작!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12387,
+        "event_title_id": 5682,
+        "keyword": "여름 합숙2년 차 시작",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12388,
+        "event_title_id": 5682,
+        "keyword": "여름합숙2년차시작",
+        "source": "title",
+        "item_order": 0
     }
 ]
