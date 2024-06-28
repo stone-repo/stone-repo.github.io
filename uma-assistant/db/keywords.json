@@ -86564,16 +86564,16 @@
     {
         "id": 12367,
         "event_title_id": 5676,
-        "keyword": "약속 시간에는 맞출 수 있을 것 같아?",
+        "keyword": "열차 타기가 확실히 어렵긴 하지…",
         "source": "item",
-        "item_order": 1
+        "item_order": 2
     },
     {
         "id": 12368,
         "event_title_id": 5676,
-        "keyword": "전차가 어색한 기분…… 잘 알 것 같아",
+        "keyword": "약속 시간까진 도착할 것 같아?",
         "source": "item",
-        "item_order": 2
+        "item_order": 1
     },
     {
         "id": 12369,
