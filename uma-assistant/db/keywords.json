@@ -86714,5 +86714,523 @@
         "keyword": "여름합숙2년차시작",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 12389,
+        "event_title_id": 5683,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12390,
+        "event_title_id": 5683,
+        "keyword": "레츠 파뤼 타임☆",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12391,
+        "event_title_id": 5683,
+        "keyword": "빠르게 신춘 휘호나 하자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12392,
+        "event_title_id": 5683,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12393,
+        "event_title_id": 5683,
+        "keyword": "설음식은 이미 먹었어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12394,
+        "event_title_id": 5684,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12395,
+        "event_title_id": 5684,
+        "keyword": "근처 신사에서 성장 기원",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12396,
+        "event_title_id": 5684,
+        "keyword": "새로운 설음식을 찾는다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12397,
+        "event_title_id": 5684,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12398,
+        "event_title_id": 5684,
+        "keyword": "레츠 파뤼 타임 Lv2☆",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12399,
+        "event_title_id": 5685,
+        "keyword": "수다 오래 견디기!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12400,
+        "event_title_id": 5685,
+        "keyword": "텐업 플랭크 페스티벌!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12401,
+        "event_title_id": 5685,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12402,
+        "event_title_id": 5685,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12403,
+        "event_title_id": 5685,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12404,
+        "event_title_id": 5685,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12405,
+        "event_title_id": 5686,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12406,
+        "event_title_id": 5686,
+        "keyword": "댄스 레슨 (다이이치 루비)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12407,
+        "event_title_id": 5686,
+        "keyword": "역시 배우기보다는 익숙해져야 하지 않을까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12408,
+        "event_title_id": 5686,
+        "keyword": "지금은 마음가짐을 가르쳐 주자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12409,
+        "event_title_id": 5686,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12410,
+        "event_title_id": 5687,
+        "keyword": "최고의 한 수",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12411,
+        "event_title_id": 5687,
+        "keyword": "뛰어난 너라면 눈치챌 줄 알았어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12412,
+        "event_title_id": 5687,
+        "keyword": "다음에는 더욱 어렵게 해야겠네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12413,
+        "event_title_id": 5687,
+        "keyword": "최고의한수",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12414,
+        "event_title_id": 5688,
+        "keyword": "그럼 실컷 달려 보자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12415,
+        "event_title_id": 5688,
+        "keyword": "영광의 흔적",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12416,
+        "event_title_id": 5688,
+        "keyword": "지금부터 이쿠노와 병합 훈련하자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12417,
+        "event_title_id": 5688,
+        "keyword": "영광의흔적",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12418,
+        "event_title_id": 5689,
+        "keyword": "계속 고고한 꽃으로 있자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12419,
+        "event_title_id": 5689,
+        "keyword": "아가씨 랭킹",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12420,
+        "event_title_id": 5689,
+        "keyword": "아가씨랭킹",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12421,
+        "event_title_id": 5689,
+        "keyword": "『빠르고 강하고 똑똑한 아가씨』 1위를 노리자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12422,
+        "event_title_id": 5690,
+        "keyword": "모처럼 왔으니 너도 즐기면 어때?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12423,
+        "event_title_id": 5690,
+        "keyword": "데이터 수집은 순조로워?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12424,
+        "event_title_id": 5690,
+        "keyword": "홍옥은 흔들리지 않는다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12425,
+        "event_title_id": 5690,
+        "keyword": "홍옥은흔들리지않는다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12426,
+        "event_title_id": 5691,
+        "keyword": "이것도 중요한 감상이라고 생각해",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12427,
+        "event_title_id": 5691,
+        "keyword": "홍옥은 환희하지 않는다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12428,
+        "event_title_id": 5691,
+        "keyword": "누구와 가느냐가 중요한 거 아닐까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12429,
+        "event_title_id": 5691,
+        "keyword": "홍옥은환희하지않는다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12430,
+        "event_title_id": 5692,
+        "keyword": "이 정도는 언제라도 도와줄게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12431,
+        "event_title_id": 5692,
+        "keyword": "홍옥은 변치 않는다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12432,
+        "event_title_id": 5692,
+        "keyword": "도움이 되어 영광이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12433,
+        "event_title_id": 5692,
+        "keyword": "칭찬받을 줄이야!!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12434,
+        "event_title_id": 5692,
+        "keyword": "홍옥은변치않는다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12435,
+        "event_title_id": 5693,
+        "keyword": "좀 걱정될지도…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12436,
+        "event_title_id": 5693,
+        "keyword": "누구라 할지라도",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12437,
+        "event_title_id": 5693,
+        "keyword": "누구라할지라도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12438,
+        "event_title_id": 5693,
+        "keyword": "대단하십니다…!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12439,
+        "event_title_id": 5694,
+        "keyword": "정말 감동한 줄 알았어…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12440,
+        "event_title_id": 5694,
+        "keyword": "다이이치 루비의 화려한 프로레슬링 관전",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12441,
+        "event_title_id": 5694,
+        "keyword": "프로레슬링은 별로였어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12442,
+        "event_title_id": 5694,
+        "keyword": "다이이치루비의화려한프로레슬링관전",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12443,
+        "event_title_id": 5695,
+        "keyword": "맛있는 걸 많이 먹고 와",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12444,
+        "event_title_id": 5695,
+        "keyword": "화려한 스케줄",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12445,
+        "event_title_id": 5695,
+        "keyword": "과식하지 않도록 주의해",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12446,
+        "event_title_id": 5695,
+        "keyword": "화려한스케줄",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12447,
+        "event_title_id": 5696,
+        "keyword": "정말 잘 어울려",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12448,
+        "event_title_id": 5696,
+        "keyword": "너도 마음에 드는 것 같아서 다행이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12449,
+        "event_title_id": 5696,
+        "keyword": "화려한 그 모습",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12450,
+        "event_title_id": 5696,
+        "keyword": "화려한그모습",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12451,
+        "event_title_id": 5697,
+        "keyword": "둘만 듣기에 아까울 정도야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12452,
+        "event_title_id": 5697,
+        "keyword": "우아한 그 소리",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12453,
+        "event_title_id": 5697,
+        "keyword": "근사한 연주였어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12454,
+        "event_title_id": 5697,
+        "keyword": "우아한그소리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12455,
+        "event_title_id": 5698,
+        "keyword": "정말 고마워!!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12456,
+        "event_title_id": 5698,
+        "keyword": "고귀한 그 마음",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12457,
+        "event_title_id": 5698,
+        "keyword": "앞으로는 조심할게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12458,
+        "event_title_id": 5698,
+        "keyword": "고귀한그마음",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12459,
+        "event_title_id": 5699,
+        "keyword": "서투름 따윈 허용되지 않는다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12460,
+        "event_title_id": 5699,
+        "keyword": "도전한다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12461,
+        "event_title_id": 5699,
+        "keyword": "그만두라고 설득한다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12462,
+        "event_title_id": 5699,
+        "keyword": "서투름따윈허용되지않는다",
+        "source": "title",
+        "item_order": 0
     }
 ]
