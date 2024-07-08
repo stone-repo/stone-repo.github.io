@@ -84134,3102 +84134,4047 @@
     },
     {
         "id": 12020,
+        "event_title_id": 5594,
+        "keyword": "드리겠습니다 반드시",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12021,
+        "event_title_id": 5594,
+        "keyword": "드리겠습니다반드시",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12022,
         "event_title_id": 5595,
         "keyword": "하고 싶은 일",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12021,
+        "id": 12023,
         "event_title_id": 5596,
         "keyword": "적극적인 귀족 대회",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12022,
+        "id": 12024,
         "event_title_id": 5596,
         "keyword": "성실함을 어필!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12023,
+        "id": 12025,
         "event_title_id": 5596,
         "keyword": "믿음직하게 지켜준다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12024,
+        "id": 12026,
         "event_title_id": 5596,
         "keyword": "적극적인귀족대회",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12025,
+        "id": 12027,
         "event_title_id": 5597,
         "keyword": "언니만 믿어",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12026,
+        "id": 12028,
         "event_title_id": 5597,
         "keyword": "언니만 믿어!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12027,
+        "id": 12029,
         "event_title_id": 5597,
         "keyword": "나한테도 어드바이스해 줘!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12028,
+        "id": 12030,
         "event_title_id": 5597,
         "keyword": "언니만믿어",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12029,
+        "id": 12031,
         "event_title_id": 5597,
         "keyword": "아이네스는 모두의 언니구나",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12030,
+        "id": 12032,
         "event_title_id": 5598,
         "keyword": "마블러스식 이문화 교류",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12031,
+        "id": 12033,
         "event_title_id": 5599,
         "keyword": "무척 마블러스해☆",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12032,
+        "id": 12034,
         "event_title_id": 5599,
         "keyword": "본받고 싶은 사고방식인걸",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12033,
+        "id": 12035,
         "event_title_id": 5599,
         "keyword": "마블러스 무한 차지",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12034,
+        "id": 12036,
         "event_title_id": 5599,
         "keyword": "마블러스 무한 차지☆",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12035,
+        "id": 12037,
         "event_title_id": 5599,
         "keyword": "에너지가 바닥이 보이질 않는구나…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12036,
+        "id": 12038,
         "event_title_id": 5599,
         "keyword": "마블러스무한차지",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12037,
+        "id": 12039,
         "event_title_id": 5600,
         "keyword": "마블러스 고갈 문제",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12038,
+        "id": 12040,
         "event_title_id": 5601,
         "keyword": "그럼 다른 애한테 부탁해 보는 건 어때?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12039,
+        "id": 12041,
         "event_title_id": 5601,
         "keyword": "진짜 어떤지는 본인 말곤 알 수 없는 거야",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12040,
+        "id": 12042,
         "event_title_id": 5601,
         "keyword": "뜨거운 유대 보노와 히어로가",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12041,
+        "id": 12043,
         "event_title_id": 5601,
         "keyword": "뜨거운 유대! 보노와 히어로가!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12042,
+        "id": 12044,
         "event_title_id": 5601,
         "keyword": "뜨거운유대보노와히어로가",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12043,
+        "id": 12045,
         "event_title_id": 5602,
         "keyword": "똑바로! 마음이 통하는 과자 만들기",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12044,
+        "id": 12046,
         "event_title_id": 5603,
         "keyword": "변신! 네이처는 프린파이!?",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12045,
+        "id": 12047,
         "event_title_id": 5604,
         "keyword": "뭐든지 있어요, 보노 식당",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12046,
+        "id": 12048,
         "event_title_id": 5605,
         "keyword": "네 고민도 해결됐어?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12047,
+        "id": 12049,
         "event_title_id": 5605,
         "keyword": "나도 아는 식당인 거 같은데?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12048,
+        "id": 12050,
         "event_title_id": 5605,
         "keyword": "잠깐의 휴식 보노 식당",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12049,
+        "id": 12051,
         "event_title_id": 5605,
         "keyword": "잠깐의 휴식, 보노 식당",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12050,
+        "id": 12052,
         "event_title_id": 5605,
         "keyword": "잠깐의휴식보노식당",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12051,
+        "id": 12053,
         "event_title_id": 5606,
         "keyword": "당신의 곁에, 보노 식당",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12052,
+        "id": 12054,
         "event_title_id": 5607,
         "keyword": "신년 포부",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12053,
+        "id": 12055,
         "event_title_id": 5607,
         "keyword": "『보물 지도』가 가리키는 장소로 달려간다!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12054,
+        "id": 12056,
         "event_title_id": 5607,
         "keyword": "신년포부",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12055,
+        "id": 12057,
         "event_title_id": 5607,
         "keyword": "『찬합』에 든 음식을 먹는다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12056,
+        "id": 12058,
         "event_title_id": 5607,
         "keyword": "『100만 엔』을 줍는다",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12057,
+        "id": 12059,
         "event_title_id": 5608,
         "keyword": "새해 첫 참배",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12058,
+        "id": 12060,
         "event_title_id": 5608,
         "keyword": "간식 먹자",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12059,
+        "id": 12061,
         "event_title_id": 5608,
         "keyword": "실컷 몸을 움직이자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12060,
+        "id": 12062,
         "event_title_id": 5608,
         "keyword": "바다라도 보러 갈까?",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12061,
+        "id": 12063,
         "event_title_id": 5608,
         "keyword": "새해첫참배",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12062,
+        "id": 12064,
         "event_title_id": 5609,
         "keyword": "스모로 파워 대결!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12063,
+        "id": 12065,
         "event_title_id": 5609,
         "keyword": "스쿼트로 근성 겨루기",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12064,
-        "event_title_id": 5609,
-        "keyword": "여름 합숙 2년 차 에서",
-        "source": "title",
-        "item_order": 0
-    },
-    {
-        "id": 12065,
-        "event_title_id": 5609,
-        "keyword": "여름 합숙(2년 차)에서",
-        "source": "origin",
-        "item_order": 0
-    },
-    {
         "id": 12066,
         "event_title_id": 5609,
-        "keyword": "여름 합숙2년 차에서",
+        "keyword": "여름 합숙 2년 차 에서",
         "source": "title",
         "item_order": 0
     },
     {
         "id": 12067,
         "event_title_id": 5609,
-        "keyword": "여름합숙2년차에서",
-        "source": "title",
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
         "item_order": 0
     },
     {
         "id": 12068,
-        "event_title_id": 5610,
-        "keyword": "킹 헤일로가 더…",
-        "source": "item",
-        "item_order": 2
+        "event_title_id": 5609,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
     },
     {
         "id": 12069,
-        "event_title_id": 5610,
-        "keyword": "댄스 레슨",
+        "event_title_id": 5609,
+        "keyword": "여름합숙2년차에서",
         "source": "title",
         "item_order": 0
     },
     {
         "id": 12070,
         "event_title_id": 5610,
+        "keyword": "킹 헤일로가 더…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12071,
+        "event_title_id": 5610,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12072,
+        "event_title_id": 5610,
         "keyword": "댄스 레슨 (신코 윈디)",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12071,
+        "id": 12073,
         "event_title_id": 5610,
         "keyword": "물론, 윈디지!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12072,
+        "id": 12074,
         "event_title_id": 5610,
         "keyword": "댄스레슨",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12073,
+        "id": 12075,
         "event_title_id": 5611,
         "keyword": "설마 인 거냐",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12074,
+        "id": 12076,
         "event_title_id": 5611,
         "keyword": "설마… 인 거냐!?",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12075,
+        "id": 12077,
         "event_title_id": 5611,
         "keyword": "리액션 순발력을 길러야겠다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12076,
+        "id": 12078,
         "event_title_id": 5611,
         "keyword": "설마인거냐",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12077,
+        "id": 12079,
         "event_title_id": 5611,
         "keyword": "언제든지 OK야!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12078,
+        "id": 12080,
         "event_title_id": 5612,
         "keyword": "그보다 커다란 깜짝 상자는 어때?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12079,
+        "id": 12081,
         "event_title_id": 5612,
         "keyword": "제자가 생겼다는 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12080,
+        "id": 12082,
         "event_title_id": 5612,
         "keyword": "제자가 생겼다는 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12081,
+        "id": 12083,
         "event_title_id": 5612,
         "keyword": "장난보다는 평범하게 화해하는 게 좋아",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12082,
+        "id": 12084,
         "event_title_id": 5612,
         "keyword": "제자가생겼다는거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12083,
+        "id": 12085,
         "event_title_id": 5613,
         "keyword": "알기 쉽게 설명해서 마음을 바꾼다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12084,
+        "id": 12086,
         "event_title_id": 5613,
         "keyword": "상으로 스티커를 주겠다고 약속한다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12085,
+        "id": 12087,
         "event_title_id": 5613,
         "keyword": "양치질은 중요하다는 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12086,
+        "id": 12088,
         "event_title_id": 5613,
         "keyword": "양치질은 중요하다는 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12087,
+        "id": 12089,
         "event_title_id": 5613,
         "keyword": "양치질은중요하다는거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12088,
+        "id": 12090,
         "event_title_id": 5614,
         "keyword": "나쁜 짓은 좀…",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12089,
+        "id": 12091,
         "event_title_id": 5614,
         "keyword": "키익! (알겠습니다, 두목!)",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12090,
+        "id": 12092,
         "event_title_id": 5614,
         "keyword": "악동의 끝없는 탐구",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12091,
+        "id": 12093,
         "event_title_id": 5614,
         "keyword": "악동의끝없는탐구",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12092,
+        "id": 12094,
         "event_title_id": 5615,
         "keyword": "'당근' 더 줘",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12093,
+        "id": 12095,
         "event_title_id": 5615,
         "keyword": "악동은 동지에게 배운다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12094,
+        "id": 12096,
         "event_title_id": 5615,
         "keyword": "부하로서 열심히 하겠습니다!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12095,
+        "id": 12097,
         "event_title_id": 5615,
         "keyword": "악동은동지에게배운다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12096,
+        "id": 12098,
         "event_title_id": 5616,
         "keyword": "키이~! (알겠습니다, 두목!)",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12097,
+        "id": 12099,
         "event_title_id": 5616,
         "keyword": "좋은 일을 하면 더 기분 좋지 않아…?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12098,
+        "id": 12100,
         "event_title_id": 5616,
         "keyword": "악동이 간다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12099,
+        "id": 12101,
         "event_title_id": 5616,
         "keyword": "부하로서, 정진하겠습니다!",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12100,
+        "id": 12102,
         "event_title_id": 5616,
         "keyword": "악동이간다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12101,
+        "id": 12103,
         "event_title_id": 5617,
         "keyword": "도우러 간 거라니 장하다!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12102,
+        "id": 12104,
         "event_title_id": 5617,
         "keyword": "쇼타임인 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12103,
+        "id": 12105,
         "event_title_id": 5617,
         "keyword": "쇼타임인 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12104,
+        "id": 12106,
         "event_title_id": 5617,
         "keyword": "라이브를 뜨겁게 달구자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12105,
+        "id": 12107,
         "event_title_id": 5617,
         "keyword": "쇼타임인거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12106,
+        "id": 12108,
         "event_title_id": 5618,
         "keyword": "나쁜 늑대인 거다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12107,
+        "id": 12109,
         "event_title_id": 5618,
         "keyword": "같이 있으면 심심하지 않아",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12108,
+        "id": 12110,
         "event_title_id": 5618,
         "keyword": "늑대에게도 신념이 있구나…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12109,
+        "id": 12111,
         "event_title_id": 5618,
         "keyword": "나쁜늑대인거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12110,
+        "id": 12112,
         "event_title_id": 5619,
         "keyword": "남은 건 포장하자",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12111,
+        "id": 12113,
         "event_title_id": 5619,
         "keyword": "윈디는 전설이 될 수 있어!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12112,
+        "id": 12114,
         "event_title_id": 5619,
         "keyword": "윈디짱이 다 먹어 치우겠다는 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12113,
+        "id": 12115,
         "event_title_id": 5619,
         "keyword": "윈디짱이 다 먹어 치우겠다는 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12114,
+        "id": 12116,
         "event_title_id": 5619,
         "keyword": "윈디짱이다먹어치우겠다는거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12115,
+        "id": 12117,
         "event_title_id": 5620,
         "keyword": "계속 좋아하는 포즈로 하자!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12116,
+        "id": 12118,
         "event_title_id": 5620,
         "keyword": "귀여운 포즈도 보고 싶은데…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12117,
+        "id": 12119,
         "event_title_id": 5620,
         "keyword": "악당은 자유롭고 멋있다는 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12118,
+        "id": 12120,
         "event_title_id": 5620,
         "keyword": "악당은 자유롭고 멋있다는 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12119,
+        "id": 12121,
         "event_title_id": 5620,
         "keyword": "악당은자유롭고멋있다는거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12120,
+        "id": 12122,
         "event_title_id": 5621,
         "keyword": "좋은 일을 했네!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12121,
+        "id": 12123,
         "event_title_id": 5621,
         "keyword": "충직한 부하가 늘었는걸!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12122,
+        "id": 12124,
         "event_title_id": 5621,
         "keyword": "윈디짱의 악역 쇼인 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12123,
+        "id": 12125,
         "event_title_id": 5621,
         "keyword": "윈디짱의 악역 쇼인 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12124,
+        "id": 12126,
         "event_title_id": 5621,
         "keyword": "윈디짱의악역쇼인거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12125,
+        "id": 12127,
         "event_title_id": 5622,
         "keyword": "너의 힘으로 놀라게 만들자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12126,
+        "id": 12128,
         "event_title_id": 5622,
         "keyword": "비와 하야히데의 조언을 참고하자",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12127,
+        "id": 12129,
         "event_title_id": 5622,
         "keyword": "하야히데를 놀라게 하는 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12128,
+        "id": 12130,
         "event_title_id": 5622,
         "keyword": "하야히데를 놀라게 하는 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12129,
+        "id": 12131,
         "event_title_id": 5622,
         "keyword": "하야히데를놀라게하는거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12130,
+        "id": 12132,
         "event_title_id": 5623,
         "keyword": "이 계획은 그만두자…",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12131,
+        "id": 12133,
         "event_title_id": 5623,
         "keyword": "장난 대계획 시동인 거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12132,
+        "id": 12134,
         "event_title_id": 5623,
         "keyword": "장난 대계획, 시동인 거다!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12133,
+        "id": 12135,
         "event_title_id": 5623,
         "keyword": "범위를 반으로 줄일까?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12134,
+        "id": 12136,
         "event_title_id": 5623,
         "keyword": "최선을 다해서 성공시키자!!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12135,
+        "id": 12137,
         "event_title_id": 5623,
         "keyword": "장난대계획시동인거다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12136,
+        "id": 12138,
         "event_title_id": 5624,
         "keyword": "감기 조심",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12137,
+        "id": 12139,
         "event_title_id": 5624,
         "keyword": "신년 포부",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12138,
+        "id": 12140,
         "event_title_id": 5624,
         "keyword": "일일 일선",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12139,
+        "id": 12141,
         "event_title_id": 5624,
         "keyword": "타도 테이오!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12140,
+        "id": 12142,
         "event_title_id": 5624,
         "keyword": "신년포부",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12141,
+        "id": 12143,
         "event_title_id": 5625,
         "keyword": "개, 고양이와 놀기",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12142,
+        "id": 12144,
         "event_title_id": 5625,
         "keyword": "새해 첫 참배",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12143,
+        "id": 12145,
         "event_title_id": 5625,
         "keyword": "극한 체조",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12144,
+        "id": 12146,
         "event_title_id": 5625,
         "keyword": "영상 마구 찍기",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12145,
+        "id": 12147,
         "event_title_id": 5625,
         "keyword": "새해첫참배",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12146,
+        "id": 12148,
         "event_title_id": 5626,
         "keyword": "발판을 가지고 온다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12147,
+        "id": 12149,
         "event_title_id": 5626,
         "keyword": "계속해서 점프&토크!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12148,
-        "event_title_id": 5626,
-        "keyword": "여름 합숙 2년 차 에서",
-        "source": "title",
-        "item_order": 0
-    },
-    {
-        "id": 12149,
-        "event_title_id": 5626,
-        "keyword": "여름 합숙(2년 차)에서",
-        "source": "origin",
-        "item_order": 0
-    },
-    {
         "id": 12150,
         "event_title_id": 5626,
-        "keyword": "여름 합숙2년 차에서",
+        "keyword": "여름 합숙 2년 차 에서",
         "source": "title",
         "item_order": 0
     },
     {
         "id": 12151,
         "event_title_id": 5626,
-        "keyword": "여름합숙2년차에서",
-        "source": "title",
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
         "item_order": 0
     },
     {
         "id": 12152,
-        "event_title_id": 5627,
-        "keyword": "댄스 레슨",
+        "event_title_id": 5626,
+        "keyword": "여름 합숙2년 차에서",
         "source": "title",
         "item_order": 0
     },
     {
         "id": 12153,
-        "event_title_id": 5627,
-        "keyword": "댄스 레슨 (트윈 터보)",
-        "source": "origin",
+        "event_title_id": 5626,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
         "item_order": 0
     },
     {
         "id": 12154,
         "event_title_id": 5627,
-        "keyword": "댄스레슨",
+        "keyword": "댄스 레슨",
         "source": "title",
         "item_order": 0
     },
     {
         "id": 12155,
         "event_title_id": 5627,
+        "keyword": "댄스 레슨 (트윈 터보)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12156,
+        "event_title_id": 5627,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12157,
+        "event_title_id": 5627,
         "keyword": "이거라면 어떤 댄스라도 해낼 수 있겠어",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12156,
+        "id": 12158,
         "event_title_id": 5627,
         "keyword": "힘들수록 잘하네!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12157,
+        "id": 12159,
         "event_title_id": 5628,
         "keyword": "바벨 들기로 정하자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12158,
+        "id": 12160,
         "event_title_id": 5628,
         "keyword": "즐거움 이 제일",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12159,
+        "id": 12161,
         "event_title_id": 5628,
         "keyword": "즐거움이 제일",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12160,
+        "id": 12162,
         "event_title_id": 5628,
         "keyword": "레이스로 정하자!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12161,
+        "id": 12163,
         "event_title_id": 5628,
         "keyword": "즐거움이제일",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12162,
+        "id": 12164,
         "event_title_id": 5628,
         "keyword": "『즐거움』이 제일!!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12163,
+        "id": 12165,
         "event_title_id": 5629,
         "keyword": "직접 만들어 보는 건 어때?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12164,
+        "id": 12166,
         "event_title_id": 5629,
         "keyword": "천천히 소설을 읽어 보는 건 어때?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12165,
+        "id": 12167,
         "event_title_id": 5629,
         "keyword": "주인공은 터보",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12166,
+        "id": 12168,
         "event_title_id": 5629,
         "keyword": "주인공은 터보!!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12167,
+        "id": 12169,
         "event_title_id": 5629,
         "keyword": "주인공은터보",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12168,
+        "id": 12170,
         "event_title_id": 5630,
         "keyword": "선두를 노려라 당근 햄버그",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12169,
+        "id": 12171,
         "event_title_id": 5630,
         "keyword": "자신의 속도를 믿으면 괜찮아!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12170,
+        "id": 12172,
         "event_title_id": 5630,
         "keyword": "선두를 노려라! 당근 햄버그!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12171,
+        "id": 12173,
         "event_title_id": 5630,
         "keyword": "터보한테는 선두가 어울려!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12172,
+        "id": 12174,
         "event_title_id": 5630,
         "keyword": "선두를노려라당근햄버그",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12173,
+        "id": 12175,
         "event_title_id": 5631,
         "keyword": "주제 석양",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12174,
+        "id": 12176,
         "event_title_id": 5631,
         "keyword": "둘을 흉내 내서 쓴다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12175,
+        "id": 12177,
         "event_title_id": 5631,
         "keyword": "주제 『석양』",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12176,
+        "id": 12178,
         "event_title_id": 5631,
         "keyword": "주제석양",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12177,
+        "id": 12179,
         "event_title_id": 5631,
         "keyword": "평소대로 쓴다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12178,
+        "id": 12180,
         "event_title_id": 5632,
         "keyword": "주제 꽃",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12179,
+        "id": 12181,
         "event_title_id": 5632,
         "keyword": "주제 『꽃』",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12180,
+        "id": 12182,
         "event_title_id": 5632,
         "keyword": "꽃을 관찰한다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12181,
+        "id": 12183,
         "event_title_id": 5632,
         "keyword": "주제꽃",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12182,
+        "id": 12184,
         "event_title_id": 5632,
         "keyword": "정성껏 『꽃』이라고 쓴다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12183,
+        "id": 12185,
         "event_title_id": 5633,
         "keyword": "주제 바다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12184,
+        "id": 12186,
         "event_title_id": 5633,
         "keyword": "박력 있는 글씨로 『바다』!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12185,
+        "id": 12187,
         "event_title_id": 5633,
         "keyword": "주제 『바다』",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12186,
+        "id": 12188,
         "event_title_id": 5633,
         "keyword": "해파리 같은 『바다』~",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12187,
+        "id": 12189,
         "event_title_id": 5633,
         "keyword": "차분한 글씨로 『바다』…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12188,
+        "id": 12190,
         "event_title_id": 5633,
         "keyword": "주제바다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12189,
+        "id": 12191,
         "event_title_id": 5634,
         "keyword": "이 정도라면 괜찮아",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12190,
+        "id": 12192,
         "event_title_id": 5634,
         "keyword": "졸린 떼쟁이",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12191,
+        "id": 12193,
         "event_title_id": 5634,
         "keyword": "앞으로 확실히 지도할게",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12192,
+        "id": 12194,
         "event_title_id": 5634,
         "keyword": "졸린떼쟁이",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12193,
+        "id": 12195,
         "event_title_id": 5635,
         "keyword": "도주 그룹 라이브 개최",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12194,
+        "id": 12196,
         "event_title_id": 5635,
         "keyword": "도주 그룹 라이브 개최☆",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12195,
+        "id": 12197,
         "event_title_id": 5635,
         "keyword": "정말 즐거웠어",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12196,
+        "id": 12198,
         "event_title_id": 5635,
         "keyword": "압권의 퍼포먼스였어!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12197,
+        "id": 12199,
         "event_title_id": 5635,
         "keyword": "도주그룹라이브개최",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12198,
+        "id": 12200,
         "event_title_id": 5636,
         "keyword": "힘내!!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12199,
+        "id": 12201,
         "event_title_id": 5636,
         "keyword": "터보도 많이 먹을 수 있거든",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12200,
+        "id": 12202,
         "event_title_id": 5636,
         "keyword": "터보도 많이 먹을 수 있거든!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12201,
+        "id": 12203,
         "event_title_id": 5636,
         "keyword": "승부할 필요는 없어",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12202,
+        "id": 12204,
         "event_title_id": 5636,
         "keyword": "터보도많이먹을수있거든",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12203,
+        "id": 12205,
         "event_title_id": 5637,
         "keyword": "최종 병기 트리플 터보",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12204,
+        "id": 12206,
         "event_title_id": 5637,
         "keyword": "최종 병기 트리플 터보!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12205,
+        "id": 12207,
         "event_title_id": 5637,
         "keyword": "그럼 다음부터는 혼자서 탈래?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12206,
+        "id": 12208,
         "event_title_id": 5637,
         "keyword": "의지가 되는 승부복이네",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12207,
+        "id": 12209,
         "event_title_id": 5637,
         "keyword": "최종병기트리플터보",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12208,
+        "id": 12210,
         "event_title_id": 5638,
         "keyword": "언제 어디서든 전력",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12209,
+        "id": 12211,
         "event_title_id": 5638,
         "keyword": "언제 어디서든 전력!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12210,
+        "id": 12212,
         "event_title_id": 5638,
         "keyword": "터보는 대단하네",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12211,
+        "id": 12213,
         "event_title_id": 5638,
         "keyword": "걱정되니까 행동하기 전에 말해 줘…!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12212,
+        "id": 12214,
         "event_title_id": 5638,
         "keyword": "언제어디서든전력",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12213,
+        "id": 12215,
         "event_title_id": 5639,
         "keyword": "어떤 의미에서는 무적이었어",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12214,
+        "id": 12216,
         "event_title_id": 5639,
         "keyword": "절대로 포기 안 할 거야",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12215,
+        "id": 12217,
         "event_title_id": 5639,
         "keyword": "절대로 포기 안 할 거야!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12216,
+        "id": 12218,
         "event_title_id": 5639,
         "keyword": "앞으로도 계속 도주하자",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12217,
+        "id": 12219,
         "event_title_id": 5639,
         "keyword": "절대로포기안할거야",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12218,
+        "id": 12220,
         "event_title_id": 5640,
         "keyword": "쉬는 게 좋아",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12219,
+        "id": 12221,
         "event_title_id": 5640,
         "keyword": "터보 엔진 한계 돌파",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12220,
+        "id": 12222,
         "event_title_id": 5640,
         "keyword": "터보 엔진 한계 돌파!!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12221,
+        "id": 12223,
         "event_title_id": 5640,
         "keyword": "그럼 조금만 더 하는 거야",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12222,
+        "id": 12224,
         "event_title_id": 5640,
         "keyword": "터보엔진한계돌파",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12223,
+        "id": 12225,
         "event_title_id": 5641,
         "keyword": "신년 포부",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12224,
+        "id": 12226,
         "event_title_id": 5641,
         "keyword": "신사에 참배하러 간다",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12225,
+        "id": 12227,
         "event_title_id": 5641,
         "keyword": "신년포부",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12226,
+        "id": 12228,
         "event_title_id": 5641,
         "keyword": "서점에서 시집을 찾는다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12227,
+        "id": 12229,
         "event_title_id": 5641,
         "keyword": "카페테리아에서 느긋하게 있는다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12228,
+        "id": 12230,
         "event_title_id": 5642,
         "keyword": "새해 첫 참배",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12229,
+        "id": 12231,
         "event_title_id": 5642,
         "keyword": "새해인 김에 설음식 만들기",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12230,
+        "id": 12232,
         "event_title_id": 5642,
         "keyword": "참배하러 간다",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12231,
+        "id": 12233,
         "event_title_id": 5642,
         "keyword": "코타츠를 사서 느긋하게",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12232,
+        "id": 12234,
         "event_title_id": 5642,
         "keyword": "새해첫참배",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12233,
+        "id": 12235,
         "event_title_id": 5643,
         "keyword": "『한계를 넘어라, 트라이애슬론!』",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12234,
+        "id": 12236,
         "event_title_id": 5643,
         "keyword": "『여름의 모래사장 근력 운동 메뉴』",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12235,
-        "event_title_id": 5643,
-        "keyword": "여름 합숙 2년 차 에서",
-        "source": "title",
-        "item_order": 0
-    },
-    {
-        "id": 12236,
-        "event_title_id": 5643,
-        "keyword": "여름 합숙(2년 차)에서",
-        "source": "origin",
-        "item_order": 0
-    },
-    {
         "id": 12237,
         "event_title_id": 5643,
-        "keyword": "여름 합숙2년 차에서",
+        "keyword": "여름 합숙 2년 차 에서",
         "source": "title",
         "item_order": 0
     },
     {
         "id": 12238,
         "event_title_id": 5643,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12239,
+        "event_title_id": 5643,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12240,
+        "event_title_id": 5643,
         "keyword": "여름합숙2년차에서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12239,
+        "id": 12241,
         "event_title_id": 5644,
         "keyword": "댄스 레슨",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12240,
+        "id": 12242,
         "event_title_id": 5644,
         "keyword": "댄스 레슨 (미스터 시비)",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12241,
+        "id": 12243,
         "event_title_id": 5644,
         "keyword": "분명 팬들도 그런 너를 기다릴 거야",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12242,
+        "id": 12244,
         "event_title_id": 5644,
         "keyword": "그럼 라이브에서 춤추고 싶지 않을 때는?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12243,
+        "id": 12245,
         "event_title_id": 5644,
         "keyword": "댄스레슨",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12244,
+        "id": 12246,
         "event_title_id": 5645,
         "keyword": "아침 라멘을 찾아서",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12245,
+        "id": 12247,
         "event_title_id": 5645,
         "keyword": "아무튼 먹고 기운을 내자!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12246,
+        "id": 12248,
         "event_title_id": 5645,
         "keyword": "아침부터 엄청나게 걸어 다녔네…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12247,
+        "id": 12249,
         "event_title_id": 5645,
         "keyword": "아침라멘을찾아서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12248,
+        "id": 12250,
         "event_title_id": 5646,
         "keyword": "파장이 맞는 둘",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12249,
+        "id": 12251,
         "event_title_id": 5646,
         "keyword": "시리우스랑 병합 훈련해 볼래?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12250,
+        "id": 12252,
         "event_title_id": 5646,
         "keyword": "시리우스의 후배들을 확실히 단련시켜 줄게",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12251,
+        "id": 12253,
         "event_title_id": 5646,
         "keyword": "파장이맞는둘",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12252,
+        "id": 12254,
         "event_title_id": 5647,
         "keyword": "시비가 잔뜩",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12253,
+        "id": 12255,
         "event_title_id": 5647,
         "keyword": "달리는 기술은 흉내 못 내지 않을까?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12254,
+        "id": 12256,
         "event_title_id": 5647,
         "keyword": "시비가잔뜩",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12255,
+        "id": 12257,
         "event_title_id": 5647,
         "keyword": "트레이닝도 흉내 낼 생각일까…",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12256,
+        "id": 12258,
         "event_title_id": 5648,
         "keyword": "선물 에 필요한 것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12257,
+        "id": 12259,
         "event_title_id": 5648,
         "keyword": "좋은 가족이네",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12258,
+        "id": 12260,
         "event_title_id": 5648,
         "keyword": "재밌을 것 같아…!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12259,
+        "id": 12261,
         "event_title_id": 5648,
         "keyword": "선물에 필요한 것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12260,
+        "id": 12262,
         "event_title_id": 5648,
         "keyword": "『선물』에 필요한 것",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12261,
+        "id": 12263,
         "event_title_id": 5648,
         "keyword": "선물에필요한것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12262,
+        "id": 12264,
         "event_title_id": 5649,
         "keyword": "자유 에 필요한 것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12263,
+        "id": 12265,
         "event_title_id": 5649,
         "keyword": "위험한 자유!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12264,
+        "id": 12266,
         "event_title_id": 5649,
         "keyword": "자유에 필요한 것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12265,
+        "id": 12267,
         "event_title_id": 5649,
         "keyword": "안전한 부자유…겠지",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12266,
+        "id": 12268,
         "event_title_id": 5649,
         "keyword": "『자유』에 필요한 것",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12267,
+        "id": 12269,
         "event_title_id": 5649,
         "keyword": "자유에필요한것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12268,
+        "id": 12270,
         "event_title_id": 5650,
         "keyword": "행복 에 필요한 것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12269,
+        "id": 12271,
         "event_title_id": 5650,
         "keyword": "항상 자신의 마음을 따를 수 있냐 없냐인가",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12270,
+        "id": 12272,
         "event_title_id": 5650,
         "keyword": "행복에 필요한 것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12271,
+        "id": 12273,
         "event_title_id": 5650,
         "keyword": "부모님 이야기를 더 듣고 싶은데",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12272,
+        "id": 12274,
         "event_title_id": 5650,
         "keyword": "앞으로도 계속 자유로웠으면 좋겠네",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12273,
+        "id": 12275,
         "event_title_id": 5650,
         "keyword": "『행복』에 필요한 것",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12274,
+        "id": 12276,
         "event_title_id": 5650,
         "keyword": "행복에필요한것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12275,
+        "id": 12277,
         "event_title_id": 5651,
         "keyword": "그 싸움은 훗날 전설이라 불렸으며",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12276,
+        "id": 12278,
         "event_title_id": 5651,
         "keyword": "나도 이기고 싶어!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12277,
+        "id": 12279,
         "event_title_id": 5651,
         "keyword": "평소처럼 마지막 스퍼트를 올리자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12278,
+        "id": 12280,
         "event_title_id": 5651,
         "keyword": "그싸움은훗날전설이라불렸으며",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12279,
+        "id": 12281,
         "event_title_id": 5652,
         "keyword": "모험을 좀 해 본다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12280,
+        "id": 12282,
         "event_title_id": 5652,
         "keyword": "요리는 어때야만 하는가",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12281,
+        "id": 12283,
         "event_title_id": 5652,
         "keyword": "정석대로",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12282,
+        "id": 12284,
         "event_title_id": 5652,
         "keyword": "요리는어때야만하는가",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12283,
+        "id": 12285,
         "event_title_id": 5653,
         "keyword": "그거 좋네!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12284,
+        "id": 12286,
         "event_title_id": 5653,
         "keyword": "산더미 같은 보은",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12285,
+        "id": 12287,
         "event_title_id": 5653,
         "keyword": "조리해서 보존해 두면 되지 않아?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12286,
+        "id": 12288,
         "event_title_id": 5653,
         "keyword": "산더미같은보은",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12287,
+        "id": 12289,
         "event_title_id": 5654,
         "keyword": "답을 알기 위해서도 승부복하고 마주하자",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12288,
+        "id": 12290,
         "event_title_id": 5654,
         "keyword": "힘의 원천이 승부복이라 그런 게 아닐까",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12289,
+        "id": 12291,
         "event_title_id": 5654,
         "keyword": "승부복과 달린다는 것",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12290,
+        "id": 12292,
         "event_title_id": 5654,
         "keyword": "승부복과달린다는것",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12291,
+        "id": 12293,
         "event_title_id": 5655,
         "keyword": "등잔 밑이 어두웠던 건가",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12292,
+        "id": 12294,
         "event_title_id": 5655,
         "keyword": "나도 노래를 들어 보고 싶어!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12293,
+        "id": 12295,
         "event_title_id": 5655,
         "keyword": "행운의 싱어 를 쫓아서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12294,
+        "id": 12296,
         "event_title_id": 5655,
         "keyword": "행운의 싱어를 쫓아서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12295,
+        "id": 12297,
         "event_title_id": 5655,
         "keyword": "『행운의 싱어』를 쫓아서",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12296,
+        "id": 12298,
         "event_title_id": 5655,
         "keyword": "행운의싱어를쫓아서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12297,
+        "id": 12299,
         "event_title_id": 5656,
         "keyword": "아직 돌아가기 싫어…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12298,
+        "id": 12300,
         "event_title_id": 5656,
         "keyword": "오늘은 오길 잘했어",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12299,
+        "id": 12301,
         "event_title_id": 5656,
         "keyword": "부시크래프트를 너와",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12300,
+        "id": 12302,
         "event_title_id": 5656,
         "keyword": "부시크래프트를너와",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12301,
+        "id": 12303,
         "event_title_id": 5657,
         "keyword": "작은 사랑 이야기",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12302,
+        "id": 12304,
         "event_title_id": 5657,
         "keyword": "다음에 또 레이스를 보러 와 주세요",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12303,
+        "id": 12305,
         "event_title_id": 5657,
         "keyword": "반드시 그녀를 빛나게 하겠습니다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12304,
+        "id": 12306,
         "event_title_id": 5657,
         "keyword": "작은사랑이야기",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12305,
+        "id": 12307,
         "event_title_id": 5658,
         "keyword": "힐끗 보고",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12306,
+        "id": 12308,
         "event_title_id": 5658,
         "keyword": "…책, 재밌었어?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12307,
+        "id": 12309,
         "event_title_id": 5658,
         "keyword": "…주, 주문받았습니다!!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12308,
+        "id": 12310,
         "event_title_id": 5658,
         "keyword": "힐끗보고",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12309,
+        "id": 12311,
         "event_title_id": 5659,
         "keyword": "받들어 모시면",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12310,
+        "id": 12312,
         "event_title_id": 5659,
         "keyword": "코너링 기술을 연마한다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12311,
+        "id": 12313,
         "event_title_id": 5659,
         "keyword": "스피드 트레이닝에 힘쓴다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12312,
+        "id": 12314,
         "event_title_id": 5659,
         "keyword": "받들어모시면",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12313,
+        "id": 12315,
         "event_title_id": 5660,
         "keyword": "'투규'(도쿄)의 악귀",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12314,
+        "id": 12316,
         "event_title_id": 5660,
         "keyword": "투규 도쿄 의 악귀",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12315,
+        "id": 12317,
         "event_title_id": 5660,
         "keyword": "파워풀한 일갈 덕분에 살았어",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12316,
+        "id": 12318,
         "event_title_id": 5660,
         "keyword": "투규도쿄의 악귀",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12317,
+        "id": 12319,
         "event_title_id": 5660,
         "keyword": "투규도쿄의악귀",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12318,
+        "id": 12320,
         "event_title_id": 5660,
         "keyword": "최강 최속 군단 『L/Roars』…?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12319,
+        "id": 12321,
         "event_title_id": 5661,
         "keyword": "'마술'(매직)처럼",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12320,
+        "id": 12322,
         "event_title_id": 5661,
         "keyword": "하는 걸 실제로 보면서 배우자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12321,
+        "id": 12323,
         "event_title_id": 5661,
         "keyword": "마술 매직 처럼",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12322,
+        "id": 12324,
         "event_title_id": 5661,
         "keyword": "실패해도 계속하는 게 중요해",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12323,
+        "id": 12325,
         "event_title_id": 5661,
         "keyword": "마술매직처럼",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12324,
+        "id": 12326,
         "event_title_id": 5662,
         "keyword": "(끈기 있게 마지막까지 들어 보자)",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12325,
+        "id": 12327,
         "event_title_id": 5662,
         "keyword": "대단하네! 손을 보면 더 좋아질 거야!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12326,
+        "id": 12328,
         "event_title_id": 5662,
         "keyword": "에이스 vs 연설",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12327,
+        "id": 12329,
         "event_title_id": 5662,
         "keyword": "에이스 vs 연설!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12328,
+        "id": 12330,
         "event_title_id": 5662,
         "keyword": "에이스vs연설",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12329,
+        "id": 12331,
         "event_title_id": 5663,
         "keyword": "덕분에 차분히 먹을 수 있겠어!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12330,
+        "id": 12332,
         "event_title_id": 5663,
         "keyword": "덕분에 살았어… 굳어서 몸 움직였거든",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12331,
+        "id": 12333,
         "event_title_id": 5663,
         "keyword": "에이스 vs 진상 손님",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12332,
+        "id": 12334,
         "event_title_id": 5663,
         "keyword": "에이스 vs 진상 손님!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12333,
+        "id": 12335,
         "event_title_id": 5663,
         "keyword": "에이스vs진상손님",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12334,
+        "id": 12336,
         "event_title_id": 5664,
         "keyword": "'환영'(고스트)과 '춤춰'(달려)라",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12335,
+        "id": 12337,
         "event_title_id": 5665,
         "keyword": "'쫓고 쫓기기'(체이스), 해 보자고",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12336,
+        "id": 12338,
         "event_title_id": 5665,
         "keyword": "그냥 신경 쓰지 말고 지내자",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12337,
+        "id": 12339,
         "event_title_id": 5665,
         "keyword": "쫓고 쫓기기 체이스  해 보자고",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12338,
+        "id": 12340,
         "event_title_id": 5665,
         "keyword": "쫓고 쫓기기체이스 해 보자고",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12339,
+        "id": 12341,
         "event_title_id": 5665,
         "keyword": "반대로 타키온을 관찰하는 건 어때?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12340,
+        "id": 12342,
         "event_title_id": 5665,
         "keyword": "쫓고쫓기기체이스해보자고",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12341,
+        "id": 12343,
         "event_title_id": 5666,
         "keyword": "말로 설명하는 건 어때?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12342,
+        "id": 12344,
         "event_title_id": 5666,
         "keyword": "그림을 넣으면 알기 쉬울 거야!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12343,
+        "id": 12345,
         "event_title_id": 5666,
         "keyword": "믿음직한 선배",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12344,
+        "id": 12346,
         "event_title_id": 5666,
         "keyword": "믿음직한선배",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12345,
+        "id": 12347,
         "event_title_id": 5667,
         "keyword": "도베르와 함께",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12346,
+        "id": 12348,
         "event_title_id": 5668,
         "keyword": "뭔데?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12347,
+        "id": 12349,
         "event_title_id": 5668,
         "keyword": "유행의 첨단을 달리는 자들",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12348,
+        "id": 12350,
         "event_title_id": 5668,
         "keyword": "성공하면 좋겠네!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12349,
+        "id": 12351,
         "event_title_id": 5668,
         "keyword": "유행의첨단을달리는자들",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12350,
+        "id": 12352,
         "event_title_id": 5669,
         "keyword": "'황제'의 작은 친구",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12351,
+        "id": 12353,
         "event_title_id": 5670,
         "keyword": "고찰·과학자는 돌봐 주길 바라는가",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12352,
+        "id": 12354,
         "event_title_id": 5671,
         "keyword": "떫은 일본 차",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12353,
+        "id": 12355,
         "event_title_id": 5671,
         "keyword": "결론 타키온 단맛을 논하다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12354,
+        "id": 12356,
         "event_title_id": 5671,
         "keyword": "결론·타키온, 단맛을 논하다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12355,
+        "id": 12357,
         "event_title_id": 5671,
         "keyword": "여기선 일부러 크림 듬뿍 소다",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12356,
+        "id": 12358,
         "event_title_id": 5671,
         "keyword": "스트레이트 홍차",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12357,
+        "id": 12359,
         "event_title_id": 5671,
         "keyword": "결론타키온 단맛을 논하다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12358,
+        "id": 12360,
         "event_title_id": 5671,
         "keyword": "결론타키온단맛을논하다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12359,
+        "id": 12361,
         "event_title_id": 5672,
         "keyword": "직감",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12360,
+        "id": 12362,
         "event_title_id": 5672,
         "keyword": "그림에 담긴 마음",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12361,
+        "id": 12363,
         "event_title_id": 5672,
         "keyword": "그림의 완성도",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12362,
+        "id": 12364,
         "event_title_id": 5672,
         "keyword": "회렴석의 눈동자",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12363,
+        "id": 12365,
         "event_title_id": 5672,
         "keyword": "회렴석의눈동자",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12364,
+        "id": 12366,
         "event_title_id": 5673,
         "keyword": "수정 너머로 들여다보다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12365,
+        "id": 12367,
         "event_title_id": 5674,
         "keyword": "금강석을 깨고",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12366,
+        "id": 12368,
         "event_title_id": 5675,
         "keyword": "By the People",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12367,
+        "id": 12369,
         "event_title_id": 5676,
         "keyword": "열차 타기가 확실히 어렵긴 하지…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12368,
+        "id": 12370,
         "event_title_id": 5676,
         "keyword": "약속 시간까진 도착할 것 같아?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12369,
+        "id": 12371,
         "event_title_id": 5676,
         "keyword": "NoWayHome",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12370,
+        "id": 12372,
         "event_title_id": 5676,
         "keyword": "No Way Home",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12371,
+        "id": 12373,
         "event_title_id": 5677,
         "keyword": "Through Telepathy",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12372,
+        "id": 12374,
         "event_title_id": 5678,
         "keyword": "함께 해주는 것, 좋구나",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12373,
+        "id": 12375,
         "event_title_id": 5678,
         "keyword": "좋은 선배라고 생각해서",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12374,
+        "id": 12376,
         "event_title_id": 5678,
         "keyword": "트레센 학원의 기묘한 일상",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12375,
+        "id": 12377,
         "event_title_id": 5678,
         "keyword": "트레센학원의기묘한일상",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12376,
+        "id": 12378,
         "event_title_id": 5679,
         "keyword": "트레센 학원의 비일상",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12377,
+        "id": 12379,
         "event_title_id": 5680,
         "keyword": "어서오세요 트레센 학원에",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12378,
+        "id": 12380,
         "event_title_id": 5681,
         "keyword": "달리 아라비안",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12379,
+        "id": 12381,
         "event_title_id": 5681,
         "keyword": "고돌핀 바브",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12380,
+        "id": 12382,
         "event_title_id": 5681,
         "keyword": "지금을 달리는 이들의 시조",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12381,
+        "id": 12383,
         "event_title_id": 5681,
         "keyword": "바이얼리 터크",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12382,
+        "id": 12384,
         "event_title_id": 5681,
         "keyword": "지금을달리는이들의시조",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12383,
+        "id": 12385,
         "event_title_id": 5682,
         "keyword": "마리모",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12384,
+        "id": 12386,
         "event_title_id": 5682,
         "keyword": "라벤더꽃",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12385,
+        "id": 12387,
         "event_title_id": 5682,
         "keyword": "여름 합숙 2년 차 시작",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12386,
+        "id": 12388,
         "event_title_id": 5682,
         "keyword": "여름 합숙(2년 차) 시작!",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12387,
+        "id": 12389,
         "event_title_id": 5682,
         "keyword": "여름 합숙2년 차 시작",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12388,
+        "id": 12390,
         "event_title_id": 5682,
         "keyword": "여름합숙2년차시작",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12389,
+        "id": 12391,
         "event_title_id": 5683,
         "keyword": "신년 포부",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12390,
+        "id": 12392,
         "event_title_id": 5683,
         "keyword": "레츠 파뤼 타임☆",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12391,
+        "id": 12393,
         "event_title_id": 5683,
         "keyword": "빠르게 신춘 휘호나 하자",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12392,
+        "id": 12394,
         "event_title_id": 5683,
         "keyword": "신년포부",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12393,
+        "id": 12395,
         "event_title_id": 5683,
         "keyword": "설음식은 이미 먹었어?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12394,
+        "id": 12396,
         "event_title_id": 5684,
         "keyword": "새해 첫 참배",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12395,
+        "id": 12397,
         "event_title_id": 5684,
         "keyword": "근처 신사에서 성장 기원",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12396,
+        "id": 12398,
         "event_title_id": 5684,
         "keyword": "새로운 설음식을 찾는다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12397,
+        "id": 12399,
         "event_title_id": 5684,
         "keyword": "새해첫참배",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12398,
+        "id": 12400,
         "event_title_id": 5684,
         "keyword": "레츠 파뤼 타임 Lv2☆",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12399,
+        "id": 12401,
         "event_title_id": 5685,
         "keyword": "수다 오래 견디기!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12400,
+        "id": 12402,
         "event_title_id": 5685,
         "keyword": "텐업 플랭크 페스티벌!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12401,
+        "id": 12403,
         "event_title_id": 5685,
         "keyword": "여름 합숙 2년 차 에서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12402,
+        "id": 12404,
         "event_title_id": 5685,
         "keyword": "여름 합숙(2년 차)에서",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12403,
+        "id": 12405,
         "event_title_id": 5685,
         "keyword": "여름 합숙2년 차에서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12404,
+        "id": 12406,
         "event_title_id": 5685,
         "keyword": "여름합숙2년차에서",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12405,
+        "id": 12407,
         "event_title_id": 5686,
         "keyword": "댄스 레슨",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12406,
+        "id": 12408,
         "event_title_id": 5686,
         "keyword": "댄스 레슨 (다이이치 루비)",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12407,
+        "id": 12409,
         "event_title_id": 5686,
         "keyword": "역시 배우기보다는 익숙해져야 하지 않을까",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12408,
+        "id": 12410,
         "event_title_id": 5686,
         "keyword": "지금은 마음가짐을 가르쳐 주자",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12409,
+        "id": 12411,
         "event_title_id": 5686,
         "keyword": "댄스레슨",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12410,
+        "id": 12412,
         "event_title_id": 5687,
         "keyword": "최고의 한 수",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12411,
+        "id": 12413,
         "event_title_id": 5687,
         "keyword": "뛰어난 너라면 눈치챌 줄 알았어",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12412,
+        "id": 12414,
         "event_title_id": 5687,
         "keyword": "다음에는 더욱 어렵게 해야겠네",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12413,
+        "id": 12415,
         "event_title_id": 5687,
         "keyword": "최고의한수",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12414,
+        "id": 12416,
         "event_title_id": 5688,
         "keyword": "그럼 실컷 달려 보자",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12415,
+        "id": 12417,
         "event_title_id": 5688,
         "keyword": "영광의 흔적",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12416,
+        "id": 12418,
         "event_title_id": 5688,
         "keyword": "지금부터 이쿠노와 병합 훈련하자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12417,
+        "id": 12419,
         "event_title_id": 5688,
         "keyword": "영광의흔적",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12418,
+        "id": 12420,
         "event_title_id": 5689,
         "keyword": "계속 고고한 꽃으로 있자!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12419,
+        "id": 12421,
         "event_title_id": 5689,
         "keyword": "아가씨 랭킹",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12420,
+        "id": 12422,
         "event_title_id": 5689,
         "keyword": "아가씨랭킹",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12421,
+        "id": 12423,
         "event_title_id": 5689,
         "keyword": "『빠르고 강하고 똑똑한 아가씨』 1위를 노리자!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12422,
+        "id": 12424,
         "event_title_id": 5690,
         "keyword": "모처럼 왔으니 너도 즐기면 어때?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12423,
+        "id": 12425,
         "event_title_id": 5690,
         "keyword": "데이터 수집은 순조로워?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12424,
+        "id": 12426,
         "event_title_id": 5690,
         "keyword": "홍옥은 흔들리지 않는다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12425,
+        "id": 12427,
         "event_title_id": 5690,
         "keyword": "홍옥은흔들리지않는다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12426,
+        "id": 12428,
         "event_title_id": 5691,
         "keyword": "이것도 중요한 감상이라고 생각해",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12427,
+        "id": 12429,
         "event_title_id": 5691,
         "keyword": "홍옥은 환희하지 않는다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12428,
+        "id": 12430,
         "event_title_id": 5691,
         "keyword": "누구와 가느냐가 중요한 거 아닐까?",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12429,
+        "id": 12431,
         "event_title_id": 5691,
         "keyword": "홍옥은환희하지않는다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12430,
+        "id": 12432,
         "event_title_id": 5692,
         "keyword": "이 정도는 언제라도 도와줄게",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12431,
+        "id": 12433,
         "event_title_id": 5692,
         "keyword": "홍옥은 변치 않는다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12432,
+        "id": 12434,
         "event_title_id": 5692,
         "keyword": "도움이 되어 영광이야",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12433,
+        "id": 12435,
         "event_title_id": 5692,
         "keyword": "칭찬받을 줄이야!!",
         "source": "item",
         "item_order": 3
     },
     {
-        "id": 12434,
+        "id": 12436,
         "event_title_id": 5692,
         "keyword": "홍옥은변치않는다",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12435,
+        "id": 12437,
         "event_title_id": 5693,
         "keyword": "좀 걱정될지도…",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12436,
+        "id": 12438,
         "event_title_id": 5693,
         "keyword": "누구라 할지라도",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12437,
+        "id": 12439,
         "event_title_id": 5693,
         "keyword": "누구라할지라도",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12438,
+        "id": 12440,
         "event_title_id": 5693,
         "keyword": "대단하십니다…!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12439,
+        "id": 12441,
         "event_title_id": 5694,
         "keyword": "정말 감동한 줄 알았어…",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12440,
+        "id": 12442,
         "event_title_id": 5694,
         "keyword": "다이이치 루비의 화려한 프로레슬링 관전",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12441,
+        "id": 12443,
         "event_title_id": 5694,
         "keyword": "프로레슬링은 별로였어?",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12442,
+        "id": 12444,
         "event_title_id": 5694,
         "keyword": "다이이치루비의화려한프로레슬링관전",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12443,
+        "id": 12445,
         "event_title_id": 5695,
         "keyword": "맛있는 걸 많이 먹고 와",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12444,
+        "id": 12446,
         "event_title_id": 5695,
         "keyword": "화려한 스케줄",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12445,
+        "id": 12447,
         "event_title_id": 5695,
         "keyword": "과식하지 않도록 주의해",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12446,
+        "id": 12448,
         "event_title_id": 5695,
         "keyword": "화려한스케줄",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12447,
+        "id": 12449,
         "event_title_id": 5696,
         "keyword": "정말 잘 어울려",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12448,
+        "id": 12450,
         "event_title_id": 5696,
         "keyword": "너도 마음에 드는 것 같아서 다행이야",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12449,
+        "id": 12451,
         "event_title_id": 5696,
         "keyword": "화려한 그 모습",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12450,
+        "id": 12452,
         "event_title_id": 5696,
         "keyword": "화려한그모습",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12451,
+        "id": 12453,
         "event_title_id": 5697,
         "keyword": "둘만 듣기에 아까울 정도야",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12452,
+        "id": 12454,
         "event_title_id": 5697,
         "keyword": "우아한 그 소리",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12453,
+        "id": 12455,
         "event_title_id": 5697,
         "keyword": "근사한 연주였어!",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12454,
+        "id": 12456,
         "event_title_id": 5697,
         "keyword": "우아한그소리",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12455,
+        "id": 12457,
         "event_title_id": 5698,
         "keyword": "정말 고마워!!",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12456,
+        "id": 12458,
         "event_title_id": 5698,
         "keyword": "고귀한 그 마음",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12457,
+        "id": 12459,
         "event_title_id": 5698,
         "keyword": "앞으로는 조심할게",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12458,
+        "id": 12460,
         "event_title_id": 5698,
         "keyword": "고귀한그마음",
         "source": "title",
         "item_order": 0
     },
     {
-        "id": 12459,
+        "id": 12461,
         "event_title_id": 5699,
         "keyword": "서투름 따윈 허용되지 않는다",
         "source": "origin",
         "item_order": 0
     },
     {
-        "id": 12460,
+        "id": 12462,
         "event_title_id": 5699,
         "keyword": "도전한다",
         "source": "item",
         "item_order": 1
     },
     {
-        "id": 12461,
+        "id": 12463,
         "event_title_id": 5699,
         "keyword": "그만두라고 설득한다",
         "source": "item",
         "item_order": 2
     },
     {
-        "id": 12462,
+        "id": 12464,
         "event_title_id": 5699,
         "keyword": "서투름따윈허용되지않는다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12465,
+        "event_title_id": 5700,
+        "keyword": "전승",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12466,
+        "event_title_id": 5700,
+        "keyword": "건강 제일",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12467,
+        "event_title_id": 5700,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12468,
+        "event_title_id": 5700,
+        "keyword": "평상심",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12469,
+        "event_title_id": 5700,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12470,
+        "event_title_id": 5701,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12471,
+        "event_title_id": 5701,
+        "keyword": "건강 기원",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12472,
+        "event_title_id": 5701,
+        "keyword": "액막이",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12473,
+        "event_title_id": 5701,
+        "keyword": "압도적 성장",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12474,
+        "event_title_id": 5701,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12475,
+        "event_title_id": 5702,
+        "keyword": "다 함께 열심히 화덕을 만들자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12476,
+        "event_title_id": 5702,
+        "keyword": "렌탈의 강력한 화덕 머신을 사용하자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12477,
+        "event_title_id": 5702,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12478,
+        "event_title_id": 5702,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12479,
+        "event_title_id": 5702,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12480,
+        "event_title_id": 5702,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12481,
+        "event_title_id": 5703,
+        "keyword": "...나랑 춤출래?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12482,
+        "event_title_id": 5703,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12483,
+        "event_title_id": 5703,
+        "keyword": "댄스 레슨 (심볼리 크리스 에스)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12484,
+        "event_title_id": 5703,
+        "keyword": "일단 아무나 잡고 보자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12485,
+        "event_title_id": 5703,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12486,
+        "event_title_id": 5704,
+        "keyword": "유독 담력이 강해 보여서 그럴지도…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12487,
+        "event_title_id": 5704,
+        "keyword": "무언의 수호자",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12488,
+        "event_title_id": 5704,
+        "keyword": "경호원처럼 강해 보여서 그런가",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12489,
+        "event_title_id": 5704,
+        "keyword": "무언의수호자",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12490,
+        "event_title_id": 5705,
+        "keyword": "감독 크리스 에스 주연 탑 로드",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12491,
+        "event_title_id": 5705,
+        "keyword": "감독 크리스 에스·주연 탑 로드",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12492,
+        "event_title_id": 5705,
+        "keyword": "좋은 방법을 생각해 냈네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12493,
+        "event_title_id": 5705,
+        "keyword": "감독 크리스 에스주연 탑 로드",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12494,
+        "event_title_id": 5705,
+        "keyword": "함께 열심히 시행착오를 거듭한 성과구나…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12495,
+        "event_title_id": 5705,
+        "keyword": "감독크리스에스주연탑로드",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12496,
+        "event_title_id": 5706,
+        "keyword": "의리 있게 보답을 해 주는게 너다운걸",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12497,
+        "event_title_id": 5706,
+        "keyword": "물은 소중한 힘의 원천이니까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12498,
+        "event_title_id": 5706,
+        "keyword": "Best의 형태로",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12499,
+        "event_title_id": 5706,
+        "keyword": "Best의형태로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12500,
+        "event_title_id": 5707,
+        "keyword": "미국의 단위는 어렵구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12501,
+        "event_title_id": 5707,
+        "keyword": "온슬로트",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12502,
+        "event_title_id": 5707,
+        "keyword": "다음에도 곤란한 일이 있으면 말해",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12503,
+        "event_title_id": 5708,
+        "keyword": "문화적으로 곤란한 일이 있으면 꼭 말해 줘",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12504,
+        "event_title_id": 5708,
+        "keyword": "『귀여움』은 이해했어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12505,
+        "event_title_id": 5708,
+        "keyword": "Gwiyeoum",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12506,
+        "event_title_id": 5709,
+        "keyword": "맡겨 줘!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12507,
+        "event_title_id": 5709,
+        "keyword": "미국에 가면 반대로 내가 의지해야겠네",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12508,
+        "event_title_id": 5709,
+        "keyword": "사양하지 말고 더 의지해 줘도 돼",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12509,
+        "event_title_id": 5709,
+        "keyword": "Backup",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12510,
+        "event_title_id": 5710,
+        "keyword": "아직 조금 무서운 감은 있을지도 몰라",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12511,
+        "event_title_id": 5710,
+        "keyword": "백수의 왕 크리스 에스",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12512,
+        "event_title_id": 5710,
+        "keyword": "마음이 통한… 거려나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12513,
+        "event_title_id": 5710,
+        "keyword": "백수의왕크리스에스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12514,
+        "event_title_id": 5711,
+        "keyword": "지도자의 소질",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12515,
+        "event_title_id": 5711,
+        "keyword": "트레이너 못지않은 철저함이네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12516,
+        "event_title_id": 5711,
+        "keyword": "지도자의소질",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12517,
+        "event_title_id": 5711,
+        "keyword": "애프터케어도 완벽하네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12518,
+        "event_title_id": 5712,
+        "keyword": "다 먹으면 도시락도 기뻐할 거야!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12519,
+        "event_title_id": 5712,
+        "keyword": "도움을 받는 게 어떨까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12520,
+        "event_title_id": 5712,
+        "keyword": "도시락이 가진 사명",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12521,
+        "event_title_id": 5712,
+        "keyword": "도시락이가진사명",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12522,
+        "event_title_id": 5713,
+        "keyword": "일족의 색깔",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12523,
+        "event_title_id": 5713,
+        "keyword": "앞으로도 너의 보은을 도울게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12524,
+        "event_title_id": 5713,
+        "keyword": "명실상부 심볼리 일족이란 느낌이었어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12525,
+        "event_title_id": 5713,
+        "keyword": "일족의색깔",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12526,
+        "event_title_id": 5714,
+        "keyword": "슬슬 긴장 풀 시간도 주는 게…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12527,
+        "event_title_id": 5714,
+        "keyword": "교칙 절대 수호 특별 전권 대사",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12528,
+        "event_title_id": 5714,
+        "keyword": "선도부원이 잘 맞는 걸지도",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12529,
+        "event_title_id": 5714,
+        "keyword": "교칙절대수호특별전권대사",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12530,
+        "event_title_id": 5715,
+        "keyword": "노력은 언젠가 빛을 발할 거야!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12531,
+        "event_title_id": 5715,
+        "keyword": "유머는 느끼는 것도 중요해",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12532,
+        "event_title_id": 5715,
+        "keyword": "JAPANESEHUMOR",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12533,
+        "event_title_id": 5715,
+        "keyword": "JAPANESE HUMOR",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12534,
+        "event_title_id": 5716,
+        "keyword": "돌격 상점가 세일",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12535,
+        "event_title_id": 5716,
+        "keyword": "돌격! 상점가 세일",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12536,
+        "event_title_id": 5716,
+        "keyword": "마음껏 도전하고 와",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12537,
+        "event_title_id": 5716,
+        "keyword": "세일은 전쟁이야… 각오는 됐어?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12538,
+        "event_title_id": 5716,
+        "keyword": "하지만 충동구매는 위험한데",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12539,
+        "event_title_id": 5716,
+        "keyword": "돌격상점가세일",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12540,
+        "event_title_id": 5717,
+        "keyword": "히시 아케보노, 프로 레슬링을 보다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12541,
+        "event_title_id": 5718,
+        "keyword": "보노의 보은",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12542,
+        "event_title_id": 5718,
+        "keyword": "광고지 내용을 재검토해 볼까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12543,
+        "event_title_id": 5718,
+        "keyword": "보노의보은",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12544,
+        "event_title_id": 5718,
+        "keyword": "SNS로 가게 홍보!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12545,
+        "event_title_id": 5719,
+        "keyword": "여신들의 휴식",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12546,
+        "event_title_id": 5720,
+        "keyword": "흉내 내며 배우는 세 여신",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12547,
+        "event_title_id": 5721,
+        "keyword": "세 여신의 기분 전환 트레이닝",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12548,
+        "event_title_id": 5721,
+        "keyword": "던전 공략으로!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12549,
+        "event_title_id": 5721,
+        "keyword": "동물 초원으로!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12550,
+        "event_title_id": 5721,
+        "keyword": "마법의 나라로!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12551,
+        "event_title_id": 5721,
+        "keyword": "세여신의기분전환트레이닝",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12552,
+        "event_title_id": 5722,
+        "keyword": "좋은 동료 관계네요",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12553,
+        "event_title_id": 5722,
+        "keyword": "그게 『이해』의 비결이군요",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12554,
+        "event_title_id": 5722,
+        "keyword": "토론을 참관해도 될까요?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12555,
+        "event_title_id": 5722,
+        "keyword": "믿을 곳은 딱 2곳",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12556,
+        "event_title_id": 5722,
+        "keyword": "믿을곳은딱2곳",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12557,
+        "event_title_id": 5723,
+        "keyword": "달리 아라비안과 외출",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12558,
+        "event_title_id": 5723,
+        "keyword": "위대한 자와 여행을",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12559,
+        "event_title_id": 5724,
+        "keyword": "마치 마법사처럼",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12560,
+        "event_title_id": 5724,
+        "keyword": "고돌핀 바브와 외출",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12561,
+        "event_title_id": 5725,
+        "keyword": "바이얼리 터크와 외출",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12562,
+        "event_title_id": 5725,
+        "keyword": "회오리바람과 같은 강함은",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12563,
+        "event_title_id": 5726,
+        "keyword": "세 여신이 그녀들에게",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12564,
+        "event_title_id": 5726,
+        "keyword": "『자신』의 달리기로 성장했으면 해요",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12565,
+        "event_title_id": 5726,
+        "keyword": "『강인』한 우마무스메가 되게 하고 싶어요",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12566,
+        "event_title_id": 5726,
+        "keyword": "『자유롭게』 레이스를 즐겼으면 해요",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12567,
+        "event_title_id": 5726,
+        "keyword": "세여신이그녀들에게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12568,
+        "event_title_id": 5727,
+        "keyword": "그녀들이 당신들에게",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12569,
+        "event_title_id": 5728,
+        "keyword": "끝없는 이야기",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12570,
+        "event_title_id": 5729,
+        "keyword": "언젠가 활짝 필 너희들에게",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12571,
+        "event_title_id": 5730,
+        "keyword": "여신들의 짧은 휴식",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12572,
+        "event_title_id": 5731,
+        "keyword": "강점을 더욱 단련하겠어요",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12573,
+        "event_title_id": 5731,
+        "keyword": "위대한 자연을 달리다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12574,
+        "event_title_id": 5731,
+        "keyword": "골고루 단련하겠어요!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12575,
+        "event_title_id": 5731,
+        "keyword": "위대한자연을달리다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12576,
+        "event_title_id": 5732,
+        "keyword": "잔뜩 낚을게요!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12577,
+        "event_title_id": 5732,
+        "keyword": "위대한 자연의 가르침",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12578,
+        "event_title_id": 5732,
+        "keyword": "느긋하게 즐길게요",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12579,
+        "event_title_id": 5732,
+        "keyword": "위대한자연의가르침",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12580,
+        "event_title_id": 5733,
+        "keyword": "기분 전환이 필요하지 않을까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12581,
+        "event_title_id": 5733,
+        "keyword": "여신의 사랑은 푸른 바다와 같다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12582,
+        "event_title_id": 5733,
+        "keyword": "트레이닝이 좋을 것 같아",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12583,
+        "event_title_id": 5733,
+        "keyword": "여신의사랑은푸른바다와같다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12584,
+        "event_title_id": 5734,
+        "keyword": "잠깐 쉬는 게 좋아 보였어요",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12585,
+        "event_title_id": 5734,
+        "keyword": "여신의 사랑은 깊기에 험난하다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12586,
+        "event_title_id": 5734,
+        "keyword": "……코너링이 아쉬웠어요",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12587,
+        "event_title_id": 5734,
+        "keyword": "여신의사랑은깊기에험난하다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12588,
+        "event_title_id": 5735,
+        "keyword": "수준 높은 트레이닝이군요",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12589,
+        "event_title_id": 5735,
+        "keyword": "휴식 타이밍도 적절하네요",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12590,
+        "event_title_id": 5735,
+        "keyword": "풋내기여 오인하지 마라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12591,
+        "event_title_id": 5735,
+        "keyword": "풋내기여, 오인하지 마라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12592,
+        "event_title_id": 5735,
+        "keyword": "풋내기여오인하지마라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12593,
+        "event_title_id": 5736,
+        "keyword": "바이얼리 씨는 강하네요",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12594,
+        "event_title_id": 5736,
+        "keyword": "풋내기여 나아가라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12595,
+        "event_title_id": 5736,
+        "keyword": "풋내기여, 나아가라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12596,
+        "event_title_id": 5736,
+        "keyword": "마지막까지 포기하면 안 돼요",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12597,
+        "event_title_id": 5736,
+        "keyword": "풋내기여나아가라",
         "source": "title",
         "item_order": 0
     }
