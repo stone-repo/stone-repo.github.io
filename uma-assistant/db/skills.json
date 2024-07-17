@@ -2858,6 +2858,19 @@
         ]
     },
     {
+        "skill_id": 1184,
+        "skill_name": "Danser le présent",
+        "ingame_description": "종반 최종 직선에서 좋은 위치에 있고 뒤쪽의 우마무스메와 가까우면, 지구력을 사용해 속도가 약간 상승하고 많이 조금 앞으로 나간다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 510,
         "skill_name": "훈풍, 영원한 순간을",
         "ingame_description": "레이스 중반에 전방에서 스퍼트를 시작할 때 속도가 약간 상승한다",
@@ -12810,6 +12823,19 @@
         ]
     },
     {
+        "skill_id": 819,
+        "skill_name": "Danser le présent",
+        "ingame_description": "종반 최종 직선에서 좋은 위치에 있고 뒤쪽의 우마무스메와 가까우면 지구력을 사용해 속도가 상승하고 약간 앞으로 나간다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 310,
         "skill_name": "Schwarzes Schwert",
         "ingame_description": "최종 직선까지 냉정하게 자신의 계획대로 주행하면 선두를 목표하여 날카로운 다리로 속도가 상승한다",
@@ -17309,6 +17335,19 @@
         ]
     },
     {
+        "skill_id": 1185,
+        "skill_name": "피어라 피어라! 나!",
+        "ingame_description": "레이스 중반에 경합했을 경우 남은 거리가 650m일 때 좋은 위치에 있으면 가속력이 계속해서 약간 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 463,
         "skill_name": "브릴리언트 레드 에이스",
         "ingame_description": "레이스 후반에 1등을 유지할 수 있는 힘을 아주 조금 발휘한다",
@@ -20278,6 +20317,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 878,
+        "skill_name": "피어라 피어라! 나!",
+        "ingame_description": "레이스 중반에 경합했을 경우 남은 거리가 650m일 때 좋은 위치에 있으면 꿈을 이루기 위해 가속력이 계속해서 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 6,
+        "skill_type_name": "가속력 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_accel_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 881,
         "skill_name": "불벼락",
         "ingame_description": "레이스 중반에 스킬을 2개 발동하면 속도가 계속해서 다소 상승하며, 효과 중에 스킬을 발동하면 2회까지 효과가 증가한다",
@@ -22012,6 +22064,53 @@
         ]
     },
     {
+        "skill_id": 1047,
+        "skill_name": "한눈팔지 않고",
+        "ingame_description": "레이스 중반에 지구력을 약간 회복하고 속도가 아주 조금 상승한다＜장거리＞",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 7,
+        "skill_type_name": "지구력 회복 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_health_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 702,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.05
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.015
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "장거리",
+            "코스거리"
+        ]
+    },
+    {
         "skill_id": 1046,
         "skill_name": "빈틈 없음",
         "ingame_description": "늦은 출발을 하지 않고 스타트를 하면 중반이 시작될 때 지구력을 다소 회복한다 <선행・장거리>",
@@ -22988,6 +23087,53 @@
             "중간순위",
             "코스거리",
             "후방순위"
+        ]
+    },
+    {
+        "skill_id": 1045,
+        "skill_name": "민첩함의 너머로",
+        "ingame_description": "레이스 중반에 지구력을 회복하고 속도가 다소 상승한다＜장거리＞",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 8,
+        "skill_type_name": "지구력 회복 (레어)",
+        "skill_icon_url": "images/skill-types/skill_health_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 703,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.25
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.055
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "장거리",
+            "코스거리"
         ]
     },
     {
@@ -32252,6 +32398,45 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1186,
+        "skill_name": "앵화난만 일직선",
+        "ingame_description": "직선에서 속도가 많이 상승한다",
+        "require_pt": 0,
+        "cool_time": 30.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 722,
+        "skill_name": "지고 싶지 않아!",
+        "ingame_description": "레이스 중반에 중위권 그룹에서 경합하면 지구력을 회복하고 추가로 속도가 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 614,
+        "skill_name": "희미하고 덧없는 저녁놀",
+        "ingame_description": "라스트 스퍼트 중에 직선에서 지구력을 다소 사용해서 속도가 아주 많이 상승한다 ＜선행·중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 777,
         "skill_name": "언제나 가장 빛나는 반짝임을",
         "ingame_description": "레이스 종반에 후방에서 추월하려고 하면 가속력이 상승하며, 추가로 눈앞의 우마무스메를 약간 위축시킨다＜단거리/마일＞",
@@ -32273,6 +32458,19 @@
         "skill_type_id": 65,
         "skill_type_name": "가속력 상승 (진화)",
         "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 996,
+        "skill_name": "아름다운 인광",
+        "ingame_description": "레이스 종반이 다가올 때 지구력을 회복하고 속도가 약간 상승한다＜작전·선행＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 66,
+        "skill_type_name": "지구력 회복 (진화)",
+        "skill_icon_url": "images/skill-types/skill_health_evolution.png",
         "grade": "E",
         "skill_situations": null,
         "skill_condition_tags": []
