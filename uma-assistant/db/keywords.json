@@ -19308,16 +19308,16 @@
     {
         "id": 2759,
         "event_title_id": 920,
-        "keyword": "경기장 음식의 유혹",
-        "source": "origin",
-        "item_order": 0
+        "keyword": "그냥 먹는 게 아니라 잔뜩 먹자!",
+        "source": "item",
+        "item_order": 3
     },
     {
         "id": 2760,
         "event_title_id": 920,
-        "keyword": "차라리 배부리게 먹자!",
-        "source": "item",
-        "item_order": 3
+        "keyword": "경기장 음식의 유혹",
+        "source": "origin",
+        "item_order": 0
     },
     {
         "id": 2761,
@@ -35072,7 +35072,7 @@
     {
         "id": 5011,
         "event_title_id": 1675,
-        "keyword": "누군가를 배려할 수 있는 '어른'이구나",
+        "keyword": "누군가를 배려할 줄 아는 '성숙함'이 느껴지네",
         "source": "item",
         "item_order": 2
     },
@@ -88869,6 +88869,573 @@
         "event_title_id": 5755,
         "keyword": "그게 내가 살아가는 방식",
         "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12697,
+        "event_title_id": 5756,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12698,
+        "event_title_id": 5756,
+        "keyword": "끈기 있게 관찰하자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12699,
+        "event_title_id": 5756,
+        "keyword": "방에 돌아가서 바로 분석할까",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12700,
+        "event_title_id": 5756,
+        "keyword": "관찰에 열중하다가 몸이 식으면 안 돼",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12701,
+        "event_title_id": 5756,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12702,
+        "event_title_id": 5757,
+        "keyword": "모 아니면 도라는 감각 배우기",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12703,
+        "event_title_id": 5757,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12704,
+        "event_title_id": 5757,
+        "keyword": "많이 먹기 챌린지야!!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12705,
+        "event_title_id": 5757,
+        "keyword": "영험한 장소에서 능력 상승…?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12706,
+        "event_title_id": 5757,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12707,
+        "event_title_id": 5758,
+        "keyword": "상반신 근력 운동!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12708,
+        "event_title_id": 5758,
+        "keyword": "근성을 단련할까",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12709,
+        "event_title_id": 5758,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12710,
+        "event_title_id": 5758,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12711,
+        "event_title_id": 5758,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12712,
+        "event_title_id": 5758,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12713,
+        "event_title_id": 5759,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12714,
+        "event_title_id": 5759,
+        "keyword": "댄스 레슨 (사쿠라 로렐)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12715,
+        "event_title_id": 5759,
+        "keyword": "너무 귀여워서 놀랐어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12716,
+        "event_title_id": 5759,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12717,
+        "event_title_id": 5759,
+        "keyword": "어른스러움도 잘 느껴졌어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12718,
+        "event_title_id": 5760,
+        "keyword": "로렐의 간호를 받으면 의욕도 생기네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12719,
+        "event_title_id": 5760,
+        "keyword": "치료할게요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12720,
+        "event_title_id": 5760,
+        "keyword": "양호부원은 모두의 힘이 되는구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12721,
+        "event_title_id": 5760,
+        "keyword": "치료할게요♪",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12722,
+        "event_title_id": 5761,
+        "keyword": "그 색은 추억으로 흘러넘쳐서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12723,
+        "event_title_id": 5761,
+        "keyword": "멋진 생각이야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12724,
+        "event_title_id": 5761,
+        "keyword": "로렐의 건강이 제일이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12725,
+        "event_title_id": 5761,
+        "keyword": "그색은추억으로흘러넘쳐서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12726,
+        "event_title_id": 5762,
+        "keyword": "가르쳐 줘 로렐 선생님",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12727,
+        "event_title_id": 5762,
+        "keyword": "가르쳐 줘, 로렐 선생님!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12728,
+        "event_title_id": 5762,
+        "keyword": "로렐의 페이스에 맡기자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12729,
+        "event_title_id": 5762,
+        "keyword": "프랑스어 학습이 힘이 될 거야!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12730,
+        "event_title_id": 5762,
+        "keyword": "가르쳐줘로렐선생님",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12731,
+        "event_title_id": 5763,
+        "keyword": "비가 본격적으로 내리기 전에는 철수하자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12732,
+        "event_title_id": 5763,
+        "keyword": "끝까지 함께할게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12733,
+        "event_title_id": 5763,
+        "keyword": "낚시꾼과 사쿠라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12734,
+        "event_title_id": 5763,
+        "keyword": "낚시꾼과사쿠라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12735,
+        "event_title_id": 5764,
+        "keyword": "벌꿀 드링크와 사쿠라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12736,
+        "event_title_id": 5764,
+        "keyword": "나도 협력할게!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12737,
+        "event_title_id": 5764,
+        "keyword": "너라면 할 수 있다고 믿어!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12738,
+        "event_title_id": 5764,
+        "keyword": "벌꿀드링크와사쿠라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12739,
+        "event_title_id": 5765,
+        "keyword": "최단 루트를 찾자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12740,
+        "event_title_id": 5765,
+        "keyword": "사쿠라 몇 번이라도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12741,
+        "event_title_id": 5765,
+        "keyword": "돌아갈 때는 함께야",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12742,
+        "event_title_id": 5765,
+        "keyword": "정상은 물론 어디든지!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12743,
+        "event_title_id": 5765,
+        "keyword": "사쿠라, 몇 번이라도!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12744,
+        "event_title_id": 5765,
+        "keyword": "사쿠라몇번이라도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12745,
+        "event_title_id": 5766,
+        "keyword": "로렐이 더 잘했어!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12746,
+        "event_title_id": 5766,
+        "keyword": "장난기 어린 마음을 곁들여",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12747,
+        "event_title_id": 5766,
+        "keyword": "그렇게 닮았어?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12748,
+        "event_title_id": 5766,
+        "keyword": "장난기어린마음을곁들여",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12749,
+        "event_title_id": 5767,
+        "keyword": "지금 커피도 맛있어서 좋아",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12750,
+        "event_title_id": 5767,
+        "keyword": "물론!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12751,
+        "event_title_id": 5767,
+        "keyword": "비장의 솜씨를 Bon appétit !",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12752,
+        "event_title_id": 5767,
+        "keyword": "비장의 솜씨를 Bon apptit",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12753,
+        "event_title_id": 5767,
+        "keyword": "비장의 솜씨를 Bon app tit",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12754,
+        "event_title_id": 5767,
+        "keyword": "비장의솜씨를Bonapptit",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12755,
+        "event_title_id": 5768,
+        "keyword": "잘 먹고, 보고해야겠네!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12756,
+        "event_title_id": 5768,
+        "keyword": "혼자 먹기에는 너무 많네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12757,
+        "event_title_id": 5768,
+        "keyword": "본고장의 맛을 목표로",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12758,
+        "event_title_id": 5768,
+        "keyword": "본고장의맛을목표로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12759,
+        "event_title_id": 5769,
+        "keyword": "네 『꿈』을 담는 건 어때?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12760,
+        "event_title_id": 5769,
+        "keyword": "담긴 한 장의",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12761,
+        "event_title_id": 5769,
+        "keyword": "담긴, 한 장의",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12762,
+        "event_title_id": 5769,
+        "keyword": "담긴한장의",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12763,
+        "event_title_id": 5769,
+        "keyword": "로렐이라면 불굴의 정신 아닐까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12764,
+        "event_title_id": 5770,
+        "keyword": "아예 처음부터 다시 할까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12765,
+        "event_title_id": 5770,
+        "keyword": "벚꽃색 사진",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12766,
+        "event_title_id": 5770,
+        "keyword": "벚꽃색사진",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12767,
+        "event_title_id": 5770,
+        "keyword": "진흙투성이인 것도 나쁘지 않아",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12768,
+        "event_title_id": 5771,
+        "keyword": "조금 더 지켜본다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12769,
+        "event_title_id": 5771,
+        "keyword": "언니 같은 둘의",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12770,
+        "event_title_id": 5771,
+        "keyword": "당황하며 말린다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12771,
+        "event_title_id": 5771,
+        "keyword": "언니같은둘의",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12772,
+        "event_title_id": 5772,
+        "keyword": "로렐 선생님과 공부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12773,
+        "event_title_id": 5772,
+        "keyword": "로렐 선생님과 공부!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12774,
+        "event_title_id": 5772,
+        "keyword": "마야노 탑건 같은 것",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12775,
+        "event_title_id": 5772,
+        "keyword": "나리타 브라이언 같은 것",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12776,
+        "event_title_id": 5772,
+        "keyword": "마블러스 선데이 같은 것",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12777,
+        "event_title_id": 5772,
+        "keyword": "로렐선생님과공부",
+        "source": "title",
         "item_order": 0
     }
 ]
