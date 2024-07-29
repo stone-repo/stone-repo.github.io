@@ -5783,6 +5783,62 @@
         ]
     },
     {
+        "skill_id": 938,
+        "skill_name": "서두르기",
+        "ingame_description": "레이스 종반이 시작될 때 여력이 충분하면 약간 앞으로 나간다＜선입·장거리＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 705,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 443,
+                        "description": "라스트 스퍼트 여력이 남음",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "장거리",
+            "코스거리"
+        ]
+    },
+    {
         "skill_id": 178,
         "skill_name": "외곽 추월 준비",
         "ingame_description": "최종 코너 바깥쪽에서 추월하면 속도가 약간 상승한다＜작전・선입＞",
@@ -9785,6 +9841,62 @@
             "중반",
             "중거리",
             "전방순위",
+            "코스거리"
+        ]
+    },
+    {
+        "skill_id": 884,
+        "skill_name": "일기가성",
+        "ingame_description": "레이스 종반이 시작될 때 여력이 충분하면 앞으로 나간다＜선입·장거리＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 704,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 443,
+                        "description": "라스트 스퍼트 여력이 남음",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "장거리",
             "코스거리"
         ]
     },
@@ -14279,6 +14391,19 @@
             "최종 코너",
             "최종코너 진입이후"
         ]
+    },
+    {
+        "skill_id": 865,
+        "skill_name": "꽃피는, 세계",
+        "ingame_description": "레이스 중간 지점에서 중위권 그룹에 있으면 속도가 다소 상승하며, 장거리 레이스라면 효과 시간이 증가하고 추가로 지구력을 많이 회복한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 271,
@@ -32414,6 +32539,32 @@
         "skill_id": 722,
         "skill_name": "지고 싶지 않아!",
         "ingame_description": "레이스 중반에 중위권 그룹에서 경합하면 지구력을 회복하고 추가로 속도가 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 662,
+        "skill_name": "벚꽃 전선 진행 중!",
+        "ingame_description": "레이스 중반에 속도가 많이 상승한다 ＜작전·선입＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 714,
+        "skill_name": "한 송이를 피워내요!",
+        "ingame_description": "레이스 종반이 시작될 때 여력이 충분하면 앞으로 많이 나간다＜선입·장거리＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 64,
