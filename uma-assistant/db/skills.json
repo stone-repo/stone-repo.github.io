@@ -6238,6 +6238,19 @@
         ]
     },
     {
+        "skill_id": 1187,
+        "skill_name": "애드・아스트라",
+        "ingame_description": "레이스 중간 부근에서 중위권 그룹에 있으면 속도가 약간 상승하며, 중거리 레이스에서 스킬을 7회 이상 발동했다면 다소 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 935,
         "skill_name": "의욕은 충분",
         "ingame_description": "레이스 종반에 전방에 있으면 가속력이 약간 상승한다＜더트＞",
@@ -6286,6 +6299,42 @@
             "종반",
             "전방순위",
             "중간순위"
+        ]
+    },
+    {
+        "skill_id": 936,
+        "skill_name": "이그니션",
+        "ingame_description": "레이스 중에 스킬을 13회 발동하면 약간 앞으로 나간다＜중거리＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 707,
+                "duration": "2.4",
+                "effects": [],
+                "conditions": [
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 444,
+                        "description": "레이스 전체에 발동한 스킬 13개 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중거리",
+            "코스거리"
         ]
     },
     {
@@ -10442,6 +10491,48 @@
             "더트",
             "경쟁 상황",
             "레이스 경과 시간"
+        ]
+    },
+    {
+        "skill_id": 918,
+        "skill_name": "루미네선스",
+        "ingame_description": "레이스 중에 스킬을 13회 발동하면 앞으로 나간다＜중거리＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 706,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 444,
+                        "description": "레이스 전체에 발동한 스킬 13개 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "중거리",
+            "코스거리"
         ]
     },
     {
@@ -15799,6 +15890,19 @@
         "skill_id": 843,
         "skill_name": "훌륭한 진수성찬!",
         "ingame_description": "종반 코너에서 전방에 있을 때 결승점까지의 거리가 멀면 잠시 동안 앞으로 나오며 추가로 가속력이 아주 조금 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 844,
+        "skill_name": "애드・아스트라",
+        "ingame_description": "레이스 중간 부근에서 중위권 그룹에 있으면 속도가 상승하며, 중거리 레이스에서 스킬을 7회 이상 발동했다면 많이 상승한다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -32578,6 +32682,32 @@
         "skill_id": 614,
         "skill_name": "희미하고 덧없는 저녁놀",
         "ingame_description": "라스트 스퍼트 중에 직선에서 지구력을 다소 사용해서 속도가 아주 많이 상승한다 ＜선행·중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 720,
+        "skill_name": "별 바다를 달려서",
+        "ingame_description": "레이스 중에 스킬을 13회 발동하면 한동안 앞으로 나간다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 648,
+        "skill_name": "은하의 너머로, 당신과",
+        "ingame_description": "라스트 스퍼트 중에 직선에서 좋은 위치에 있으면 속도가 많이 상승한다＜중거리＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 64,
