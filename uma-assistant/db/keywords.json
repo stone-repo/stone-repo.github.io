@@ -89437,5 +89437,684 @@
         "keyword": "로렐선생님과공부",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 12778,
+        "event_title_id": 5773,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12779,
+        "event_title_id": 5773,
+        "keyword": "연초 등산",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12780,
+        "event_title_id": 5773,
+        "keyword": "새해 노래방 대회",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12781,
+        "event_title_id": 5773,
+        "keyword": "영험한 장소 순례",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12782,
+        "event_title_id": 5773,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12783,
+        "event_title_id": 5774,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12784,
+        "event_title_id": 5774,
+        "keyword": "굉장한 강장제",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12785,
+        "event_title_id": 5774,
+        "keyword": "부드러운 커피",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12786,
+        "event_title_id": 5774,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12787,
+        "event_title_id": 5774,
+        "keyword": "러브러브한 감주",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12788,
+        "event_title_id": 5775,
+        "keyword": "만나러 가는 행동력",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12789,
+        "event_title_id": 5775,
+        "keyword": "기다리는 인내",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12790,
+        "event_title_id": 5775,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12791,
+        "event_title_id": 5775,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12792,
+        "event_title_id": 5775,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12793,
+        "event_title_id": 5775,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12794,
+        "event_title_id": 5776,
+        "keyword": "탭 댄스 시티에게 배우자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12795,
+        "event_title_id": 5776,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12796,
+        "event_title_id": 5776,
+        "keyword": "댄스 레슨 (네오 유니버스)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12797,
+        "event_title_id": 5776,
+        "keyword": "춤추는 이유를 떠올려",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12798,
+        "event_title_id": 5776,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12799,
+        "event_title_id": 5777,
+        "keyword": "'관측' 조금 더 할래?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12800,
+        "event_title_id": 5777,
+        "keyword": "미션 분석 그리고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12801,
+        "event_title_id": 5777,
+        "keyword": "미션, 분석, 그리고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12802,
+        "event_title_id": 5777,
+        "keyword": "오구리의 달리기, 힘차더라!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12803,
+        "event_title_id": 5777,
+        "keyword": "미션분석그리고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12804,
+        "event_title_id": 5778,
+        "keyword": "외계인의 생태",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12805,
+        "event_title_id": 5778,
+        "keyword": "드링크로 빠른 효과",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12806,
+        "event_title_id": 5778,
+        "keyword": "외계인의 생태?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12807,
+        "event_title_id": 5778,
+        "keyword": "식사요법을 배우자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12808,
+        "event_title_id": 5778,
+        "keyword": "외계인의생태",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12809,
+        "event_title_id": 5779,
+        "keyword": "비 음색 반짝임",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12810,
+        "event_title_id": 5779,
+        "keyword": "비, 음색, 반짝임",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12811,
+        "event_title_id": 5779,
+        "keyword": "한층 더 평온해질 방법은 없을까",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12812,
+        "event_title_id": 5779,
+        "keyword": "기력을 충전해서 또 힘내자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12813,
+        "event_title_id": 5779,
+        "keyword": "비음색반짝임",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12814,
+        "event_title_id": 5780,
+        "keyword": "'다크 매터' 유희",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12815,
+        "event_title_id": 5780,
+        "keyword": "한 판 더 할까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12816,
+        "event_title_id": 5780,
+        "keyword": "다크 매터 유희",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12817,
+        "event_title_id": 5780,
+        "keyword": "앞으로는 함께 알아가자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12818,
+        "event_title_id": 5780,
+        "keyword": "다크매터유희",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12819,
+        "event_title_id": 5781,
+        "keyword": "'신틸레이션' 유희",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12820,
+        "event_title_id": 5781,
+        "keyword": "깜짝 놀라게 하는 과자, 알아?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12821,
+        "event_title_id": 5781,
+        "keyword": "나도 좋아하는 막과자가 있어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12822,
+        "event_title_id": 5781,
+        "keyword": "신틸레이션 유희",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12823,
+        "event_title_id": 5781,
+        "keyword": "신틸레이션유희",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12824,
+        "event_title_id": 5782,
+        "keyword": "'커넥트' 유희",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12825,
+        "event_title_id": 5782,
+        "keyword": "놀고 나면 간식 먹어야지",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12826,
+        "event_title_id": 5782,
+        "keyword": "이런 추억도 많이 만들자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12827,
+        "event_title_id": 5782,
+        "keyword": "커넥트 유희",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12828,
+        "event_title_id": 5782,
+        "keyword": "커넥트유희",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12829,
+        "event_title_id": 5782,
+        "keyword": "승자에게는 상품이 있어야지",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12830,
+        "event_title_id": 5783,
+        "keyword": "함께 놀면서 놀라게 만들자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12831,
+        "event_title_id": 5783,
+        "keyword": "모방의 랑데부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12832,
+        "event_title_id": 5783,
+        "keyword": "번데기 앞에서 주름 잡았네…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12833,
+        "event_title_id": 5783,
+        "keyword": "모방의랑데부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12834,
+        "event_title_id": 5784,
+        "keyword": "해냈네!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12835,
+        "event_title_id": 5784,
+        "keyword": "전해지지 않아도 전하고 싶어",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12836,
+        "event_title_id": 5784,
+        "keyword": "아이디어가 다양해서 놀랐어…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12837,
+        "event_title_id": 5784,
+        "keyword": "전해지지않아도전하고싶어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12838,
+        "event_title_id": 5785,
+        "keyword": "납득 될 때까지 전부 먹자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12839,
+        "event_title_id": 5785,
+        "keyword": "우주식 다중 비교 실시",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12840,
+        "event_title_id": 5785,
+        "keyword": "과식은 그만두자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12841,
+        "event_title_id": 5785,
+        "keyword": "우주식다중비교실시",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12842,
+        "event_title_id": 5786,
+        "keyword": "방법을 찾자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12843,
+        "event_title_id": 5786,
+        "keyword": "퍼스트 콘택트 메시지",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12844,
+        "event_title_id": 5786,
+        "keyword": "교류하면 전해질 거야!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12845,
+        "event_title_id": 5786,
+        "keyword": "퍼스트콘택트메시지",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12846,
+        "event_title_id": 5787,
+        "keyword": "외계인 알고 싶어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12847,
+        "event_title_id": 5787,
+        "keyword": "외계인, 알고 싶어?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12848,
+        "event_title_id": 5787,
+        "keyword": "수습하는 편이 좋겠어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12849,
+        "event_title_id": 5787,
+        "keyword": "중간까지는 좋았는데…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12850,
+        "event_title_id": 5787,
+        "keyword": "외계인알고싶어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12851,
+        "event_title_id": 5788,
+        "keyword": "친해 보여서 다행이야!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12852,
+        "event_title_id": 5788,
+        "keyword": "하지만 실험은 적당히…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12853,
+        "event_title_id": 5788,
+        "keyword": "Wow 뇌파",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12854,
+        "event_title_id": 5788,
+        "keyword": "Wow! 뇌파",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12855,
+        "event_title_id": 5788,
+        "keyword": "Wow뇌파",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12856,
+        "event_title_id": 5789,
+        "keyword": "과연… 그런 거로군",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12857,
+        "event_title_id": 5789,
+        "keyword": "쟁취하라 일자리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12858,
+        "event_title_id": 5789,
+        "keyword": "애들하고 포장마차 놀이라도 하려고?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12859,
+        "event_title_id": 5789,
+        "keyword": "쟁취하라, 일자리!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12860,
+        "event_title_id": 5789,
+        "keyword": "쟁취하라일자리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12861,
+        "event_title_id": 5790,
+        "keyword": "나도 배가 고파졌어",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12862,
+        "event_title_id": 5790,
+        "keyword": "어쨌든 좋은 계기가 돼서 다행이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12863,
+        "event_title_id": 5790,
+        "keyword": "이것이 야키소바의 힘인가…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12864,
+        "event_title_id": 5790,
+        "keyword": "야키소바는 모든 것을 구한다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12865,
+        "event_title_id": 5790,
+        "keyword": "야키소바는모든것을구한다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12866,
+        "event_title_id": 5791,
+        "keyword": "혹시 말장난…?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12867,
+        "event_title_id": 5791,
+        "keyword": "하늘의 이정표",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12868,
+        "event_title_id": 5791,
+        "keyword": "하늘의이정표",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12869,
+        "event_title_id": 5791,
+        "keyword": "다음에도 1착하겠다는 선언?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12870,
+        "event_title_id": 5792,
+        "keyword": "집단 속 코너링 요령",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12871,
+        "event_title_id": 5792,
+        "keyword": "꿈의 이정표",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12872,
+        "event_title_id": 5792,
+        "keyword": "고속 코너링 요령",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12873,
+        "event_title_id": 5792,
+        "keyword": "꿈의이정표",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12874,
+        "event_title_id": 5793,
+        "keyword": "천공의 이정표",
+        "source": "origin",
+        "item_order": 0
     }
 ]
