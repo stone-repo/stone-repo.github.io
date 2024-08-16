@@ -90116,5 +90116,355 @@
         "keyword": "천공의 이정표",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 12875,
+        "event_title_id": 5794,
+        "keyword": "역시 반장이야!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12876,
+        "event_title_id": 5794,
+        "keyword": "하나를 보면 열을 안다 돌진적으로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12877,
+        "event_title_id": 5794,
+        "keyword": "하나를 보면 열을 안다, 돌진적으로!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12878,
+        "event_title_id": 5794,
+        "keyword": "그래도 숨은 쉬자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12879,
+        "event_title_id": 5794,
+        "keyword": "하나를보면열을안다돌진적으로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12880,
+        "event_title_id": 5795,
+        "keyword": "한층 더 인연이 깊어졌습니다!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12881,
+        "event_title_id": 5795,
+        "keyword": "돌진 파이어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12882,
+        "event_title_id": 5795,
+        "keyword": "리더 덕분에 다시 일어섰습니다!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12883,
+        "event_title_id": 5795,
+        "keyword": "돌진 파이어!!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12884,
+        "event_title_id": 5795,
+        "keyword": "돌진파이어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12885,
+        "event_title_id": 5796,
+        "keyword": "나도 할 때는",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12886,
+        "event_title_id": 5796,
+        "keyword": "나도 할 때는……?!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12887,
+        "event_title_id": 5796,
+        "keyword": "신경 쓰지 않아도 돼",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12888,
+        "event_title_id": 5796,
+        "keyword": "레이스 결과로 보답해줘!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12889,
+        "event_title_id": 5796,
+        "keyword": "나도할때는",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12890,
+        "event_title_id": 5797,
+        "keyword": "이대로 우승하자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12891,
+        "event_title_id": 5797,
+        "keyword": "대단한 근성이었어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12892,
+        "event_title_id": 5797,
+        "keyword": "트리니티 레이스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12893,
+        "event_title_id": 5797,
+        "keyword": "트리니티 레이스! ! !",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12894,
+        "event_title_id": 5797,
+        "keyword": "트리니티레이스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12895,
+        "event_title_id": 5798,
+        "keyword": "나도 함께 기도할게!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12896,
+        "event_title_id": 5798,
+        "keyword": "옷에 복이여 오라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12897,
+        "event_title_id": 5798,
+        "keyword": "옷에 복이여 오라!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12898,
+        "event_title_id": 5798,
+        "keyword": "멋진 사진을 찍어서 보여주자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12899,
+        "event_title_id": 5798,
+        "keyword": "옷에복이여오라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12900,
+        "event_title_id": 5799,
+        "keyword": "하나하나에 진심으로",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12901,
+        "event_title_id": 5800,
+        "keyword": "네 몸 관리도 잊지 마",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12902,
+        "event_title_id": 5800,
+        "keyword": "소중히 잘 쓸게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12903,
+        "event_title_id": 5800,
+        "keyword": "성심성의 감사를 담아서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12904,
+        "event_title_id": 5800,
+        "keyword": "성심성의, 감사를 담아서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12905,
+        "event_title_id": 5800,
+        "keyword": "성심성의감사를담아서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12906,
+        "event_title_id": 5801,
+        "keyword": "배려심은 돌고 돌아",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12907,
+        "event_title_id": 5802,
+        "keyword": "모두는 한 명을 위해!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12908,
+        "event_title_id": 5803,
+        "keyword": "아예 더 만드는 건 어때?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12909,
+        "event_title_id": 5803,
+        "keyword": "추억 속의 벚꽃떡 맛은",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12910,
+        "event_title_id": 5803,
+        "keyword": "카페에 있는 학생들에게 주자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12911,
+        "event_title_id": 5803,
+        "keyword": "팀워크를 발휘해서 함께 먹자",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12912,
+        "event_title_id": 5803,
+        "keyword": "추억속의벚꽃떡맛은",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12913,
+        "event_title_id": 5804,
+        "keyword": "한 명은 모두를 위해!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12914,
+        "event_title_id": 5805,
+        "keyword": "미션 번개 특훈",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12915,
+        "event_title_id": 5805,
+        "keyword": "미션 『번개 특훈』",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12916,
+        "event_title_id": 5805,
+        "keyword": "천천히 적응하는 수밖에…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12917,
+        "event_title_id": 5805,
+        "keyword": "꼬리를 단련하자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12918,
+        "event_title_id": 5805,
+        "keyword": "미션번개특훈",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12919,
+        "event_title_id": 5806,
+        "keyword": "미션 친구를 응원",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12920,
+        "event_title_id": 5806,
+        "keyword": "미션 『친구를 응원』",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12921,
+        "event_title_id": 5806,
+        "keyword": "응원이 얼마나 든든한지 잘 알잖아?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12922,
+        "event_title_id": 5806,
+        "keyword": "『번개 특훈』을 떠올려 봐",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12923,
+        "event_title_id": 5806,
+        "keyword": "미션친구를응원",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12924,
+        "event_title_id": 5807,
+        "keyword": "긴급 미션 『에너지 주입』",
+        "source": "origin",
+        "item_order": 0
     }
 ]
