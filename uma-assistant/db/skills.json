@@ -7970,6 +7970,122 @@
         ]
     },
     {
+        "skill_id": 1189,
+        "skill_name": "데구루루!? 파워 드라이브",
+        "ingame_description": "레이스 후반 코너에서 중위권 그룹이면 남은 지구력에 따른 시간만큼 속도가 아주 조금 상승하며 중거리에서는 가속도도 매우 조금 상승한다",
+        "require_pt": 200,
+        "cool_time": 1.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 950,
+        "skill_name": "진출 개시",
+        "ingame_description": "레이스 종반이 다가올 때 중위권 그룹 이후에 있으면 속도가 약간 상승한다 ＜작전·선입＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 708,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 357,
+                        "description": "레이스 중반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "순위",
+            "중반",
+            "중간순위",
+            "후방순위"
+        ]
+    },
+    {
+        "skill_id": 934,
+        "skill_name": "넘치는 정열",
+        "ingame_description": "레이스 중반이 다가올 때 중위권 그룹 이후에 있으면 속도가 약간 상승한다 ＜작전·선입＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 711,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 426,
+                        "description": "레이스 초반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "순위",
+            "중간순위",
+            "후방순위"
+        ]
+    },
+    {
         "skill_id": 244,
         "skill_name": "마일의 지배자",
         "ingame_description": "레이스 초반에 선두라면 거리를 벌리기 쉬워진다＜마일＞",
@@ -8464,6 +8580,58 @@
             "순위",
             "중반",
             "추월"
+        ]
+    },
+    {
+        "skill_id": 909,
+        "skill_name": "돌격 정신",
+        "ingame_description": "레이스 종반이 다가올 때 중위권 그룹 이후에 있으면 속도가 상승한다 ＜작전·선입＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 709,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 258,
+                        "description": "순위 비율 40% 이상",
+                        "extra_description": "챔피언스 미팅 : 4~8위 | 팀 레이스 : 5~11위 | 풀 게이트 : 7~17위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 328,
+                        "description": "선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 357,
+                        "description": "레이스 중반의 후반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "선입",
+            "순위",
+            "중반",
+            "중간순위",
+            "후방순위"
         ]
     },
     {
@@ -10288,8 +10456,38 @@
         "skill_type_name": "속도 상승 (레어)",
         "skill_icon_url": "images/skill-types/skill_speed_rare.png",
         "grade": "R",
-        "skill_situations": null,
-        "skill_condition_tags": []
+        "skill_situations": [
+            {
+                "skill_situation_id": 710,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 230,
+                        "description": "직선",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 331,
+                        "description": "단거리",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "직선",
+            "단거리",
+            "코스거리"
+        ]
     },
     {
         "skill_id": 898,
@@ -16403,6 +16601,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 857,
+        "skill_name": "데구루루!? 파워 드라이브",
+        "ingame_description": "레이스 후반 코너에서 중위권 그룹이면 남은 지구력에 따른 시간만큼 속도가 다소 상승하며 중거리에서는 가속도도 아주 조금 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 347,
         "skill_name": "교묘한 스텝",
         "ingame_description": "좌우로 이동할 때 가속력이 약간 상승한다 <작전・선행>",
@@ -18843,6 +19054,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1188,
+        "skill_name": "CHERRY☆스크램블",
+        "ingame_description": "남은 거리가 400m일 때 전방이라면 짧은 시간 동안 가속력이 매우 조금 상승하며 중반에 오래 경합할수록 효과와 시간이 증가한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 358,
         "skill_name": "도망자",
         "ingame_description": "최종 코너에서 선두를 유지하기 쉬워진다＜작전・도주＞",
@@ -19662,6 +19886,41 @@
             "추격",
             "중간순위",
             "후방순위"
+        ]
+    },
+    {
+        "skill_id": 925,
+        "skill_name": "만반의 준비",
+        "ingame_description": "레이스 초반에 스킬을 많이 발동하면 가속력이 상승한다",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 712,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 180,
+                        "description": "레이스 초반에 발동한 스킬 3개 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "스킬 발동"
         ]
     },
     {
@@ -20531,6 +20790,19 @@
             "중간순위",
             "최종코너 진입이후"
         ]
+    },
+    {
+        "skill_id": 875,
+        "skill_name": "CHERRY☆스크램블",
+        "ingame_description": "남은 거리가 400m일 때 전방이라면 짧은 시간 동안 가속력이 아주 조금 상승하며 중반에 오래 경합할수록 효과와 시간이 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 6,
+        "skill_type_name": "가속력 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_accel_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 876,
@@ -32692,6 +32964,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 705,
+        "skill_name": "돌진! 폭진! 바쿠신!",
+        "ingame_description": "직선에서 한동안 앞으로 나간다＜단거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 720,
         "skill_name": "별 바다를 달려서",
         "ingame_description": "레이스 중에 스킬을 13회 발동하면 한동안 앞으로 나간다＜중거리＞",
@@ -32708,6 +32993,19 @@
         "skill_id": 648,
         "skill_name": "은하의 너머로, 당신과",
         "ingame_description": "라스트 스퍼트 중에 직선에서 좋은 위치에 있으면 속도가 많이 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 688,
+        "skill_name": "저돌맹진! 돌진 로드!",
+        "ingame_description": "레이스 종반이 다가올 때 전방에 있으면 속도가 많이 상승한다＜단거리＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 64,
@@ -32744,9 +33042,35 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 776,
+        "skill_name": "대역전극",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 한동안 가속력이 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 996,
         "skill_name": "아름다운 인광",
         "ingame_description": "레이스 종반이 다가올 때 지구력을 회복하고 속도가 약간 상승한다＜작전·선행＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 66,
+        "skill_type_name": "지구력 회복 (진화)",
+        "skill_icon_url": "images/skill-types/skill_health_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1036,
+        "skill_name": "포지티브 스마일",
+        "ingame_description": "레이스 중반이 시작될 때 지구력을 많이 회복한다 ＜작전·선입＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 66,
