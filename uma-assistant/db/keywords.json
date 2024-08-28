@@ -33168,7 +33168,7 @@
     {
         "id": 4739,
         "event_title_id": 1617,
-        "keyword": "질 수는 없겠는데!",
+        "keyword": "질 수는 없겠네!",
         "source": "item",
         "item_order": 1
     },
@@ -90465,6 +90465,580 @@
         "event_title_id": 5807,
         "keyword": "긴급 미션 『에너지 주입』",
         "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12925,
+        "event_title_id": 5808,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12926,
+        "event_title_id": 5808,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12927,
+        "event_title_id": 5808,
+        "keyword": "카페에서 느긋하게 시간을 보낸다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12928,
+        "event_title_id": 5808,
+        "keyword": "놀이공원의 놀이 기구 완전 정복",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12929,
+        "event_title_id": 5808,
+        "keyword": "복주머니로 운수 테스트!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12930,
+        "event_title_id": 5809,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12931,
+        "event_title_id": 5809,
+        "keyword": "축구 관전",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12932,
+        "event_title_id": 5809,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12933,
+        "event_title_id": 5809,
+        "keyword": "고급스러운 다과회",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12934,
+        "event_title_id": 5809,
+        "keyword": "DIY 목공예",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12935,
+        "event_title_id": 5810,
+        "keyword": "아주 느긋한 산책",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12936,
+        "event_title_id": 5810,
+        "keyword": "아주 시끌벅적한 해수욕",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12937,
+        "event_title_id": 5810,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12938,
+        "event_title_id": 5810,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12939,
+        "event_title_id": 5810,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12940,
+        "event_title_id": 5810,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12941,
+        "event_title_id": 5811,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12942,
+        "event_title_id": 5811,
+        "keyword": "댄스 레슨 (히시 미라클)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12943,
+        "event_title_id": 5811,
+        "keyword": "오오, 의욕이 넘치네!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12944,
+        "event_title_id": 5811,
+        "keyword": "페이스 조절 잘 해야 해",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12945,
+        "event_title_id": 5811,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12946,
+        "event_title_id": 5812,
+        "keyword": "체력 참 좋네…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12947,
+        "event_title_id": 5812,
+        "keyword": "당번 히시 미라클",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12948,
+        "event_title_id": 5812,
+        "keyword": "『당번: 히시 미라클』",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12949,
+        "event_title_id": 5812,
+        "keyword": "정신력을 기르는 데 좋을 것 같네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12950,
+        "event_title_id": 5812,
+        "keyword": "당번히시미라클",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12951,
+        "event_title_id": 5813,
+        "keyword": "그 의욕을 수영에 쏟으면…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12952,
+        "event_title_id": 5813,
+        "keyword": "그럼 지식을 쌓아서 극복하자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12953,
+        "event_title_id": 5813,
+        "keyword": "싫다는 말은 진심",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12954,
+        "event_title_id": 5813,
+        "keyword": "싫다는말은진심",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12955,
+        "event_title_id": 5814,
+        "keyword": "'미라클'한 힘을 키우자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12956,
+        "event_title_id": 5814,
+        "keyword": "'미라클'보다 먼저 시험 대책부터 세우자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12957,
+        "event_title_id": 5814,
+        "keyword": "미라클×미라클",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12958,
+        "event_title_id": 5814,
+        "keyword": "미라클 미라클",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12959,
+        "event_title_id": 5814,
+        "keyword": "미라클미라클",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12960,
+        "event_title_id": 5815,
+        "keyword": "잘 부탁드립니다! 트레이너 선생님!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12961,
+        "event_title_id": 5815,
+        "keyword": "가끔은 일을 잊어 버리고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12962,
+        "event_title_id": 5815,
+        "keyword": "그때까지는 뭘 하면 좋을까요!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12963,
+        "event_title_id": 5815,
+        "keyword": "가끔은일을잊어버리고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12964,
+        "event_title_id": 5816,
+        "keyword": "여러 가지 힐링 투어들",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12965,
+        "event_title_id": 5816,
+        "keyword": "정말 유능한 트레이너구나!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12966,
+        "event_title_id": 5816,
+        "keyword": "여러모로 고민해 준 거구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12967,
+        "event_title_id": 5816,
+        "keyword": "여러가지힐링투어들",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12968,
+        "event_title_id": 5817,
+        "keyword": "내 트레이너 선생님은 실력이 좋네",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 12969,
+        "event_title_id": 5817,
+        "keyword": "힐링 전도사",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12970,
+        "event_title_id": 5817,
+        "keyword": "대단한 거야!!!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12971,
+        "event_title_id": 5817,
+        "keyword": "충분히 훌륭한 재능이야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12972,
+        "event_title_id": 5817,
+        "keyword": "『힐링』 전도사",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12973,
+        "event_title_id": 5817,
+        "keyword": "힐링전도사",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12974,
+        "event_title_id": 5818,
+        "keyword": "또 먹고 싶어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12975,
+        "event_title_id": 5818,
+        "keyword": "앞으로는 가게에서 안 사 먹어도 될 것 같아",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12976,
+        "event_title_id": 5818,
+        "keyword": "오코노미야키를 찾아서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12977,
+        "event_title_id": 5818,
+        "keyword": "오코노미야키를찾아서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12978,
+        "event_title_id": 5819,
+        "keyword": "다니다 보면 수영을 잘할 수 있게 될지도?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12979,
+        "event_title_id": 5819,
+        "keyword": "하늘을 헤엄치다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12980,
+        "event_title_id": 5819,
+        "keyword": "다음에는 물총도 가지고 갈까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12981,
+        "event_title_id": 5819,
+        "keyword": "하늘을헤엄치다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12982,
+        "event_title_id": 5820,
+        "keyword": "실컷 먹고 즐기고 와!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12983,
+        "event_title_id": 5820,
+        "keyword": "그날만의 별미",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12984,
+        "event_title_id": 5820,
+        "keyword": "과식하지 않게 조심해",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12985,
+        "event_title_id": 5820,
+        "keyword": "그날만의별미",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12986,
+        "event_title_id": 5821,
+        "keyword": "'평범~'하지 않은 것",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12987,
+        "event_title_id": 5821,
+        "keyword": "그 열정을 트레이닝에 쏟자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12988,
+        "event_title_id": 5821,
+        "keyword": "평범 하지 않은 것",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12989,
+        "event_title_id": 5821,
+        "keyword": "평범하지 않은 것",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12990,
+        "event_title_id": 5821,
+        "keyword": "승부복에 부끄럽지 않게 실력을 키우자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12991,
+        "event_title_id": 5821,
+        "keyword": "평범하지않은것",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12992,
+        "event_title_id": 5822,
+        "keyword": "지금 서로 무슨 생각 하는지 알겠어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 12993,
+        "event_title_id": 5822,
+        "keyword": "공으로 통하는 마음",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12994,
+        "event_title_id": 5822,
+        "keyword": "명콤비가 될 것 같네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12995,
+        "event_title_id": 5822,
+        "keyword": "공으로통하는마음",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12996,
+        "event_title_id": 5823,
+        "keyword": "별로 참고하지 않는 편이 좋을 거야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 12997,
+        "event_title_id": 5823,
+        "keyword": "트레센 학원의 '평범~'한 생활법",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 12998,
+        "event_title_id": 5823,
+        "keyword": "트레센 학원의 평범 한 생활법",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 12999,
+        "event_title_id": 5823,
+        "keyword": "트레센 학원의 평범한 생활법",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13000,
+        "event_title_id": 5823,
+        "keyword": "앞으로도 감시해 주면 안 될까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13001,
+        "event_title_id": 5823,
+        "keyword": "트레센학원의평범한생활법",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13002,
+        "event_title_id": 5824,
+        "keyword": "(아니, 기적을 기대하며 그녀를 믿어 보자!)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13003,
+        "event_title_id": 5824,
+        "keyword": "(…포기하고 강의 형태로 전환하자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13004,
+        "event_title_id": 5824,
+        "keyword": "할게요 한다니까요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13005,
+        "event_title_id": 5824,
+        "keyword": "할게요, 한다니까요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13006,
+        "event_title_id": 5824,
+        "keyword": "할게요한다니까요",
+        "source": "title",
         "item_order": 0
     }
 ]
