@@ -91040,5 +91040,677 @@
         "keyword": "할게요한다니까요",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 13007,
+        "event_title_id": 5825,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13008,
+        "event_title_id": 5825,
+        "keyword": "『표리 관계인 번뜩임과 태만』",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13009,
+        "event_title_id": 5825,
+        "keyword": "『자비, 혹은 그와 비견할 만한 우애』",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13010,
+        "event_title_id": 5825,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13011,
+        "event_title_id": 5825,
+        "keyword": "『무력함을 한탄하는 자를 위한 진혼』",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13012,
+        "event_title_id": 5826,
+        "keyword": "게임",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13013,
+        "event_title_id": 5826,
+        "keyword": "요리",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13014,
+        "event_title_id": 5826,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13015,
+        "event_title_id": 5826,
+        "keyword": "하네츠키",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13016,
+        "event_title_id": 5826,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13017,
+        "event_title_id": 5827,
+        "keyword": "『영원히 꺼지지 않는 라임꽃』",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13018,
+        "event_title_id": 5827,
+        "keyword": "『강자조차 취하게 하는 칵테일 잔』",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13019,
+        "event_title_id": 5827,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13020,
+        "event_title_id": 5827,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13021,
+        "event_title_id": 5827,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13022,
+        "event_title_id": 5827,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13023,
+        "event_title_id": 5828,
+        "keyword": "간 떨어지는 줄 알았으니, 이런 건 적당히 하자…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13024,
+        "event_title_id": 5828,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13025,
+        "event_title_id": 5828,
+        "keyword": "댄스 레슨 (타니노 김렛)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13026,
+        "event_title_id": 5828,
+        "keyword": "비가 그쳐서 아쉽네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13027,
+        "event_title_id": 5828,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13028,
+        "event_title_id": 5829,
+        "keyword": "눈물을 삼키는 맛",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13029,
+        "event_title_id": 5829,
+        "keyword": "강렬한 테이스트!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13030,
+        "event_title_id": 5829,
+        "keyword": "이별의 이니시에이션",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13031,
+        "event_title_id": 5829,
+        "keyword": "이별의이니시에이션",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13032,
+        "event_title_id": 5830,
+        "keyword": "제대로 어디 앉아서 해설을 들어 보고 싶어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13033,
+        "event_title_id": 5830,
+        "keyword": "현학자의 방식",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13034,
+        "event_title_id": 5830,
+        "keyword": "거침없이 답하던데!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13035,
+        "event_title_id": 5830,
+        "keyword": "현학자의방식",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13036,
+        "event_title_id": 5831,
+        "keyword": "그 엄청난 기술을 체감하고 싶어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13037,
+        "event_title_id": 5831,
+        "keyword": "후학을 위해서도 꼭 부탁해!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13038,
+        "event_title_id": 5831,
+        "keyword": "BarCheerstoGimlet",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13039,
+        "event_title_id": 5831,
+        "keyword": "Bar 'Cheers to Gimlet'",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13040,
+        "event_title_id": 5831,
+        "keyword": "Bar Cheers to Gimlet",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13041,
+        "event_title_id": 5832,
+        "keyword": "탐정 김렛 최초의 사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13042,
+        "event_title_id": 5832,
+        "keyword": "진짜 깜짝 놀랐네…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13043,
+        "event_title_id": 5832,
+        "keyword": "탐정 김렛·최초의 사건",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13044,
+        "event_title_id": 5832,
+        "keyword": "탐정 김렛최초의 사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13045,
+        "event_title_id": 5832,
+        "keyword": "사건이 일어나지 않아서 다행이야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13046,
+        "event_title_id": 5832,
+        "keyword": "탐정김렛최초의사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13047,
+        "event_title_id": 5833,
+        "keyword": "탐정 김렛 추억 편",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13048,
+        "event_title_id": 5833,
+        "keyword": "탐정 김렛·추억 편",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13049,
+        "event_title_id": 5833,
+        "keyword": "탐정 김렛추억 편",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13050,
+        "event_title_id": 5833,
+        "keyword": "탐정은 참 멋지지",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13051,
+        "event_title_id": 5833,
+        "keyword": "다음에는 맞힐 수 있으면 좋겠다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13052,
+        "event_title_id": 5833,
+        "keyword": "탐정김렛추억편",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13053,
+        "event_title_id": 5834,
+        "keyword": "머, 멋지다…!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13054,
+        "event_title_id": 5834,
+        "keyword": "탐정 김렛 마지막 사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13055,
+        "event_title_id": 5834,
+        "keyword": "탐정 김렛·마지막? 사건",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13056,
+        "event_title_id": 5834,
+        "keyword": "역시 명탐정이야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13057,
+        "event_title_id": 5834,
+        "keyword": "탐정 김렛마지막 사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13058,
+        "event_title_id": 5834,
+        "keyword": "무알코올 칵테일로 건배하자",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13059,
+        "event_title_id": 5834,
+        "keyword": "탐정김렛마지막사건",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13060,
+        "event_title_id": 5835,
+        "keyword": "이 세상은 펠리온과 같다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13061,
+        "event_title_id": 5835,
+        "keyword": "오늘의 배움은 나의 '쿰란'이 됐어…!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13062,
+        "event_title_id": 5835,
+        "keyword": "오늘은 진지하게 공부하는 게 보기 좋았어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13063,
+        "event_title_id": 5835,
+        "keyword": "이세상은펠리온과같다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13064,
+        "event_title_id": 5836,
+        "keyword": "이, 이제 움직여도 될까…?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13065,
+        "event_title_id": 5836,
+        "keyword": "하지만 내 눈동자에 비친 별이라면, 그건…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13066,
+        "event_title_id": 5836,
+        "keyword": "폴라리스보다도 아름다운",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13067,
+        "event_title_id": 5836,
+        "keyword": "폴라리스보다도아름다운",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13068,
+        "event_title_id": 5837,
+        "keyword": "그래, 전부 다 먹어 줘!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13069,
+        "event_title_id": 5837,
+        "keyword": "마스터 추천 메뉴로 부탁해",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13070,
+        "event_title_id": 5837,
+        "keyword": "마스터, 추천 메뉴로 부탁해",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13071,
+        "event_title_id": 5837,
+        "keyword": "과식하게 되니까 조금만 먹자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13072,
+        "event_title_id": 5837,
+        "keyword": "마스터추천메뉴로부탁해",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13073,
+        "event_title_id": 5838,
+        "keyword": "어린 날의 이별에",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13074,
+        "event_title_id": 5838,
+        "keyword": "비법 재료가 궁금한데…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13075,
+        "event_title_id": 5838,
+        "keyword": "너에게도 추억의 맛이었네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13076,
+        "event_title_id": 5838,
+        "keyword": "어린날의이별에",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13077,
+        "event_title_id": 5839,
+        "keyword": "그 창을 놓치지 마라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13078,
+        "event_title_id": 5839,
+        "keyword": "내 개성에 대해 다시 생각하게 됐어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13079,
+        "event_title_id": 5839,
+        "keyword": "정말 멋졌어!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13080,
+        "event_title_id": 5839,
+        "keyword": "그창을놓치지마라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13081,
+        "event_title_id": 5840,
+        "keyword": "이 멋진 사진은 어떻게 할 거니?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13082,
+        "event_title_id": 5840,
+        "keyword": "이 한순간의 빛을",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13083,
+        "event_title_id": 5840,
+        "keyword": "이 한순간의 빛을!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13084,
+        "event_title_id": 5840,
+        "keyword": "역시 멋지던데!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13085,
+        "event_title_id": 5840,
+        "keyword": "이한순간의빛을",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13086,
+        "event_title_id": 5841,
+        "keyword": "알기 쉽게 재구축",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13087,
+        "event_title_id": 5841,
+        "keyword": "걱정 말고 대담하게 파괴!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13088,
+        "event_title_id": 5841,
+        "keyword": "뱀과 오렌지와 별",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13089,
+        "event_title_id": 5841,
+        "keyword": "그대로 둔다",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13090,
+        "event_title_id": 5841,
+        "keyword": "뱀과오렌지와별",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13091,
+        "event_title_id": 5842,
+        "keyword": "두근☆외박 투나잇!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13092,
+        "event_title_id": 5843,
+        "keyword": "브이 따봉을 목표로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13093,
+        "event_title_id": 5843,
+        "keyword": "너의 귀여운 모습을 볼 수 있어서 좋았어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13094,
+        "event_title_id": 5843,
+        "keyword": "네가 사랑받는 이유를 알겠어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13095,
+        "event_title_id": 5843,
+        "keyword": "브이! 따봉을 목표로!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13096,
+        "event_title_id": 5843,
+        "keyword": "브이따봉을목표로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13097,
+        "event_title_id": 5844,
+        "keyword": "거친 다과회와 기라성",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13098,
+        "event_title_id": 5844,
+        "keyword": "열정이 과한 느낌도…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13099,
+        "event_title_id": 5844,
+        "keyword": "정말로 좋아하나 보네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13100,
+        "event_title_id": 5844,
+        "keyword": "거친다과회와기라성",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13101,
+        "event_title_id": 5845,
+        "keyword": "충격이 심장을 후려갈겨서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13102,
+        "event_title_id": 5846,
+        "keyword": "포효는 모든 것을 집어삼키고",
+        "source": "origin",
+        "item_order": 0
     }
 ]
