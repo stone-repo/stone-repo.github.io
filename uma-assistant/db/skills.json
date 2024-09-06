@@ -5961,6 +5961,19 @@
         ]
     },
     {
+        "skill_id": 1191,
+        "skill_name": "벽력의 아우프헤벤",
+        "ingame_description": "레이스 종반에 후방에 있으면 최종 직선에서 약간 앞으로 나간다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 188,
         "skill_name": "단거리 코너○",
         "ingame_description": "코너에서 속도가 약간 상승한다 ＜단거리＞",
@@ -8093,6 +8106,54 @@
             "중반",
             "중간순위",
             "후방순위"
+        ]
+    },
+    {
+        "skill_id": 945,
+        "skill_name": "치밀어 오르는 열",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹에 있으면 약간 앞으로 나간다＜중거리/장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 717,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 380,
+                        "description": "순위 비율 30% 이상, 80% 이하",
+                        "extra_description": "챔피언스 미팅 : 3~7위 | 팀 레이스 : 4~10위 | 풀 게이트 : 5~14위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 422,
+                        "description": "중거리 또는 장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "순위",
+            "중간순위"
         ]
     },
     {
@@ -11386,6 +11447,54 @@
             "각질",
             "추입",
             "라스트스퍼트"
+        ]
+    },
+    {
+        "skill_id": 906,
+        "skill_name": "솟구치는 고동",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹에 있으면 앞으로 나간다＜중거리/장거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 718,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 380,
+                        "description": "순위 비율 30% 이상, 80% 이하",
+                        "extra_description": "챔피언스 미팅 : 3~7위 | 팀 레이스 : 4~10위 | 풀 게이트 : 5~14위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 422,
+                        "description": "중거리 또는 장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "순위",
+            "중간순위"
         ]
     },
     {
@@ -16288,6 +16397,19 @@
         "skill_id": 862,
         "skill_name": "등불",
         "ingame_description": "종반 코너에서 후방에서 따라붙으면 최종 직선에서 속도가 상승하며, 종반 코너에서 추월한 횟수에 따라 효과가 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 868,
+        "skill_name": "벽력의 아우프헤벤",
+        "ingame_description": "레이스 종반에 후방에 있으면 최종 직선에서 힘을 해방해 앞으로 나가며, 도쿄 경기장의 중거리 레이스라면 아주 많이 앞으로 나간다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -26336,6 +26458,56 @@
         ]
     },
     {
+        "skill_id": 1086,
+        "skill_name": "자신감",
+        "ingame_description": "스피드와 파워가 충분히 강하면 스피드와 파워가 약간 상승한다 ＜마일/중거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 16,
+        "skill_type_name": "패시브 스피드 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 715,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 20
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 20
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 420,
+                        "description": "마일 또는 중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 446,
+                        "description": "스피드 1000 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 447,
+                        "description": "파워 1000 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 1085,
         "skill_name": "교류 대상경주○",
         "ingame_description": "",
@@ -26909,6 +27081,56 @@
         "skill_condition_tags": [
             "더트"
         ]
+    },
+    {
+        "skill_id": 1078,
+        "skill_name": "운증용변",
+        "ingame_description": "스피드와 파워가 충분히 강하면 스피드와 파워가 상승한다 ＜마일/중거리＞",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 17,
+        "skill_type_name": "패시브 스피드 증가 (레어)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 716,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 60
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 60
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 420,
+                        "description": "마일 또는 중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 446,
+                        "description": "스피드 1000 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 447,
+                        "description": "파워 1000 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
     },
     {
         "skill_id": 36,
@@ -33151,6 +33373,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1192,
+        "skill_name": "폭풍을 부르는 파괴신",
+        "ingame_description": "레이스 종반에 후방에 있으면 라스트 스퍼트가 한창일 때 속도가 많이 상승한다＜작전·추입＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 777,
         "skill_name": "언제나 가장 빛나는 반짝임을",
         "ingame_description": "레이스 종반에 후방에서 추월하려고 하면 가속력이 상승하며, 추가로 눈앞의 우마무스메를 약간 위축시킨다＜단거리/마일＞",
@@ -33224,6 +33459,19 @@
         "skill_type_id": 66,
         "skill_type_name": "지구력 회복 (진화)",
         "skill_icon_url": "images/skill-types/skill_health_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1193,
+        "skill_name": "도취하라, 세계여",
+        "ingame_description": "스피드와 파워가 충분히 강하면 스피드와 파워가 많이 상승한다 ＜마일/중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 71,
+        "skill_type_name": "패시브 스피드 증가 (진화)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_evolution.png",
         "grade": "E",
         "skill_situations": null,
         "skill_condition_tags": []
