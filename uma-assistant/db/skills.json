@@ -8208,6 +8208,19 @@
         ]
     },
     {
+        "skill_id": 1194,
+        "skill_name": "Flowering Dreams",
+        "ingame_description": "남은 거리가 200m일 때 2등~중위권 그룹이 라면 속도가 약간 상승하고, 근처에 우마무스메가 3명 이상 있으면 아주 약간 앞으로 나간다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 244,
         "skill_name": "마일의 지배자",
         "ingame_description": "레이스 초반에 선두라면 거리를 벌리기 쉬워진다＜마일＞",
@@ -10492,8 +10505,8 @@
     },
     {
         "skill_id": 895,
-        "skill_name": "진풍원인",
-        "ingame_description": "코너에서 속도가 상승한다＜작전・도주＞",
+        "skill_name": "호풍원인",
+        "ingame_description": "코너에서 속도가 상승한다＜마일＞",
         "require_pt": 150,
         "cool_time": 0.0,
         "skill_type_id": 2,
@@ -10519,8 +10532,8 @@
                         "priority": 0
                     },
                     {
-                        "skill_condition_id": 324,
-                        "description": "도주",
+                        "skill_condition_id": 332,
+                        "description": "마일",
                         "extra_description": "",
                         "priority": 0
                     }
@@ -10528,9 +10541,9 @@
             }
         ],
         "skill_condition_tags": [
-            "각질",
-            "도주",
-            "코너"
+            "마일",
+            "코너",
+            "코스거리"
         ]
     },
     {
@@ -10710,6 +10723,49 @@
         ],
         "skill_condition_tags": [
             "남은 거리"
+        ]
+    },
+    {
+        "skill_id": 903,
+        "skill_name": "진풍원인",
+        "ingame_description": "코너에서 속도가 상승한다＜작전・도주＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 719,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 265,
+                        "description": "코너",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 324,
+                        "description": "도주",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "도주",
+            "코너"
         ]
     },
     {
@@ -16355,6 +16411,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 849,
+        "skill_name": "곱빼기! 퍼스트 바이트!",
+        "ingame_description": "레이스 중반에 3회 추월하고 종반 직전 내리막에서 후방에 있으면 잠시 동안 속도가 상승하고 가속력이 아주 조금 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 851,
         "skill_name": "치켜들어라, 내 영혼의 검을!",
         "ingame_description": "레이스 종반 남은 거리 400m 지점에서 전방에 있으면 속도가 상승하며, 추가로 GⅠ등 큰 무대에서 인기가 높은 경우 많이 상승한다",
@@ -16848,6 +16917,19 @@
         "skill_id": 857,
         "skill_name": "데구루루!? 파워 드라이브",
         "ingame_description": "레이스 후반 코너에서 중위권 그룹이면 남은 지구력에 따른 시간만큼 속도가 다소 상승하며 중거리에서는 가속도도 아주 조금 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 821,
+        "skill_name": "Flowering Dreams",
+        "ingame_description": "남은 거리가 200m일 때 2등~중위권 그룹이 라면 속도가 상승하고, 근처에 우마무스메가 3명 이상 있으면 약간 앞으로 나간다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -33321,6 +33403,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 701,
+        "skill_name": "열렬한 인게이지!",
+        "ingame_description": "레이스 중반에 후방에 있으면 한동안 속도가 상승한다＜작전·추입＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 705,
         "skill_name": "돌진! 폭진! 바쿠신!",
         "ingame_description": "직선에서 한동안 앞으로 나간다＜단거리＞",
@@ -33337,6 +33432,19 @@
         "skill_id": 720,
         "skill_name": "별 바다를 달려서",
         "ingame_description": "레이스 중에 스킬을 13회 발동하면 한동안 앞으로 나간다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 748,
+        "skill_name": "베일을 흔드는 봄의 질풍",
+        "ingame_description": "내리막에서 속도가 상승하며 추가로 가속력이 약간 상승한다 ＜단거리/마일＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 64,
@@ -33386,6 +33494,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 666,
+        "skill_name": "축복의 플라워 걸",
+        "ingame_description": "코너에서 속도가 많이 상승하며 추가로 자신을 제외한 팀 멤버의 속도가 약간 상승한다＜마일＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 777,
         "skill_name": "언제나 가장 빛나는 반짝임을",
         "ingame_description": "레이스 종반에 후방에서 추월하려고 하면 가속력이 상승하며, 추가로 눈앞의 우마무스메를 약간 위축시킨다＜단거리/마일＞",
@@ -33402,6 +33523,19 @@
         "skill_id": 766,
         "skill_name": "질실강건",
         "ingame_description": "라스트 스퍼트 중에 중위권 그룹 이후에서 지구력을 다소 사용해 가속력이 상승, 나카야마라면 지구력을 사용하는 대신 약간 회복한다＜선입·장거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 781,
+        "skill_name": "투혼입도!",
+        "ingame_description": "레이스 종반에 돌입할 때까지 흥분하지 않았으면 종반이 시작될 때 한동안 가속력이 상승한다＜추입·중거리＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 65,
