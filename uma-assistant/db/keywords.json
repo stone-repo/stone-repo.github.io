@@ -91712,5 +91712,285 @@
         "keyword": "포효는 모든 것을 집어삼키고",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 13103,
+        "event_title_id": 5847,
+        "keyword": "나란히 다가서서 마주 보고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13104,
+        "event_title_id": 5847,
+        "keyword": "나란히 다가서서, 마주 보고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13105,
+        "event_title_id": 5847,
+        "keyword": "확실히, 평소보다 어른스러웠던 것 같아",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13106,
+        "event_title_id": 5847,
+        "keyword": "결과적으로 좋은 사진을 찍을 수 있었어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13107,
+        "event_title_id": 5847,
+        "keyword": "나란히다가서서마주보고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13108,
+        "event_title_id": 5848,
+        "keyword": "둘 다 저런 특기를 가지고 있었구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13109,
+        "event_title_id": 5848,
+        "keyword": "힘의 비결은 느긋한 것...!?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13110,
+        "event_title_id": 5848,
+        "keyword": "온화한 잠재력",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13111,
+        "event_title_id": 5848,
+        "keyword": "온화한잠재력",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13112,
+        "event_title_id": 5849,
+        "keyword": "네게 위험이 닥치면 같이 싸울 거야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13113,
+        "event_title_id": 5849,
+        "keyword": "밀림에 핀 청아한 마음",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13114,
+        "event_title_id": 5849,
+        "keyword": "너에게 있어서 특별한 승부복이구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13115,
+        "event_title_id": 5849,
+        "keyword": "밀림에핀청아한마음",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13116,
+        "event_title_id": 5850,
+        "keyword": "기숙사 아이들에게도 먹여주고 싶다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13117,
+        "event_title_id": 5850,
+        "keyword": "레이스와 같구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13118,
+        "event_title_id": 5850,
+        "keyword": "보노하고 미라클한 맞짱 요리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13119,
+        "event_title_id": 5850,
+        "keyword": "보노하고 미라클한 맞짱 요리!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13120,
+        "event_title_id": 5850,
+        "keyword": "보노하고미라클한맞짱요리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13121,
+        "event_title_id": 5851,
+        "keyword": "피로연 랩소디",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13122,
+        "event_title_id": 5852,
+        "keyword": "나도 견학에 동행할게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13123,
+        "event_title_id": 5852,
+        "keyword": "친구들과 함께 가는 건 어떨까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13124,
+        "event_title_id": 5852,
+        "keyword": "브라이덜 프라이드",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13125,
+        "event_title_id": 5852,
+        "keyword": "브라이덜프라이드",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13126,
+        "event_title_id": 5853,
+        "keyword": "행복을 꾸미는 사람",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13127,
+        "event_title_id": 5854,
+        "keyword": "관심 폭발이로구나……?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13128,
+        "event_title_id": 5854,
+        "keyword": "열정은 전해졌구나, 인가",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13129,
+        "event_title_id": 5854,
+        "keyword": "추억에는 열쇠가 있어요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13130,
+        "event_title_id": 5854,
+        "keyword": "추억에는열쇠가있어요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13131,
+        "event_title_id": 5855,
+        "keyword": "구, 궁금합니다……?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13132,
+        "event_title_id": 5855,
+        "keyword": "그건 무슨 찻잎이야?",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13133,
+        "event_title_id": 5855,
+        "keyword": "아니, 커피를 마실까 하고……",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13134,
+        "event_title_id": 5855,
+        "keyword": "열쇠를 늘어놓아요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13135,
+        "event_title_id": 5855,
+        "keyword": "열쇠를늘어놓아요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13136,
+        "event_title_id": 5856,
+        "keyword": "여기 붕어빵, 맛있지",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13137,
+        "event_title_id": 5856,
+        "keyword": "열쇠로 단단히 잠가 둬요",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13138,
+        "event_title_id": 5856,
+        "keyword": "……너, 줄 서있는 거니?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13139,
+        "event_title_id": 5856,
+        "keyword": "열쇠로단단히잠가둬요",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13140,
+        "event_title_id": 5857,
+        "keyword": "나의 Great!!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13141,
+        "event_title_id": 5858,
+        "keyword": "나의 Greatest!!!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13142,
+        "event_title_id": 5859,
+        "keyword": "나의 GOAT!!!!",
+        "source": "origin",
+        "item_order": 0
     }
 ]
