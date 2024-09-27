@@ -6155,7 +6155,7 @@
     {
         "id": 880,
         "event_title_id": 278,
-        "keyword": "패배를 인정해?",
+        "keyword": "패배를 인정할래?",
         "source": "item",
         "item_order": 2
     },
@@ -33168,7 +33168,7 @@
     {
         "id": 4739,
         "event_title_id": 1617,
-        "keyword": "질 수는 없겠네!",
+        "keyword": "질 수 없겠네!",
         "source": "item",
         "item_order": 1
     },
@@ -86613,14 +86613,14 @@
     {
         "id": 12374,
         "event_title_id": 5678,
-        "keyword": "함께 해주는 것, 좋구나",
+        "keyword": "꽤 사교적이구나",
         "source": "item",
         "item_order": 2
     },
     {
         "id": 12375,
         "event_title_id": 5678,
-        "keyword": "좋은 선배라고 생각해서",
+        "keyword": "좋은 선배구나 싶어서",
         "source": "item",
         "item_order": 1
     },
@@ -91884,14 +91884,14 @@
     {
         "id": 13127,
         "event_title_id": 5854,
-        "keyword": "관심 폭발이로구나……?",
+        "keyword": "화제는 될 것 같은데…?",
         "source": "item",
         "item_order": 1
     },
     {
         "id": 13128,
         "event_title_id": 5854,
-        "keyword": "열정은 전해졌구나, 인가",
+        "keyword": "열정은 전해진 것 같아",
         "source": "item",
         "item_order": 2
     },
@@ -91912,7 +91912,7 @@
     {
         "id": 13131,
         "event_title_id": 5855,
-        "keyword": "구, 궁금합니다……?",
+        "keyword": "구, 궁금하긴 하지…?",
         "source": "item",
         "item_order": 1
     },
@@ -91926,7 +91926,7 @@
     {
         "id": 13133,
         "event_title_id": 5855,
-        "keyword": "아니, 커피를 마실까 하고……",
+        "keyword": "아니, 커피 마실 생각인데…",
         "source": "item",
         "item_order": 2
     },
@@ -91954,16 +91954,16 @@
     {
         "id": 13137,
         "event_title_id": 5856,
-        "keyword": "열쇠로 단단히 잠가 둬요",
-        "source": "origin",
-        "item_order": 0
+        "keyword": "…너도 줄 선 거니?",
+        "source": "item",
+        "item_order": 1
     },
     {
         "id": 13138,
         "event_title_id": 5856,
-        "keyword": "……너, 줄 서있는 거니?",
-        "source": "item",
-        "item_order": 1
+        "keyword": "열쇠로 단단히 잠가 둬요",
+        "source": "origin",
+        "item_order": 0
     },
     {
         "id": 13139,
@@ -91992,5 +91992,110 @@
         "keyword": "나의 GOAT!!!!",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 13143,
+        "event_title_id": 5860,
+        "keyword": "펄의 의식에 흥미가 끌린다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13144,
+        "event_title_id": 5860,
+        "keyword": "하늘까지 닿아라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13145,
+        "event_title_id": 5860,
+        "keyword": "모처럼이니까 후쿠키타루의 주문",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13146,
+        "event_title_id": 5860,
+        "keyword": "하늘까지닿아라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13147,
+        "event_title_id": 5861,
+        "keyword": "쾌청한 마음",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13148,
+        "event_title_id": 5862,
+        "keyword": "개막은 갑작스레",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13149,
+        "event_title_id": 5863,
+        "keyword": "프로 배우 같았어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13150,
+        "event_title_id": 5863,
+        "keyword": "개님 토끼님 그리고 오페라 오",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13151,
+        "event_title_id": 5863,
+        "keyword": "개님, 토끼님, 그리고 오페라 오",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13152,
+        "event_title_id": 5863,
+        "keyword": "아이들의 인기인이 되었군",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13153,
+        "event_title_id": 5863,
+        "keyword": "개님토끼님그리고오페라오",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13154,
+        "event_title_id": 5864,
+        "keyword": "어떤 무대도 달아오르게 하는구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13155,
+        "event_title_id": 5864,
+        "keyword": "빛나는 그림자로",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13156,
+        "event_title_id": 5864,
+        "keyword": "빛나는그림자로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13157,
+        "event_title_id": 5864,
+        "keyword": "이 3명이라서 더 기합이 들어간 걸지도",
+        "source": "item",
+        "item_order": 1
     }
 ]
