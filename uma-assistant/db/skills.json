@@ -8157,6 +8157,19 @@
         ]
     },
     {
+        "skill_id": 1195,
+        "skill_name": "만색찬란☆마블러스★세계",
+        "ingame_description": "레이스 중간 부근에서 중위권 그룹에 있고 가까이에 우마무스메가 있으면 속도가 약간 상승하며, 시야 내에 우마무스메가 4명 이상 있으면 효과가 증가한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 934,
         "skill_name": "넘치는 정열",
         "ingame_description": "레이스 중반이 다가올 때 중위권 그룹 이후에 있으면 속도가 약간 상승한다 ＜작전·선입＞",
@@ -16917,6 +16930,19 @@
         "skill_id": 857,
         "skill_name": "데구루루!? 파워 드라이브",
         "ingame_description": "레이스 후반 코너에서 중위권 그룹이면 남은 지구력에 따른 시간만큼 속도가 다소 상승하며 중거리에서는 가속도도 아주 조금 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 866,
+        "skill_name": "만색찬란☆마블러스★세계",
+        "ingame_description": "레이스 중간 부근에서 중위권 그룹에 있고 가까이에 우마무스메가 있으면 속도가 상승하며, 시야 내에 우마무스메가 4명 이상 있으면 효과가 증가한다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -28193,6 +28219,32 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1092,
+        "skill_name": "후나바시 경기장○",
+        "ingame_description": "후나바시 경기장에 다소 강해진다",
+        "require_pt": 70,
+        "cool_time": 0.0,
+        "skill_type_id": 18,
+        "skill_type_name": "패시브 스태미나 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_stamina_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1093,
+        "skill_name": "모리오카 경기장○",
+        "ingame_description": "모리오카 경기장에 다소 강해진다",
+        "require_pt": 70,
+        "cool_time": 0.0,
+        "skill_type_id": 18,
+        "skill_type_name": "패시브 스태미나 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_stamina_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 64,
         "skill_name": "요도가 점지한 아이",
         "ingame_description": "교토 경기장에 강해져서 스태미나, 지능, 스피드가 상승한다",
@@ -29194,6 +29246,19 @@
             "각질",
             "도주"
         ]
+    },
+    {
+        "skill_id": 1096,
+        "skill_name": "작은 회전○",
+        "ingame_description": "코너가 작은 코스에 다소 강해진다",
+        "require_pt": 70,
+        "cool_time": 0.0,
+        "skill_type_id": 22,
+        "skill_type_name": "패시브 지능 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_intellect_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 1097,
@@ -33494,6 +33559,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 747,
+        "skill_name": "두근두근☆마블러스 존",
+        "ingame_description": "레이스 중반에 후방에 있으면 속도가 많이 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 666,
         "skill_name": "축복의 플라워 걸",
         "ingame_description": "코너에서 속도가 많이 상승하며 추가로 자신을 제외한 팀 멤버의 속도가 약간 상승한다＜마일＞",
@@ -33536,6 +33614,19 @@
         "skill_id": 781,
         "skill_name": "투혼입도!",
         "ingame_description": "레이스 종반에 돌입할 때까지 흥분하지 않았으면 종반이 시작될 때 한동안 가속력이 상승한다＜추입·중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 770,
+        "skill_name": "추진! 세계 마블러스 계획☆",
+        "ingame_description": "라스트 스퍼트에서 앞이 가로막혔을 때 대처가 능숙해지고 추가로 결승점까지 멀면 약간 앞으로 나간다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 65,
