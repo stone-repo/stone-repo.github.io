@@ -6155,7 +6155,7 @@
     {
         "id": 880,
         "event_title_id": 278,
-        "keyword": "패배를 인정할래?",
+        "keyword": "패배를 인정해?",
         "source": "item",
         "item_order": 2
     },
@@ -27925,7 +27925,7 @@
     {
         "id": 3990,
         "event_title_id": 1346,
-        "keyword": "생활관으로 돌아가지 않으면 안돼",
+        "keyword": "기숙사로 돌아가지 않으면 안돼",
         "source": "item",
         "item_order": 1
     },
@@ -92097,5 +92097,719 @@
         "keyword": "이 3명이라서 더 기합이 들어간 걸지도",
         "source": "item",
         "item_order": 1
+    },
+    {
+        "id": 13158,
+        "event_title_id": 5865,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13159,
+        "event_title_id": 5865,
+        "keyword": "붓에 혼을 담아, 새해 포부를 신춘 휘호로!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13160,
+        "event_title_id": 5865,
+        "keyword": "새해 국룰, 그 게임이지!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13161,
+        "event_title_id": 5865,
+        "keyword": "떡을 찧으며 몸도 마음도 채우는 건 어때?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13162,
+        "event_title_id": 5865,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13163,
+        "event_title_id": 5866,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13164,
+        "event_title_id": 5866,
+        "keyword": "깜짝 놀랄 정도로 맛있는 음식을 먹는다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13165,
+        "event_title_id": 5866,
+        "keyword": "다른 스포츠를 보고 투혼 주입",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13166,
+        "event_title_id": 5866,
+        "keyword": "놀라운 놀이를 한다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13167,
+        "event_title_id": 5866,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13168,
+        "event_title_id": 5867,
+        "keyword": "맨몸 잠수로 체력을 기르자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13169,
+        "event_title_id": 5867,
+        "keyword": "산으로 러닝하러 갈까!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13170,
+        "event_title_id": 5867,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13171,
+        "event_title_id": 5867,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13172,
+        "event_title_id": 5867,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13173,
+        "event_title_id": 5867,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13174,
+        "event_title_id": 5868,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13175,
+        "event_title_id": 5868,
+        "keyword": "댄스 레슨 (마블러스 선데이)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13176,
+        "event_title_id": 5868,
+        "keyword": "스텝에 집중해 보는 건 어떨까!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13177,
+        "event_title_id": 5868,
+        "keyword": "차밍한 동작이라던가?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13178,
+        "event_title_id": 5868,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13179,
+        "event_title_id": 5869,
+        "keyword": "그 지혜, 나도 갖고 싶다…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13180,
+        "event_title_id": 5869,
+        "keyword": "하늘이 알고 땅이 알고 마블러스가 안다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13181,
+        "event_title_id": 5869,
+        "keyword": "하늘이 알고 땅이 알고, 마블러스가 안다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13182,
+        "event_title_id": 5869,
+        "keyword": "힘들었지, 수고 많았어!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13183,
+        "event_title_id": 5869,
+        "keyword": "하늘이알고땅이알고마블러스가안다",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13184,
+        "event_title_id": 5870,
+        "keyword": "오래 쓸 수 있는 게 좋겠는데",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13185,
+        "event_title_id": 5870,
+        "keyword": "빨간 리본으로 파워를 받고 싶어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13186,
+        "event_title_id": 5870,
+        "keyword": "RedMemory",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13187,
+        "event_title_id": 5870,
+        "keyword": "Red Memory",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13188,
+        "event_title_id": 5871,
+        "keyword": "더 빠르게 춤춰 보는 게 어떨까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13189,
+        "event_title_id": 5871,
+        "keyword": "도울 수 있는 일이 있으면 협력할게!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13190,
+        "event_title_id": 5871,
+        "keyword": "각양각 마블러스",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13191,
+        "event_title_id": 5871,
+        "keyword": "각양각마블러스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13192,
+        "event_title_id": 5872,
+        "keyword": "네 일기에 특별한 힘이 있는 거니!?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13193,
+        "event_title_id": 5872,
+        "keyword": "혹시 미래가 보이는 건가…?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13194,
+        "event_title_id": 5872,
+        "keyword": "마블러스 미래 일기 Intro",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13195,
+        "event_title_id": 5872,
+        "keyword": "마블러스미래일기Intro",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13196,
+        "event_title_id": 5873,
+        "keyword": "말로 설명하긴 어려워…",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13197,
+        "event_title_id": 5873,
+        "keyword": "마블러스는 무한한 거야!!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13198,
+        "event_title_id": 5873,
+        "keyword": "마블러스 미래 일기 Abstract",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13199,
+        "event_title_id": 5873,
+        "keyword": "마블러스미래일기Abstract",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13200,
+        "event_title_id": 5874,
+        "keyword": "또 어떤 마블러스가 기다리고 있을까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13201,
+        "event_title_id": 5874,
+        "keyword": "둘이 함께라면 마블러스도 두 배!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13202,
+        "event_title_id": 5874,
+        "keyword": "마블러스를 더욱 갈고 닦고 싶다…!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13203,
+        "event_title_id": 5874,
+        "keyword": "마블러스 미래 일기 Outro",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13204,
+        "event_title_id": 5874,
+        "keyword": "마블러스미래일기Outro",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13205,
+        "event_title_id": 5875,
+        "keyword": "레츠 탐구 마블러스한 맛",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13206,
+        "event_title_id": 5875,
+        "keyword": "레츠 탐구, 마블러스한 맛☆★",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13207,
+        "event_title_id": 5875,
+        "keyword": "이미 마블러스해졌어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13208,
+        "event_title_id": 5875,
+        "keyword": "연구만 잘 하면 맛있어 질 거야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13209,
+        "event_title_id": 5875,
+        "keyword": "레츠탐구마블러스한맛",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13210,
+        "event_title_id": 5876,
+        "keyword": "마블러스 대장",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13211,
+        "event_title_id": 5876,
+        "keyword": "마블러스 대장?!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13212,
+        "event_title_id": 5876,
+        "keyword": "마블러스한 서바이벌이었어",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13213,
+        "event_title_id": 5876,
+        "keyword": "힘들었지만, 재밌었어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13214,
+        "event_title_id": 5876,
+        "keyword": "마블러스대장",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13215,
+        "event_title_id": 5877,
+        "keyword": "전부 감사히 먹어야겠네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13216,
+        "event_title_id": 5877,
+        "keyword": "혼자 먹기에는 양이 좀 많은데",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13217,
+        "event_title_id": 5877,
+        "keyword": "감사의 간식 마블러스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13218,
+        "event_title_id": 5877,
+        "keyword": "감사의 간식, 마블러스☆",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13219,
+        "event_title_id": 5877,
+        "keyword": "감사의간식마블러스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13220,
+        "event_title_id": 5878,
+        "keyword": "응, 나도 최선을 다해 도울 테니까",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13221,
+        "event_title_id": 5878,
+        "keyword": "세상도 사람도, 마블러스로 가득해!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13222,
+        "event_title_id": 5878,
+        "keyword": "마블러스 블루밍",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13223,
+        "event_title_id": 5878,
+        "keyword": "마블러스블루밍",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13224,
+        "event_title_id": 5878,
+        "keyword": "마블러스☆블루밍",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13225,
+        "event_title_id": 5879,
+        "keyword": "트, 특이한 놀이네…?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13226,
+        "event_title_id": 5879,
+        "keyword": "마블러~스☆★☆",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13227,
+        "event_title_id": 5879,
+        "keyword": "마블러스의 재료는",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13228,
+        "event_title_id": 5879,
+        "keyword": "마블러스의 재료는…",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13229,
+        "event_title_id": 5879,
+        "keyword": "마블러스의재료는",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13230,
+        "event_title_id": 5880,
+        "keyword": "이거 봐 이거 봐 마블러스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13231,
+        "event_title_id": 5880,
+        "keyword": "이거 봐 이거 봐, 마블러스☆★",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13232,
+        "event_title_id": 5880,
+        "keyword": "그럼 나도 공유해 줘야겠네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13233,
+        "event_title_id": 5880,
+        "keyword": "오늘의 마블러스, 더 들려 줬으면 좋겠어!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13234,
+        "event_title_id": 5880,
+        "keyword": "이거봐이거봐마블러스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13235,
+        "event_title_id": 5881,
+        "keyword": "개운 당신도 해피",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13236,
+        "event_title_id": 5881,
+        "keyword": "업무 속도를 올리고 싶다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13237,
+        "event_title_id": 5881,
+        "keyword": "활력이 필요하다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13238,
+        "event_title_id": 5881,
+        "keyword": "개운당신도 해피",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13239,
+        "event_title_id": 5881,
+        "keyword": "개운☆당신도 해피",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13240,
+        "event_title_id": 5881,
+        "keyword": "개운당신도해피",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13241,
+        "event_title_id": 5882,
+        "keyword": "길조 다 같이 스마일",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13242,
+        "event_title_id": 5882,
+        "keyword": "체력 승부!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13243,
+        "event_title_id": 5882,
+        "keyword": "밝고 힘차게!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13244,
+        "event_title_id": 5882,
+        "keyword": "길조다 같이 스마일",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13245,
+        "event_title_id": 5882,
+        "keyword": "길조☆다 같이 스마일",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13246,
+        "event_title_id": 5882,
+        "keyword": "길조다같이스마일",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13247,
+        "event_title_id": 5883,
+        "keyword": "너의 행복은 누군가가 어딘가에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13248,
+        "event_title_id": 5883,
+        "keyword": "너의 행복은 누군가가, 어딘가에서…",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13249,
+        "event_title_id": 5883,
+        "keyword": "…빠지면 어떻게 돼?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13250,
+        "event_title_id": 5883,
+        "keyword": "너의행복은누군가가어딘가에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13251,
+        "event_title_id": 5883,
+        "keyword": "손수건을 50색이나!?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13252,
+        "event_title_id": 5884,
+        "keyword": "트레센 학원 멸망!?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13253,
+        "event_title_id": 5885,
+        "keyword": "어른스러운☆집 데이트",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13254,
+        "event_title_id": 5886,
+        "keyword": "신나게 노는 플랜이 좋아!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13255,
+        "event_title_id": 5886,
+        "keyword": "느긋한 관광 플랜이려나?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13256,
+        "event_title_id": 5886,
+        "keyword": "두근두근 데이트 플래닝",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13257,
+        "event_title_id": 5886,
+        "keyword": "두근두근! 데이트 플래닝",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13258,
+        "event_title_id": 5886,
+        "keyword": "두근두근데이트플래닝",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13259,
+        "event_title_id": 5887,
+        "keyword": "최고의 데이트를 만드는 법",
+        "source": "origin",
+        "item_order": 0
     }
 ]
