@@ -6909,6 +6909,53 @@
         ]
     },
     {
+        "skill_id": 957,
+        "skill_name": "텐션 상승",
+        "ingame_description": "레이스 중반에 속도가 약간 상승하고 추가로 지구력을 아주 조금 회복한다 ＜장거리＞",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 724,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.005
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "장거리",
+            "코스거리"
+        ]
+    },
+    {
         "skill_id": 960,
         "skill_name": "중압감",
         "ingame_description": "최종 코너에서 중위권 그룹 이후라면 앞뒤로 3명씩 속도를 아주 약간 떨어트리고 자신의 속도가 약간 상승한다＜작전·선입＞",
@@ -8224,6 +8271,32 @@
         "skill_id": 1194,
         "skill_name": "Flowering Dreams",
         "ingame_description": "남은 거리가 200m일 때 2등~중위권 그룹이 라면 속도가 약간 상승하고, 근처에 우마무스메가 3명 이상 있으면 아주 약간 앞으로 나간다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1196,
+        "skill_name": "오의・늘 여름 버닝!!",
+        "ingame_description": "남은 거리가 200m일 때 전방에 있으면 속도가 아주 조금 상승하며, 단거리 레이스에서 종반에 추월했을 경우에는 다소 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1197,
+        "skill_name": "GALmem.포에버♪",
+        "ingame_description": "레이스 중간 부근에서 중위권 그룹에 있으면 속도가 계속해서 아주 조금 상승하며 컨디션이 최상이라면 효과가 증가한다",
         "require_pt": 200,
         "cool_time": 0.0,
         "skill_type_id": 1,
@@ -10841,6 +10914,53 @@
         "grade": "R",
         "skill_situations": null,
         "skill_condition_tags": []
+    },
+    {
+        "skill_id": 913,
+        "skill_name": "띄워☆보자↑텐션",
+        "ingame_description": "레이스 중반에 속도가 상승하고 추가로 지구력을 다소 회복한다 ＜장거리＞",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 723,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    },
+                    {
+                        "skill_effect_id": 4,
+                        "effect_name": "지구력",
+                        "numeric_value": 0.035
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 334,
+                        "description": "장거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "장거리",
+            "코스거리"
+        ]
     },
     {
         "skill_id": 916,
@@ -16282,6 +16402,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 824,
+        "skill_name": "GALmem.포에버♪",
+        "ingame_description": "레이스 중간 부근에서 중위권 그룹에 있으면 속도가 계속해서 다소 상승하며 컨디션이 최상이라면 효과가 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 825,
         "skill_name": "Hephaistos",
         "ingame_description": "레이스 종반 최종 직선이 다가올 때 높은 경 지를 향해 중위권 그룹에서 속도가 상승한다",
@@ -16414,6 +16547,19 @@
         "skill_id": 845,
         "skill_name": "당신에게 바치는 프리 푸어링",
         "ingame_description": "종반 직전 내리막에서 2위 이후 선두 4마신 이내라면 잠시 동안 속도가 상승하며 중거리에서는 가속력도 아주 조금 상승한다.",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 848,
+        "skill_name": "오의・늘 여름 버닝!!",
+        "ingame_description": "남은 거리가 200m일 때 전방에 있으면 속도가 다소 상승하며, 단거리 레이스에서 종반에 추월했을 경우에는 많이 상승한다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -19087,6 +19233,57 @@
         ]
     },
     {
+        "skill_id": 976,
+        "skill_name": "들뜬 마음",
+        "ingame_description": "레이스 종반이 시작될 때 전방에 있으면 가속력이 약간 상승한다＜마일＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 722,
+                "duration": "1.8",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 325,
+                        "description": "순위 비율 50% 이하",
+                        "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 332,
+                        "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "마일",
+            "순위",
+            "전방순위",
+            "중간순위",
+            "코스거리"
+        ]
+    },
+    {
         "skill_id": 978,
         "skill_name": "진가 발휘",
         "ingame_description": "레이스 종반 직전에 선두이거나 선두로부터 4마신 이내로 붙으면, 레이스 종반에 가속력이 약간 상승한다＜선행・장거리＞",
@@ -20035,6 +20232,57 @@
             "순위",
             "전방순위",
             "중간순위"
+        ]
+    },
+    {
+        "skill_id": 923,
+        "skill_name": "하이 볼티지",
+        "ingame_description": "레이스 종반이 시작될 때 전방에 있으면 가속력이 상승한다＜마일＞",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 721,
+                "duration": "1.8",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 325,
+                        "description": "순위 비율 50% 이하",
+                        "extra_description": "챔피언스 미팅 : 1~5위 | 팀 레이스 : 1~6위 | 풀 게이트 : 1~9위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 332,
+                        "description": "마일",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 425,
+                        "description": "레이스 종반의 전반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "마일",
+            "순위",
+            "전방순위",
+            "중간순위",
+            "코스거리"
         ]
     },
     {
@@ -26992,6 +27240,46 @@
         ]
     },
     {
+        "skill_id": 1077,
+        "skill_name": "상쾌한 여름 바람",
+        "ingame_description": "여름철 레이스에 강해져서 스피드와 파워가 상승한다",
+        "require_pt": 130,
+        "cool_time": 0.0,
+        "skill_type_id": 17,
+        "skill_type_name": "패시브 스피드 증가 (레어)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 720,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 60
+                    },
+                    {
+                        "skill_effect_id": 9,
+                        "effect_name": "파워 보정",
+                        "numeric_value": 60
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 201,
+                        "description": "여름에 개최되는 레이스",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "계절"
+        ]
+    },
+    {
         "skill_id": 1079,
         "skill_name": "승부사",
         "ingame_description": "레이스에서 가끔 더욱 힘을 발휘해서 스피드, 파워, 근성이 많이 상승한다. 인기가 낮으면 힘을 발휘하기 쉬워진다",
@@ -33585,6 +33873,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 606,
+        "skill_name": "내가 최고임!",
+        "ingame_description": "최종 코너에서 중위권 그룹이라면 속도가 상승하며 도쿄 경기장의 중거리 레이스라면 추가로 가속력이 약간 상승한다＜작전·선입＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 777,
         "skill_name": "언제나 가장 빛나는 반짝임을",
         "ingame_description": "레이스 종반에 후방에서 추월하려고 하면 가속력이 상승하며, 추가로 눈앞의 우마무스메를 약간 위축시킨다＜단거리/마일＞",
@@ -33640,6 +33941,45 @@
         "skill_id": 776,
         "skill_name": "대역전극",
         "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 한동안 가속력이 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 782,
+        "skill_name": "열혈 진화 라이딩!",
+        "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 가속력이 상승하며 그 후 남은 거리가 200m일 때 속도가 약간 상승한다＜작전·선입＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 802,
+        "skill_name": "무한 찬스!",
+        "ingame_description": "최종 코너에서 중위권 그룹 이후에 있으면 가속력이 상승하며, 도쿄 경기장이라면 추가로 속도가 다소 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 789,
+        "skill_name": "필살! 폭속 스프린트!",
+        "ingame_description": "레이스 종반에 가속력이 상승하며 그 후 남은 거리가 200m일 때 속도가 약간 상승한다＜단거리＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 65,
