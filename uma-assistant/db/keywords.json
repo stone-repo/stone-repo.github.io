@@ -92811,5 +92811,208 @@
         "keyword": "최고의 데이트를 만드는 법",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 13260,
+        "event_title_id": 5888,
+        "keyword": "매일 단련 ~유행 편~",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13261,
+        "event_title_id": 5888,
+        "keyword": "매일 단련 유행 편",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13262,
+        "event_title_id": 5888,
+        "keyword": "유행은 빠르다고~?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13263,
+        "event_title_id": 5888,
+        "keyword": "유행을 앞서가지 않도록 조심해",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13264,
+        "event_title_id": 5888,
+        "keyword": "매일단련유행편",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13265,
+        "event_title_id": 5889,
+        "keyword": "무슨 일 있었어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13266,
+        "event_title_id": 5889,
+        "keyword": "커다란 등",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13267,
+        "event_title_id": 5889,
+        "keyword": "자신이 있는 게 아닐까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13268,
+        "event_title_id": 5889,
+        "keyword": "커다란등",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13269,
+        "event_title_id": 5890,
+        "keyword": "태양, 뒤에서 볼래?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13270,
+        "event_title_id": 5891,
+        "keyword": "멘붕할 것 같을 땐 게릴라 여행☆",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13271,
+        "event_title_id": 5892,
+        "keyword": "가즈아☆얏짱 라이브!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13272,
+        "event_title_id": 5893,
+        "keyword": "마음 편히, 침착하게",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13273,
+        "event_title_id": 5894,
+        "keyword": "뭘 도와줄까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13274,
+        "event_title_id": 5894,
+        "keyword": "이제 뭘 할 거야?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13275,
+        "event_title_id": 5894,
+        "keyword": "적당히 가성비 좋게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13276,
+        "event_title_id": 5894,
+        "keyword": "적당히, 가성비 좋게",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13277,
+        "event_title_id": 5894,
+        "keyword": "적당히가성비좋게",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13278,
+        "event_title_id": 5895,
+        "keyword": "최고로, 텐션 올려서!!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13279,
+        "event_title_id": 5896,
+        "keyword": "폭풍 재조정",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13280,
+        "event_title_id": 5897,
+        "keyword": "어쩔 수 없는 걸까",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13281,
+        "event_title_id": 5897,
+        "keyword": "어쩔 수 없는… 걸까",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13282,
+        "event_title_id": 5897,
+        "keyword": "조던은 이해할 거야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13283,
+        "event_title_id": 5897,
+        "keyword": "나름의 성의를 보이면 어때?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13284,
+        "event_title_id": 5897,
+        "keyword": "어쩔수없는걸까",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13285,
+        "event_title_id": 5898,
+        "keyword": "해야 할 말은",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13286,
+        "event_title_id": 5898,
+        "keyword": "우정이 더 깊어지면 좋겠네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13287,
+        "event_title_id": 5898,
+        "keyword": "우정에도 다양한 형태가 있을 테니까",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13288,
+        "event_title_id": 5898,
+        "keyword": "해야할말은",
+        "source": "title",
+        "item_order": 0
     }
 ]
