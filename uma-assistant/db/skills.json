@@ -5900,6 +5900,19 @@
         ]
     },
     {
+        "skill_id": 1198,
+        "skill_name": "새벽의 깃발 『카츠라기 에이스』!",
+        "ingame_description": "제3 코너에서 선두라면 속도가 아주 조금 상승하고 지구력을 아주 조금 회복하며, 도쿄의 중거리 레이스라면 효과 시간이 증가한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 178,
         "skill_name": "외곽 추월 준비",
         "ingame_description": "최종 코너 바깥쪽에서 추월하면 속도가 약간 상승한다＜작전・선입＞",
@@ -15105,6 +15118,19 @@
         "skill_id": 818,
         "skill_name": "Bang☆전 미라클!",
         "ingame_description": "최종 코너 후반에 중위권 그룹에 있으면 속도가 계속해서 다소 상승하며, 장거리 레이스에서 인기가 낮을 경우 계속해서 많이 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 841,
+        "skill_name": "새벽의 깃발 『카츠라기 에이스』!",
+        "ingame_description": "제3 코너에서 선두라면 속도가 다소 상승하고 지구력을 다소 회복하며, 도쿄의 중거리 레이스라면 효과 시간이 증가한다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -33717,6 +33743,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 699,
+        "skill_name": "나홀로 도주 여행",
+        "ingame_description": "중반에 크게 거리를 벌린 선두였고 최종 직선에서도 선두라면 속도가 많이 상승하며, 도쿄 중거리 레이스에서 효과가 증가한다＜작전·도주＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 714,
         "skill_name": "한 송이를 피워내요!",
         "ingame_description": "레이스 종반이 시작될 때 여력이 충분하면 앞으로 많이 나간다＜선입·장거리＞",
@@ -33915,6 +33954,19 @@
         "skill_id": 781,
         "skill_name": "투혼입도!",
         "ingame_description": "레이스 종반에 돌입할 때까지 흥분하지 않았으면 종반이 시작될 때 한동안 가속력이 상승한다＜추입·중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 767,
+        "skill_name": "해냈다!",
+        "ingame_description": "스타트 시에 가속력이 많이 상승한다 ＜작전·도주＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 65,
