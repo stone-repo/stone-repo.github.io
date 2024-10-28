@@ -93014,5 +93014,551 @@
         "keyword": "해야할말은",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 13289,
+        "event_title_id": 5899,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13290,
+        "event_title_id": 5899,
+        "keyword": "기운 충전 폭식",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13291,
+        "event_title_id": 5899,
+        "keyword": "새해 특별 트레이닝",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13292,
+        "event_title_id": 5899,
+        "keyword": "목표를 큼직하게 신춘 휘호",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13293,
+        "event_title_id": 5899,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13294,
+        "event_title_id": 5900,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13295,
+        "event_title_id": 5900,
+        "keyword": "에이스의 운이 트이길",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13296,
+        "event_title_id": 5900,
+        "keyword": "에이스가 건강하길",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13297,
+        "event_title_id": 5900,
+        "keyword": "에이스가 성장하길",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13298,
+        "event_title_id": 5900,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13299,
+        "event_title_id": 5901,
+        "keyword": "지옥 근력 운동",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13300,
+        "event_title_id": 5901,
+        "keyword": "백사장 엔드리스 런",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13301,
+        "event_title_id": 5901,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13302,
+        "event_title_id": 5901,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13303,
+        "event_title_id": 5901,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13304,
+        "event_title_id": 5901,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13305,
+        "event_title_id": 5902,
+        "keyword": "푹 쉬고 나서 해",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13306,
+        "event_title_id": 5902,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13307,
+        "event_title_id": 5902,
+        "keyword": "댄스 레슨 (카츠라기 에이스)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13308,
+        "event_title_id": 5902,
+        "keyword": "그럼 나도 도와줄게!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13309,
+        "event_title_id": 5902,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13310,
+        "event_title_id": 5903,
+        "keyword": "러닝 데드",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13311,
+        "event_title_id": 5903,
+        "keyword": "러닝 데드!!!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13312,
+        "event_title_id": 5903,
+        "keyword": "온몸에 힘을 준다?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13313,
+        "event_title_id": 5903,
+        "keyword": "오로지 근성!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13314,
+        "event_title_id": 5903,
+        "keyword": "러닝데드",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13315,
+        "event_title_id": 5904,
+        "keyword": "센터에 서려면 스태미나가 필요하겠네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13316,
+        "event_title_id": 5904,
+        "keyword": "여러모로 많이 배웠네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13317,
+        "event_title_id": 5904,
+        "keyword": "A",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13318,
+        "event_title_id": 5904,
+        "keyword": "＋A",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13319,
+        "event_title_id": 5905,
+        "keyword": "안전 운전 의식이 부족했어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13320,
+        "event_title_id": 5905,
+        "keyword": "투쟁심을 억누르지 않으면 위험해",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13321,
+        "event_title_id": 5905,
+        "keyword": "아슬아슬한 에이스 드라이버",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13322,
+        "event_title_id": 5905,
+        "keyword": "아슬아슬한에이스드라이버",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13323,
+        "event_title_id": 5906,
+        "keyword": "너무 깊이 생각하지 않는 게 좋을지도",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13324,
+        "event_title_id": 5906,
+        "keyword": "다른 공포를 더 체험해 보자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13325,
+        "event_title_id": 5906,
+        "keyword": "공포를 향한 여정",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13326,
+        "event_title_id": 5906,
+        "keyword": "공포를향한여정",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13327,
+        "event_title_id": 5907,
+        "keyword": "응. 하지만, 무모한 짓은 하지 마",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13328,
+        "event_title_id": 5907,
+        "keyword": "너는 겁이 없으니까 강해질 수 있는 거야!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13329,
+        "event_title_id": 5907,
+        "keyword": "무서운 걸 모르더라도",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13330,
+        "event_title_id": 5907,
+        "keyword": "무서운걸모르더라도",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13331,
+        "event_title_id": 5908,
+        "keyword": "긴 여정이 될 것 같네!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13332,
+        "event_title_id": 5908,
+        "keyword": "공포를 느껴 보니 어땠어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13333,
+        "event_title_id": 5908,
+        "keyword": "공포의 너머로",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13334,
+        "event_title_id": 5908,
+        "keyword": "지적하면 잘 들어 줄 거야?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13335,
+        "event_title_id": 5908,
+        "keyword": "공포의너머로",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13336,
+        "event_title_id": 5909,
+        "keyword": "인싸 체험 히어 위 고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13337,
+        "event_title_id": 5909,
+        "keyword": "인싸 체험 히어 위 고!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13338,
+        "event_title_id": 5909,
+        "keyword": "좋아! 같이 춤추자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13339,
+        "event_title_id": 5909,
+        "keyword": "그럼… 노래 부를까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13340,
+        "event_title_id": 5909,
+        "keyword": "인싸체험히어위고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13341,
+        "event_title_id": 5910,
+        "keyword": "역시 에이스는 에이스야",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13342,
+        "event_title_id": 5910,
+        "keyword": "모처럼 왔으니 더 즐겨 보자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13343,
+        "event_title_id": 5910,
+        "keyword": "에이스의 배 여행",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13344,
+        "event_title_id": 5910,
+        "keyword": "에이스의배여행",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13345,
+        "event_title_id": 5911,
+        "keyword": "개최 먹어 치우기 축제",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13346,
+        "event_title_id": 5911,
+        "keyword": "고향 홍보를 위해 나눠 먹는 건 어때?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13347,
+        "event_title_id": 5911,
+        "keyword": "개최! 먹어 치우기 축제!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13348,
+        "event_title_id": 5911,
+        "keyword": "즐기자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13349,
+        "event_title_id": 5911,
+        "keyword": "개최먹어치우기축제",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13350,
+        "event_title_id": 5912,
+        "keyword": "모두 함께 벽을 부수자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13351,
+        "event_title_id": 5912,
+        "keyword": "에이스는 이미 이 애들의 『에이스』구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13352,
+        "event_title_id": 5912,
+        "keyword": "카츠라기 에이스",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13353,
+        "event_title_id": 5912,
+        "keyword": "카츠라기에이스",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13354,
+        "event_title_id": 5913,
+        "keyword": "모두의 마음속에 있다…?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13355,
+        "event_title_id": 5913,
+        "keyword": "에이스와 유쾌한 반 친구들",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13356,
+        "event_title_id": 5913,
+        "keyword": "『개성』….?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13357,
+        "event_title_id": 5913,
+        "keyword": "에이스와유쾌한반친구들",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13358,
+        "event_title_id": 5914,
+        "keyword": "갑자기 그러면 놀란다고…!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13359,
+        "event_title_id": 5914,
+        "keyword": "이러니까 단결된 것 같아!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13360,
+        "event_title_id": 5914,
+        "keyword": "안녕하십니까 트레이너님",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13361,
+        "event_title_id": 5914,
+        "keyword": "안녕하십니까, 트레이너님!",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13362,
+        "event_title_id": 5914,
+        "keyword": "안녕하십니까트레이너님",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13363,
+        "event_title_id": 5915,
+        "keyword": "해가 지기 전에 빨리 잡자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13364,
+        "event_title_id": 5915,
+        "keyword": "갸루 손이라도 빌리고 싶어",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13365,
+        "event_title_id": 5915,
+        "keyword": "놓치지 않도록 꼼꼼하게 하자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13366,
+        "event_title_id": 5915,
+        "keyword": "갸루손이라도빌리고싶어",
+        "source": "title",
+        "item_order": 0
     }
 ]
