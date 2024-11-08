@@ -93560,5 +93560,719 @@
         "keyword": "갸루손이라도빌리고싶어",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 13367,
+        "event_title_id": 5916,
+        "keyword": "당구",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13368,
+        "event_title_id": 5916,
+        "keyword": "휴식",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13369,
+        "event_title_id": 5916,
+        "keyword": "신년 포부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13370,
+        "event_title_id": 5916,
+        "keyword": "리프트 트레이닝",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13371,
+        "event_title_id": 5916,
+        "keyword": "신년포부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13372,
+        "event_title_id": 5917,
+        "keyword": "새해 첫 참배",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13373,
+        "event_title_id": 5917,
+        "keyword": "『특별 트레이닝』",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13374,
+        "event_title_id": 5917,
+        "keyword": "『자료를 찾는다』",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13375,
+        "event_title_id": 5917,
+        "keyword": "새해첫참배",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13376,
+        "event_title_id": 5917,
+        "keyword": "『선생님과 부모님께 새해 인사』",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13377,
+        "event_title_id": 5918,
+        "keyword": "산길 대시를 하자",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13378,
+        "event_title_id": 5918,
+        "keyword": "트레일 러닝으로 산을 한 바퀴 돌자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13379,
+        "event_title_id": 5918,
+        "keyword": "여름 합숙 2년 차 에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13380,
+        "event_title_id": 5918,
+        "keyword": "여름 합숙(2년 차)에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13381,
+        "event_title_id": 5918,
+        "keyword": "여름 합숙2년 차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13382,
+        "event_title_id": 5918,
+        "keyword": "여름합숙2년차에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13383,
+        "event_title_id": 5919,
+        "keyword": "댄스 레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13384,
+        "event_title_id": 5919,
+        "keyword": "댄스 레슨 (시리우스 심볼리)",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13385,
+        "event_title_id": 5919,
+        "keyword": "활기찬 전문가!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13386,
+        "event_title_id": 5919,
+        "keyword": "댄스레슨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13387,
+        "event_title_id": 5919,
+        "keyword": "트렌드에 박식한 전문가",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13388,
+        "event_title_id": 5920,
+        "keyword": "강한 신념이 있구나",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13389,
+        "event_title_id": 5920,
+        "keyword": "그만큼 서로 신뢰하는구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13390,
+        "event_title_id": 5920,
+        "keyword": "무법자의 방식",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13391,
+        "event_title_id": 5920,
+        "keyword": "무법자의방식",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13392,
+        "event_title_id": 5921,
+        "keyword": "길 안내라면 나도 도울게!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13393,
+        "event_title_id": 5921,
+        "keyword": "학원까지 잘 데려다 줘",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13394,
+        "event_title_id": 5921,
+        "keyword": "이거라도 먹어",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13395,
+        "event_title_id": 5921,
+        "keyword": "이거라도먹어",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13396,
+        "event_title_id": 5922,
+        "keyword": "성적이 좋구나 싶었어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13397,
+        "event_title_id": 5922,
+        "keyword": "훔쳐볼 생각은 없었어…!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13398,
+        "event_title_id": 5922,
+        "keyword": "학업도 우마무스메의 본분",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13399,
+        "event_title_id": 5922,
+        "keyword": "학업도우마무스메의본분",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13400,
+        "event_title_id": 5923,
+        "keyword": "그렇게 자신감이 없어 보여?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13401,
+        "event_title_id": 5923,
+        "keyword": "그나저나 꽤 능숙하던데",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13402,
+        "event_title_id": 5923,
+        "keyword": "약육강식은 흔한 일",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13403,
+        "event_title_id": 5923,
+        "keyword": "약육강식은흔한일",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13404,
+        "event_title_id": 5924,
+        "keyword": "또 어울릴 만한 걸 가르쳐 줘",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13405,
+        "event_title_id": 5924,
+        "keyword": "그 구두를 사서 돌아가자…!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13406,
+        "event_title_id": 5924,
+        "keyword": "호랑이의 위세를 빌려라",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13407,
+        "event_title_id": 5924,
+        "keyword": "호랑이의위세를빌려라",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13408,
+        "event_title_id": 5925,
+        "keyword": "네가 가르쳐 준 덕분이야",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13409,
+        "event_title_id": 5925,
+        "keyword": "도저히 참을 수 없었어",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13410,
+        "event_title_id": 5925,
+        "keyword": "앞으로는 더 열심히 도와 줄게!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13411,
+        "event_title_id": 5925,
+        "keyword": "쥐새끼는 내게 맡겨",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13412,
+        "event_title_id": 5925,
+        "keyword": "쥐새끼는내게맡겨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13413,
+        "event_title_id": 5926,
+        "keyword": "역시 시리우스는 대단해!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13414,
+        "event_title_id": 5926,
+        "keyword": "…더는 못 참겠어, 아하핫!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13415,
+        "event_title_id": 5926,
+        "keyword": "내기의 대가는 꿈꾸기",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13416,
+        "event_title_id": 5926,
+        "keyword": "내기의대가는꿈꾸기",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13417,
+        "event_title_id": 5927,
+        "keyword": "넌 무슨 케이크를 좋아해?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13418,
+        "event_title_id": 5927,
+        "keyword": "또 가자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13419,
+        "event_title_id": 5927,
+        "keyword": "언젠가는 항상 주문하는 걸로 라고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13420,
+        "event_title_id": 5927,
+        "keyword": "언젠가는 항상 주문하는 걸로라고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13421,
+        "event_title_id": 5927,
+        "keyword": "언젠가는 『항상 주문하는 걸로』라고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13422,
+        "event_title_id": 5927,
+        "keyword": "언젠가는항상주문하는걸로라고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13423,
+        "event_title_id": 5928,
+        "keyword": "내가 혼자서 먹을게!!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13424,
+        "event_title_id": 5928,
+        "keyword": "힘내…!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13425,
+        "event_title_id": 5928,
+        "keyword": "일등성의 방식",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13426,
+        "event_title_id": 5928,
+        "keyword": "일등성의방식",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13427,
+        "event_title_id": 5929,
+        "keyword": "…한 가지, 요청이 있습니다!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13428,
+        "event_title_id": 5929,
+        "keyword": "오더 메이드의 진수",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13429,
+        "event_title_id": 5929,
+        "keyword": "제대로 소화할 수 있도록 노력하자!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13430,
+        "event_title_id": 5929,
+        "keyword": "오더메이드의진수",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13431,
+        "event_title_id": 5930,
+        "keyword": "둘의 공통점은",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13432,
+        "event_title_id": 5930,
+        "keyword": "멋진 우정이네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13433,
+        "event_title_id": 5930,
+        "keyword": "멋진 콤비구나",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13434,
+        "event_title_id": 5930,
+        "keyword": "둘의 공통점은?",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13435,
+        "event_title_id": 5930,
+        "keyword": "둘의공통점은",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13436,
+        "event_title_id": 5931,
+        "keyword": "다른 것도 배웠어?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13437,
+        "event_title_id": 5931,
+        "keyword": "엄청 멋있었어…!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13438,
+        "event_title_id": 5931,
+        "keyword": "그녀는 야성적인 아가씨",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13439,
+        "event_title_id": 5931,
+        "keyword": "그녀는야성적인아가씨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13440,
+        "event_title_id": 5932,
+        "keyword": "둘 다 뛰어나지!!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13441,
+        "event_title_id": 5932,
+        "keyword": "운동 신경이 좋지!",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13442,
+        "event_title_id": 5932,
+        "keyword": "머리가 좋지!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13443,
+        "event_title_id": 5932,
+        "keyword": "시리우스 선배가 대단한 이유",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13444,
+        "event_title_id": 5932,
+        "keyword": "시리우스선배가대단한이유",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13445,
+        "event_title_id": 5933,
+        "keyword": "힘이 났어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13446,
+        "event_title_id": 5933,
+        "keyword": "사과 먹으렴",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13447,
+        "event_title_id": 5933,
+        "keyword": "사과, 먹으렴",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13448,
+        "event_title_id": 5933,
+        "keyword": "체력이 회복된 것 같아!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13449,
+        "event_title_id": 5933,
+        "keyword": "사과먹으렴",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13450,
+        "event_title_id": 5934,
+        "keyword": "인형을 주마",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13451,
+        "event_title_id": 5934,
+        "keyword": "친구가 기뻐하면 좋겠네!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13452,
+        "event_title_id": 5934,
+        "keyword": "근성이야, 근성! 응원할게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13453,
+        "event_title_id": 5934,
+        "keyword": "인형을주마",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13454,
+        "event_title_id": 5935,
+        "keyword": "요리를 더 먹어보면 알 수 있겠지",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13455,
+        "event_title_id": 5935,
+        "keyword": "그래스 양이 좋아하는 것",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13456,
+        "event_title_id": 5935,
+        "keyword": "민들레 지식을 더 늘리면 알 수 있겠지",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13457,
+        "event_title_id": 5935,
+        "keyword": "그래스양이좋아하는것",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13458,
+        "event_title_id": 5936,
+        "keyword": "포공영에 담긴 마음",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13459,
+        "event_title_id": 5937,
+        "keyword": "장수 프로그램의 비결",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13460,
+        "event_title_id": 5938,
+        "keyword": "손끝에 마음을 담아",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13461,
+        "event_title_id": 5938,
+        "keyword": "착실하게 해내는 인내력이 대단해!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13462,
+        "event_title_id": 5938,
+        "keyword": "라이브에서 꼭 쓰자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13463,
+        "event_title_id": 5938,
+        "keyword": "손끝에마음을담아",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13464,
+        "event_title_id": 5939,
+        "keyword": "내가 할 수 있는 일 전부",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13465,
+        "event_title_id": 5939,
+        "keyword": "내가 할 수 있는 일, 전부",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13466,
+        "event_title_id": 5939,
+        "keyword": "그럼 포기할 수 없겠네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13467,
+        "event_title_id": 5939,
+        "keyword": "나도 응원할게",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13468,
+        "event_title_id": 5939,
+        "keyword": "내가할수있는일전부",
+        "source": "title",
+        "item_order": 0
     }
 ]
