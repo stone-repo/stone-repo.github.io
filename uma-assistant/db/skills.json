@@ -19642,6 +19642,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1199,
+        "skill_name": "세이리오스",
+        "ingame_description": "남은 거리 800m 지점에서 중위권 그룹에 있으면 가속력이 많이 조금 상승하며, 2400m 레이스에서 인기가 높으면 다소 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 358,
         "skill_name": "도망자",
         "ingame_description": "최종 코너에서 선두를 유지하기 쉬워진다＜작전・도주＞",
@@ -21553,6 +21566,19 @@
             "최종 코너",
             "최종코너 진입이후"
         ]
+    },
+    {
+        "skill_id": 879,
+        "skill_name": "세이리오스",
+        "ingame_description": "남은 거리 800m 지점에서 중위권 그룹에 있으면 가속력이 약간 상승하며, 2400m 레이스에서 인기가 높으면 많이 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 6,
+        "skill_type_name": "가속력 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_accel_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 134,
@@ -29606,6 +29632,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1098,
+        "skill_name": "야간○",
+        "ingame_description": "야간 레이스에 다소 강해진다",
+        "require_pt": 70,
+        "cool_time": 0.0,
+        "skill_type_id": 22,
+        "skill_type_name": "패시브 지능 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_intellect_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 111,
         "skill_name": "럭키 세븐",
         "ingame_description": "그룹 번호가 7일 때 다소 좋은 일이 생기기도 한다",
@@ -33782,6 +33821,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 616,
+        "skill_name": "일등성의 아라베스크",
+        "ingame_description": "레이스 중반에 전방에 있으면 속도가 많이 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 687,
         "skill_name": "조금 좋은 걸 모아서",
         "ingame_description": "레이스 중반에 중위권 그룹에 있으면 한동안 속도가 상승한다＜작전·선입＞",
@@ -33889,6 +33941,19 @@
         "skill_id": 747,
         "skill_name": "두근두근☆마블러스 존",
         "ingame_description": "레이스 중반에 후방에 있으면 속도가 많이 상승한다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 739,
+        "skill_name": "흔들림 없는 애스터",
+        "ingame_description": "라스트 스퍼트 중에 직선에서 좋은 위치에 있으면 속도가 많이 상승한다＜중거리＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 64,
