@@ -5913,6 +5913,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1200,
+        "skill_name": "여름 하늘 헐레이션",
+        "ingame_description": "후반 코너에서 좋은 위치에 있으면 잠시 동안 속도가 다소 상승하며, 나카야마 경기장이라면 스피드 능력에 따라 가속력도 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 178,
         "skill_name": "외곽 추월 준비",
         "ingame_description": "최종 코너 바깥쪽에서 추월하면 속도가 약간 상승한다＜작전・선입＞",
@@ -16661,6 +16674,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 863,
+        "skill_name": "여름 하늘 헐레이션",
+        "ingame_description": "후반 코너에서 좋은 위치에 있으면 잠시 동안 속도가 많이 상승하며, 나카야마 경기장이라면 스피드 능력에 따라 가속력도 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 868,
         "skill_name": "벽력의 아우프헤벤",
         "ingame_description": "레이스 종반에 후방에 있으면 최종 직선에서 힘을 해방해 앞으로 나가며, 도쿄 경기장의 중거리 레이스라면 아주 많이 앞으로 나간다",
@@ -17128,6 +17154,19 @@
         "skill_id": 821,
         "skill_name": "Flowering Dreams",
         "ingame_description": "남은 거리가 200m일 때 2등~중위권 그룹이 라면 속도가 상승하고, 근처에 우마무스메가 3명 이상 있으면 약간 앞으로 나간다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 861,
+        "skill_name": "수평선 저 너머로",
+        "ingame_description": "종반 돌입 시 선두라면 다소 앞으로 나가며 그곳이 제3 코너이고 중반에 크게 거리를 벌린 선두일 경우에는 많이 앞으로 나간다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -19157,6 +19196,49 @@
         ]
     },
     {
+        "skill_id": 970,
+        "skill_name": "제일 먼저",
+        "ingame_description": "스타트 시에 가속력이 약간 상승한다＜중거리＞",
+        "require_pt": 120,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 725,
+                "duration": "1.5",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 319,
+                        "description": "레이스 초반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "초반",
+            "중거리",
+            "코스거리"
+        ]
+    },
+    {
         "skill_id": 971,
         "skill_name": "한달음",
         "ingame_description": "레이스 종반에 후방에서 추월하려고 하면 가속력이 약간 상승한다 ＜단거리/마일＞",
@@ -20468,6 +20550,49 @@
             "레인",
             "선행",
             "경쟁 상황"
+        ]
+    },
+    {
+        "skill_id": 921,
+        "skill_name": "누구보다 앞으로!",
+        "ingame_description": "스타트 시에 가속력이 상승한다＜중거리＞",
+        "require_pt": 120,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 726,
+                "duration": "1.5",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 319,
+                        "description": "레이스 초반",
+                        "extra_description": "",
+                        "priority": 2
+                    },
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "초반",
+            "중거리",
+            "코스거리"
         ]
     },
     {
@@ -26831,6 +26956,19 @@
         ]
     },
     {
+        "skill_id": 1087,
+        "skill_name": "탐구심",
+        "ingame_description": "스피드가 더욱 높으면 스피드가 약간 상승하고 지능도 더욱 높다면 스피드가 조금 상승한다 ＜선행·중거리＞",
+        "require_pt": 120,
+        "cool_time": 0.0,
+        "skill_type_id": 16,
+        "skill_type_name": "패시브 스피드 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 19,
         "skill_name": "심퍼시",
         "ingame_description": "심퍼시한 마음을 가진 우마무스메가 많은 레이스라면 능력이 다소 상승한다",
@@ -27290,6 +27428,19 @@
         "skill_condition_tags": [
             "경기장"
         ]
+    },
+    {
+        "skill_id": 1080,
+        "skill_name": "싱귤래러티",
+        "ingame_description": "스피드가 더욱 높으면 스피드가 상승하고 지능도 더욱 높다면 스피드가 많이 상승한다 ＜선행·중거리＞",
+        "require_pt": 120,
+        "cool_time": 0.0,
+        "skill_type_id": 17,
+        "skill_type_name": "패시브 스피드 증가 (레어)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_rare.png",
+        "grade": "R",
+        "skill_situations": null,
+        "skill_condition_tags": []
     },
     {
         "skill_id": 1077,
@@ -33834,6 +33985,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 655,
+        "skill_name": "찬란한 룩손",
+        "ingame_description": "레이스 중반에 속도가 상승하며 스피드 능력에 따라 효과가 증가한다 ＜작전·선행＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 687,
         "skill_name": "조금 좋은 걸 모아서",
         "ingame_description": "레이스 중반에 중위권 그룹에 있으면 한동안 속도가 상승한다＜작전·선입＞",
@@ -33876,6 +34040,19 @@
         "skill_id": 720,
         "skill_name": "별 바다를 달려서",
         "ingame_description": "레이스 중에 스킬을 13회 발동하면 한동안 앞으로 나간다＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 743,
+        "skill_name": "푸른색 이스케이프",
+        "ingame_description": "레이스 중반에 전방에 있으면 속도가 많이 상승한다＜작전·도주＞",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 64,
@@ -34055,6 +34232,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 772,
+        "skill_name": "푸른 하늘을 달리는 라파가",
+        "ingame_description": "스타트 시에 가속력이 많이 상승한다 ＜중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 65,
+        "skill_type_name": "가속력 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_accel_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 776,
         "skill_name": "대역전극",
         "ingame_description": "레이스 종반이 시작될 때 중위권 그룹 이후에 있으면 한동안 가속력이 상승한다＜중거리＞",
@@ -34141,6 +34331,19 @@
         "skill_type_id": 66,
         "skill_type_name": "지구력 회복 (진화)",
         "skill_icon_url": "images/skill-types/skill_health_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1071,
+        "skill_name": "라플라스의 악마",
+        "ingame_description": "스피드가 더욱 높으면 스피드가 많이 상승하고 지능도 더욱 높다면 스피드가 아주 많이 상승한다 ＜선행·중거리＞",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 71,
+        "skill_type_name": "패시브 스피드 증가 (진화)",
+        "skill_icon_url": "images/skill-types/skill_passive_speed_evolution.png",
         "grade": "E",
         "skill_situations": null,
         "skill_condition_tags": []
