@@ -94274,5 +94274,306 @@
         "keyword": "내가할수있는일전부",
         "source": "title",
         "item_order": 0
+    },
+    {
+        "id": 13469,
+        "event_title_id": 5940,
+        "keyword": "파도 소리에 삼켜져",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13470,
+        "event_title_id": 5940,
+        "keyword": "트레이닝 장소도 따냈으니 마음껏 달리자",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13471,
+        "event_title_id": 5940,
+        "keyword": "대활약이었으니 어쩔 수 없지!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13472,
+        "event_title_id": 5940,
+        "keyword": "파도소리에삼켜져",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13473,
+        "event_title_id": 5941,
+        "keyword": "좀 더 편하게 있어 보자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13474,
+        "event_title_id": 5941,
+        "keyword": "너무 신경 쓰는 것도 안 좋아",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13475,
+        "event_title_id": 5941,
+        "keyword": "시원한 바람을 찾아서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13476,
+        "event_title_id": 5941,
+        "keyword": "시원한바람을찾아서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13477,
+        "event_title_id": 5942,
+        "keyword": "파도, 바람 이벤트에서 각자 다른 선택지를 한 경우",
+        "source": "item",
+        "item_order": 3
+    },
+    {
+        "id": 13478,
+        "event_title_id": 5942,
+        "keyword": "드넓은 바다를 끝없이",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13479,
+        "event_title_id": 5942,
+        "keyword": "드넓은바다를끝없이",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13480,
+        "event_title_id": 5942,
+        "keyword": "파도, 바람 이벤트 모두 1번 선택지를 고를 경우",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13481,
+        "event_title_id": 5942,
+        "keyword": "파도, 바람 이벤트 모두 2번 선택지를 고를 경우",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13482,
+        "event_title_id": 5943,
+        "keyword": "공포 미역 인간",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13483,
+        "event_title_id": 5943,
+        "keyword": "공포! 미역 인간",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13484,
+        "event_title_id": 5943,
+        "keyword": "여기서 연구하는 건 금지야!",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13485,
+        "event_title_id": 5943,
+        "keyword": "…멀쩡한 약이 완성되길 기도할게",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13486,
+        "event_title_id": 5943,
+        "keyword": "공포미역인간",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13487,
+        "event_title_id": 5944,
+        "keyword": "증거 인멸에 가담해 버렸네…",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13488,
+        "event_title_id": 5944,
+        "keyword": "위험할 뻔했네",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13489,
+        "event_title_id": 5944,
+        "keyword": "혼돈의 바비큐",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13490,
+        "event_title_id": 5944,
+        "keyword": "혼돈의바비큐",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13491,
+        "event_title_id": 5945,
+        "keyword": "어라, 조금 전까지 있었는데!?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13492,
+        "event_title_id": 5945,
+        "keyword": "정적에 잠겨",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13493,
+        "event_title_id": 5945,
+        "keyword": "정적에잠겨",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13494,
+        "event_title_id": 5945,
+        "keyword": "…여기에는 없어",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13495,
+        "event_title_id": 5946,
+        "keyword": "날 부르는 따스한 소리",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13496,
+        "event_title_id": 5946,
+        "keyword": "어디 갔을 만한 데는 없어?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13497,
+        "event_title_id": 5946,
+        "keyword": "나도 같이 찾을까?",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13498,
+        "event_title_id": 5946,
+        "keyword": "날부르는따스한소리",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13499,
+        "event_title_id": 5947,
+        "keyword": "수면 저편에",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13500,
+        "event_title_id": 5947,
+        "keyword": "전보다 즐거워 보이네!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13501,
+        "event_title_id": 5947,
+        "keyword": "기왕이니 트레이닝을 봐 줄까?",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13502,
+        "event_title_id": 5947,
+        "keyword": "수면저편에",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13503,
+        "event_title_id": 5948,
+        "keyword": "세 절친, 최강 노점",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13504,
+        "event_title_id": 5949,
+        "keyword": "동료란…",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13505,
+        "event_title_id": 5950,
+        "keyword": "정상 작전",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13506,
+        "event_title_id": 5950,
+        "keyword": "이대로 우승으로 가 보자!",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13507,
+        "event_title_id": 5950,
+        "keyword": "정상작전",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13508,
+        "event_title_id": 5950,
+        "keyword": "팀워크가 완벽하네",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13509,
+        "event_title_id": 5951,
+        "keyword": "아끼기에 전해지지 않는다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13510,
+        "event_title_id": 5952,
+        "keyword": "아끼기에 나아가지 못한다",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13511,
+        "event_title_id": 5953,
+        "keyword": "아끼기에 떠나가지 못한다",
+        "source": "origin",
+        "item_order": 0
     }
 ]
