@@ -151,65 +151,6 @@
         ]
     },
     {
-        "skill_id": 229,
-        "skill_name": "남김 없이",
-        "ingame_description": "라스트 스퍼트 중에 직선에서 좋은 위치에 있으면 속도가 약간 상승한다＜중거리＞",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 1,
-        "skill_type_name": "속도 상승 (노멀)",
-        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
-        "grade": "N",
-        "skill_situations": [
-            {
-                "skill_situation_id": 223,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.15
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 230,
-                        "description": "직선",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 315,
-                        "description": "라스트 스퍼트",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 333,
-                        "description": "중거리",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 356,
-                        "description": "순위 비율 20% 이상, 60% 이하",
-                        "extra_description": "챔피언스 미팅 : 2~5위 | 팀 레이스 : 2~7위 | 풀 게이트 : 4~11위",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "순위",
-            "직선",
-            "중거리",
-            "중간순위",
-            "코스거리",
-            "라스트스퍼트",
-            "1위아닌전방"
-        ]
-    },
-    {
         "skill_id": 569,
         "skill_name": "기합충분",
         "ingame_description": "최종 코너에서 후방에 있으면 속도가 약간 상승한다",
@@ -1103,6 +1044,19 @@
         ]
     },
     {
+        "skill_id": 1201,
+        "skill_name": "Road to Glory",
+        "ingame_description": "레이스 종반 직전에 좋은 위치에 있는 경우, 남은 거리 400m 지점에서 속도가 다소 상승한다",
+        "require_pt": 200,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 171,
         "skill_name": "코너 달인○",
         "ingame_description": "코너에 능숙해져 속도가 약간 상승한다",
@@ -1457,7 +1411,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -2672,7 +2626,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -3452,7 +3406,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -3547,7 +3501,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -4091,7 +4045,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -4273,7 +4227,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -5389,7 +5343,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -5426,7 +5380,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -5478,7 +5432,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -5949,7 +5903,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -6436,6 +6390,39 @@
             "중거리",
             "코스거리"
         ]
+    },
+    {
+        "skill_id": 939,
+        "skill_name": "포기하지 않는 마음",
+        "ingame_description": "레이스 중반 코너에서 한동안 속도가 아주 조금 상승한다",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 730,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.05
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 451,
+                        "description": "중반 무작위 코너",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
     },
     {
         "skill_id": 940,
@@ -7498,7 +7485,7 @@
     {
         "skill_id": 955,
         "skill_name": "타개책",
-        "ingame_description": "레이스 중반에 최후방 부근에서 속도가 약간 상승하며, 약간 코스를 능숙하게 잡는다 ＜작전・추입＞",
+        "ingame_description": "레이스 중반에 후방에 있으면 속도가 약간 상승하며, 약간 코스를 능숙하게 잡는다 <작전・추입>",
         "require_pt": 180,
         "cool_time": 0.0,
         "skill_type_id": 1,
@@ -7523,12 +7510,6 @@
                 ],
                 "conditions": [
                     {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
                         "skill_condition_id": 330,
                         "description": "추입",
                         "extra_description": "",
@@ -7539,13 +7520,18 @@
                         "description": "순위 비율 75% 이상",
                         "extra_description": "챔피언스 미팅 : 7~9위 | 팀 레이스 : 9~12위 | 풀 게이트 : 14~18위",
                         "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
                     }
                 ]
             }
         ],
         "skill_condition_tags": [
             "각질",
-            "중반",
             "추입"
         ]
     },
@@ -8333,6 +8319,63 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 229,
+        "skill_name": "남김 없이",
+        "ingame_description": "종반의 최종 직선에서 좋은 위치에 있으면 속도가 약간 상승한다 <중거리>",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 1,
+        "skill_type_name": "속도 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_speed_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 223,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.15
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 356,
+                        "description": "순위 비율 20% 이상, 60% 이하",
+                        "extra_description": "챔피언스 미팅 : 2~5위 | 팀 레이스 : 2~7위 | 풀 게이트 : 4~11위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 415,
+                        "description": "최종 직선",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 448,
+                        "description": "레이스 종반 및 이후",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "순위",
+            "중거리",
+            "중간순위",
+            "코스거리",
+            "1위아닌전방"
+        ]
+    },
+    {
         "skill_id": 244,
         "skill_name": "마일의 지배자",
         "ingame_description": "레이스 초반에 선두라면 거리를 벌리기 쉬워진다＜마일＞",
@@ -9008,7 +9051,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -9121,7 +9164,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -10142,65 +10185,6 @@
         ]
     },
     {
-        "skill_id": 256,
-        "skill_name": "결사의 각오",
-        "ingame_description": "라스트 스퍼트 중에 직선에서 좋은 위치에 있으면 속도가 상승한다＜중거리＞",
-        "require_pt": 160,
-        "cool_time": 0.0,
-        "skill_type_id": 2,
-        "skill_type_name": "속도 상승 (레어)",
-        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 250,
-                "duration": "3",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.35
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 230,
-                        "description": "직선",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 315,
-                        "description": "라스트 스퍼트",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 333,
-                        "description": "중거리",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 356,
-                        "description": "순위 비율 20% 이상, 60% 이하",
-                        "extra_description": "챔피언스 미팅 : 2~5위 | 팀 레이스 : 2~7위 | 풀 게이트 : 4~11위",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "순위",
-            "직선",
-            "중거리",
-            "중간순위",
-            "코스거리",
-            "라스트스퍼트",
-            "1위아닌전방"
-        ]
-    },
-    {
         "skill_id": 568,
         "skill_name": "파죽지세",
         "ingame_description": "최종 코너에서 후방에 있으면 속도가 상승한다",
@@ -10306,6 +10290,63 @@
             "중거리",
             "전방순위",
             "코스거리"
+        ]
+    },
+    {
+        "skill_id": 256,
+        "skill_name": "결사의 각오",
+        "ingame_description": "종반의 최종 직선에서 좋은 위치에 있으면 속도가 상승한다 <중거리>",
+        "require_pt": 160,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 250,
+                "duration": "3",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 333,
+                        "description": "중거리",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 356,
+                        "description": "순위 비율 20% 이상, 60% 이하",
+                        "extra_description": "챔피언스 미팅 : 2~5위 | 팀 레이스 : 2~7위 | 풀 게이트 : 4~11위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 415,
+                        "description": "최종 직선",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 448,
+                        "description": "레이스 종반 및 이후",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "순위",
+            "중거리",
+            "중간순위",
+            "코스거리",
+            "1위아닌전방"
         ]
     },
     {
@@ -10942,6 +10983,39 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 910,
+        "skill_name": "네버 기브 업",
+        "ingame_description": "레이스 중반 코너에서 한동안 속도가 다소 상승한다",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 729,
+                "duration": "4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.25
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 451,
+                        "description": "중반 무작위 코너",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 913,
         "skill_name": "띄워☆보자↑텐션",
         "ingame_description": "레이스 중반에 속도가 상승하고 추가로 지구력을 다소 회복한다 ＜장거리＞",
@@ -11267,60 +11341,6 @@
             "전방순위",
             "중간순위",
             "라스트스퍼트"
-        ]
-    },
-    {
-        "skill_id": 914,
-        "skill_name": "브레이크 스루",
-        "ingame_description": "레이스 중반에 최후방 부근에서 속도가 상승 하며 코스를 능숙하게 잡는다＜작전・추입＞",
-        "require_pt": 180,
-        "cool_time": 0.0,
-        "skill_type_id": 2,
-        "skill_type_name": "속도 상승 (레어)",
-        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
-        "grade": "R",
-        "skill_situations": [
-            {
-                "skill_situation_id": 643,
-                "duration": "2.4",
-                "effects": [
-                    {
-                        "skill_effect_id": 1,
-                        "effect_name": "속도",
-                        "numeric_value": 0.35
-                    },
-                    {
-                        "skill_effect_id": 6,
-                        "effect_name": "위치 변경속도",
-                        "numeric_value": 0.035
-                    }
-                ],
-                "conditions": [
-                    {
-                        "skill_condition_id": 241,
-                        "description": "레이스 중반",
-                        "extra_description": "",
-                        "priority": 2
-                    },
-                    {
-                        "skill_condition_id": 330,
-                        "description": "추입",
-                        "extra_description": "",
-                        "priority": 0
-                    },
-                    {
-                        "skill_condition_id": 406,
-                        "description": "순위 비율 75% 이상",
-                        "extra_description": "챔피언스 미팅 : 7~9위 | 팀 레이스 : 9~12위 | 풀 게이트 : 14~18위",
-                        "priority": 0
-                    }
-                ]
-            }
-        ],
-        "skill_condition_tags": [
-            "각질",
-            "중반",
-            "추입"
         ]
     },
     {
@@ -11713,6 +11733,59 @@
         ]
     },
     {
+        "skill_id": 914,
+        "skill_name": "브레이크 스루",
+        "ingame_description": "레이스 중반에 후방에 있으면 속도가 상승하며 코스를 능숙하게 잡는다 <작전・추입>",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 2,
+        "skill_type_name": "속도 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_speed_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 643,
+                "duration": "2.4",
+                "effects": [
+                    {
+                        "skill_effect_id": 1,
+                        "effect_name": "속도",
+                        "numeric_value": 0.35
+                    },
+                    {
+                        "skill_effect_id": 6,
+                        "effect_name": "위치 변경속도",
+                        "numeric_value": 0.035
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 330,
+                        "description": "추입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 406,
+                        "description": "순위 비율 75% 이상",
+                        "extra_description": "챔피언스 미팅 : 7~9위 | 팀 레이스 : 9~12위 | 풀 게이트 : 14~18위",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 421,
+                        "description": "레이스 중반 무작위",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "각질",
+            "추입"
+        ]
+    },
+    {
         "skill_id": 279,
         "skill_name": "선두의 경치는 양보할 수 없어…!",
         "ingame_description": "최종 직선에서 거리를 벌린 채 선두에 있으면 한층 더 다리를 써서 속도가 상승한다",
@@ -11983,7 +12056,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -12381,7 +12454,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -12438,7 +12511,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -12736,7 +12809,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -13148,7 +13221,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -13485,7 +13558,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -13516,7 +13589,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -13635,7 +13708,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -14175,7 +14248,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -14212,7 +14285,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -14318,7 +14391,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -15094,7 +15167,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -15177,7 +15250,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -16273,7 +16346,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -16521,6 +16594,19 @@
         "skill_id": 832,
         "skill_name": "Queen's Lumination",
         "ingame_description": "레이스 후반 직선에서 전방에 있으면 속도가 계속해서 다소 상승하며, 추가로 선두에서 뒤에 있는 우마무스메와 가까울 경우 효과가 증가한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 3,
+        "skill_type_name": "속도 상승 (고유)",
+        "skill_icon_url": "images/skill-types/skill_speed_unique.png",
+        "grade": "U",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 833,
+        "skill_name": "Road to Glory",
+        "ingame_description": "레이스 종반 직전에 좋은 위치에 있는 경우, 남은 거리 400m 지점에서 속도가 많이 상승한다. 장거리에서 스킬 발동 시, 선두이거나 선두로부터 1마신 이내에 있으면 아주 많이 상승한다",
         "require_pt": 0,
         "cool_time": 0.0,
         "skill_type_id": 3,
@@ -17810,7 +17896,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -17965,7 +18051,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -18197,7 +18283,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -18316,7 +18402,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -18699,7 +18785,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -18730,7 +18816,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -18783,7 +18869,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -19735,6 +19821,67 @@
         "grade": "N",
         "skill_situations": null,
         "skill_condition_tags": []
+    },
+    {
+        "skill_id": 972,
+        "skill_name": "회심의 한 걸음",
+        "ingame_description": "종반의 최종 코너에서 중위권 그룹 이전에 있을 때 결승점까지 멀면 가속력이 약간 상승한다 &lt;선행/선입&gt;",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 4,
+        "skill_type_name": "가속력 상승 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_accel_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 728,
+                "duration": "0.9",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.2
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 239,
+                        "description": "최종 코너 진입 이후, 코너",
+                        "extra_description": "",
+                        "priority": 3
+                    },
+                    {
+                        "skill_condition_id": 416,
+                        "description": "선행 또는 선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 448,
+                        "description": "레이스 종반 및 이후",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 449,
+                        "description": "남은 거리 600m 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 450,
+                        "description": "순위 비율 70% 이하",
+                        "extra_description": "챔피언스 미팅 : 1~6위 | 팀 레이스 : 1~8위 | 풀 게이트 : 1~13위",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "코너",
+            "최종 코너",
+            "최종코너 진입이후"
+        ]
     },
     {
         "skill_id": 358,
@@ -20739,6 +20886,67 @@
         ]
     },
     {
+        "skill_id": 1202,
+        "skill_name": "결정타",
+        "ingame_description": "종반의 최종 코너에서 중위권 그룹 이전에 있을 때 결승점까지 멀면 가속력이 상승한다 &lt;선행/선입&gt;",
+        "require_pt": 180,
+        "cool_time": 0.0,
+        "skill_type_id": 5,
+        "skill_type_name": "가속력 상승 (레어)",
+        "skill_icon_url": "images/skill-types/skill_accel_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 727,
+                "duration": "0.9",
+                "effects": [
+                    {
+                        "skill_effect_id": 2,
+                        "effect_name": "가속",
+                        "numeric_value": 0.4
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 239,
+                        "description": "최종 코너 진입 이후, 코너",
+                        "extra_description": "",
+                        "priority": 3
+                    },
+                    {
+                        "skill_condition_id": 416,
+                        "description": "선행 또는 선입",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 448,
+                        "description": "레이스 종반 및 이후",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 449,
+                        "description": "남은 거리 600m 이상",
+                        "extra_description": "",
+                        "priority": 0
+                    },
+                    {
+                        "skill_condition_id": 450,
+                        "description": "순위 비율 70% 이하",
+                        "extra_description": "챔피언스 미팅 : 1~6위 | 팀 레이스 : 1~8위 | 풀 게이트 : 1~13위",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": [
+            "코너",
+            "최종 코너",
+            "최종코너 진입이후"
+        ]
+    },
+    {
         "skill_id": 926,
         "skill_name": "무아몽중",
         "ingame_description": "라스트 스퍼트 때 중위권 그룹 이후에 있으면 지구력을 다소 사용해서 가속력이 상승한다 ＜선입・장거리＞",
@@ -21064,7 +21272,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -21246,7 +21454,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -21386,7 +21594,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -22479,7 +22687,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -25244,7 +25452,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -25297,7 +25505,7 @@
                 "conditions": [
                     {
                         "skill_condition_id": 239,
-                        "description": "최종 코너 진입 이후, 나오는 코너",
+                        "description": "최종 코너 진입 이후, 코너",
                         "extra_description": "",
                         "priority": 3
                     },
@@ -28736,6 +28944,72 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 1203,
+        "skill_name": "롱샹 경기장◯",
+        "ingame_description": "롱샹 경기장에 다소 강해진다",
+        "require_pt": 70,
+        "cool_time": 0.0,
+        "skill_type_id": 18,
+        "skill_type_name": "패시브 스태미나 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_stamina_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 731,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 8,
+                        "effect_name": "스태미나 보정",
+                        "numeric_value": 40
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 452,
+                        "description": "롱샹 지역에서 개최되는 레이스",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1204,
+        "skill_name": "롱샹 경기장◎",
+        "ingame_description": "롱샹 경기장에 강해진다",
+        "require_pt": 90,
+        "cool_time": 0.0,
+        "skill_type_id": 18,
+        "skill_type_name": "패시브 스태미나 증가 (노멀)",
+        "skill_icon_url": "images/skill-types/skill_passive_stamina_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 732,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 8,
+                        "effect_name": "스태미나 보정",
+                        "numeric_value": 60
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 452,
+                        "description": "롱샹 지역에서 개최되는 레이스",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 64,
         "skill_name": "요도가 점지한 아이",
         "ingame_description": "교토 경기장에 강해져서 스태미나, 지능, 스피드가 상승한다",
@@ -28779,6 +29053,49 @@
         "skill_condition_tags": [
             "경기장"
         ]
+    },
+    {
+        "skill_id": 1083,
+        "skill_name": "롱샹이 점지한 아이",
+        "ingame_description": "롱샹 경기장에 강해져서 스태미나, 지능, 스피드가 상승한다",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 19,
+        "skill_type_name": "패시브 스태미나 증가 (레어)",
+        "skill_icon_url": "images/skill-types/skill_passive_stamina_rare.png",
+        "grade": "R",
+        "skill_situations": [
+            {
+                "skill_situation_id": 734,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 7,
+                        "effect_name": "스피드 보정",
+                        "numeric_value": 60
+                    },
+                    {
+                        "skill_effect_id": 8,
+                        "effect_name": "스태미나 보정",
+                        "numeric_value": 60
+                    },
+                    {
+                        "skill_effect_id": 11,
+                        "effect_name": "지능 보정",
+                        "numeric_value": 60
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 452,
+                        "description": "롱샹 지역에서 개최되는 레이스",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
     },
     {
         "skill_id": 84,
@@ -33065,6 +33382,39 @@
         ]
     },
     {
+        "skill_id": 1205,
+        "skill_name": "롱샹 경기장×",
+        "ingame_description": "롱샹 경기장에 다소 약해진다",
+        "require_pt": 40,
+        "cool_time": 0.0,
+        "skill_type_id": 39,
+        "skill_type_name": "배드스킬 패시브 스태미나 감소 (노멀)",
+        "skill_icon_url": "images/skill-types/badskill_passive_stamina_normal.png",
+        "grade": "N",
+        "skill_situations": [
+            {
+                "skill_situation_id": 733,
+                "duration": "0",
+                "effects": [
+                    {
+                        "skill_effect_id": 8,
+                        "effect_name": "스태미나 보정",
+                        "numeric_value": -40
+                    }
+                ],
+                "conditions": [
+                    {
+                        "skill_condition_id": 452,
+                        "description": "롱샹 지역에서 개최되는 레이스",
+                        "extra_description": "",
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 86,
         "skill_name": "양호한 경기장×",
         "ingame_description": "「양호」상태인 경기장에 다소 약해진다",
@@ -33946,6 +34296,19 @@
         "skill_condition_tags": []
     },
     {
+        "skill_id": 674,
+        "skill_name": "정도",
+        "ingame_description": "레이스 종반이 다가왔을 때 전방에 있으면 속도가 상승하고, 그 후 라스트 스퍼트에서 가속력이 약간 상승한다 &lt;장거리&gt;",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 64,
+        "skill_type_name": "속도 상승 (진화)",
+        "skill_icon_url": "images/skill-types/skill_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
         "skill_id": 714,
         "skill_name": "한 송이를 피워내요!",
         "ingame_description": "레이스 종반이 시작될 때 여력이 충분하면 앞으로 많이 나간다＜선입·장거리＞",
@@ -34357,6 +34720,19 @@
         "skill_type_id": 71,
         "skill_type_name": "패시브 스피드 증가 (진화)",
         "skill_icon_url": "images/skill-types/skill_passive_speed_evolution.png",
+        "grade": "E",
+        "skill_situations": null,
+        "skill_condition_tags": []
+    },
+    {
+        "skill_id": 1075,
+        "skill_name": "잔디 위의 주인공",
+        "ingame_description": "파워와 스피드가 다소 상승하며 「양호」 상태인 경기장이라면 많이 상승한다 &lt;잔디&gt;",
+        "require_pt": 0,
+        "cool_time": 0.0,
+        "skill_type_id": 73,
+        "skill_type_name": "패시브 파워 증가 (진화)",
+        "skill_icon_url": "images/skill-types/skill_passive_power_evolution.png",
         "grade": "E",
         "skill_situations": null,
         "skill_condition_tags": []
