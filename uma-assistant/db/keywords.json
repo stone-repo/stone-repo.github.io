@@ -95527,5 +95527,593 @@
         "keyword": "하늘 아래서 전하자",
         "source": "origin",
         "item_order": 0
+    },
+    {
+        "id": 13648,
+        "event_title_id": 5993,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13649,
+        "event_title_id": 5993,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13650,
+        "event_title_id": 5993,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13651,
+        "event_title_id": 5993,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13652,
+        "event_title_id": 5994,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13653,
+        "event_title_id": 5994,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13654,
+        "event_title_id": 5994,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13655,
+        "event_title_id": 5994,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13656,
+        "event_title_id": 5995,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13657,
+        "event_title_id": 5995,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13658,
+        "event_title_id": 5995,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13659,
+        "event_title_id": 5995,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13660,
+        "event_title_id": 5996,
+        "keyword": "그 도시의 추억은",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13661,
+        "event_title_id": 5996,
+        "keyword": "파리 거리에서 있었던 일을 말한다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13662,
+        "event_title_id": 5996,
+        "keyword": "경기장에서 있었던 일을 말한다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13663,
+        "event_title_id": 5996,
+        "keyword": "그도시의추억은",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13664,
+        "event_title_id": 5997,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13665,
+        "event_title_id": 5997,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13666,
+        "event_title_id": 5997,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13667,
+        "event_title_id": 5997,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13668,
+        "event_title_id": 5998,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13669,
+        "event_title_id": 5998,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13670,
+        "event_title_id": 5998,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13671,
+        "event_title_id": 5998,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13672,
+        "event_title_id": 5999,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13673,
+        "event_title_id": 5999,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13674,
+        "event_title_id": 5999,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13675,
+        "event_title_id": 5999,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13676,
+        "event_title_id": 6000,
+        "keyword": "그 도시의 추억은",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13677,
+        "event_title_id": 6000,
+        "keyword": "파리 거리에서 있었던 일을 말한다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13678,
+        "event_title_id": 6000,
+        "keyword": "경기장에서 있었던 일을 말한다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13679,
+        "event_title_id": 6000,
+        "keyword": "그도시의추억은",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13680,
+        "event_title_id": 6001,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13681,
+        "event_title_id": 6001,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13682,
+        "event_title_id": 6001,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13683,
+        "event_title_id": 6001,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13684,
+        "event_title_id": 6002,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13685,
+        "event_title_id": 6002,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13686,
+        "event_title_id": 6002,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13687,
+        "event_title_id": 6002,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13688,
+        "event_title_id": 6003,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13689,
+        "event_title_id": 6003,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13690,
+        "event_title_id": 6003,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13691,
+        "event_title_id": 6003,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13692,
+        "event_title_id": 6004,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13693,
+        "event_title_id": 6004,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13694,
+        "event_title_id": 6004,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13695,
+        "event_title_id": 6004,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13696,
+        "event_title_id": 6005,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13697,
+        "event_title_id": 6005,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13698,
+        "event_title_id": 6005,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13699,
+        "event_title_id": 6005,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13700,
+        "event_title_id": 6006,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13701,
+        "event_title_id": 6006,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13702,
+        "event_title_id": 6006,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13703,
+        "event_title_id": 6006,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13704,
+        "event_title_id": 6007,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13705,
+        "event_title_id": 6007,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13706,
+        "event_title_id": 6007,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13707,
+        "event_title_id": 6007,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13708,
+        "event_title_id": 6008,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13709,
+        "event_title_id": 6008,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13710,
+        "event_title_id": 6008,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13711,
+        "event_title_id": 6008,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13712,
+        "event_title_id": 6009,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13713,
+        "event_title_id": 6009,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13714,
+        "event_title_id": 6009,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13715,
+        "event_title_id": 6009,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13716,
+        "event_title_id": 6010,
+        "keyword": "(말을 걸어 볼까…?)",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13717,
+        "event_title_id": 6010,
+        "keyword": "(조금만 더 들어 보자)",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13718,
+        "event_title_id": 6010,
+        "keyword": "파리의 거리에서",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13719,
+        "event_title_id": 6010,
+        "keyword": "파리의거리에서",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13720,
+        "event_title_id": 6011,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13721,
+        "event_title_id": 6011,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13722,
+        "event_title_id": 6011,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13723,
+        "event_title_id": 6011,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13724,
+        "event_title_id": 6012,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13725,
+        "event_title_id": 6012,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13726,
+        "event_title_id": 6012,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13727,
+        "event_title_id": 6012,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
+    },
+    {
+        "id": 13728,
+        "event_title_id": 6013,
+        "keyword": "꼭 우승할 생각입니다",
+        "source": "item",
+        "item_order": 2
+    },
+    {
+        "id": 13729,
+        "event_title_id": 6013,
+        "keyword": "저도 기대하고 있습니다",
+        "source": "item",
+        "item_order": 1
+    },
+    {
+        "id": 13730,
+        "event_title_id": 6013,
+        "keyword": "그날을 믿고",
+        "source": "origin",
+        "item_order": 0
+    },
+    {
+        "id": 13731,
+        "event_title_id": 6013,
+        "keyword": "그날을믿고",
+        "source": "title",
+        "item_order": 0
     }
 ]
